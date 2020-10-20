@@ -1,0 +1,104 @@
+<!-- {{ printf "%#v" (index $.Site.Params.members 0)  }} -->
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ partial "header_image.html" . }}
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<h1>{{ .Title | default  (i18n "publications") }}</h1>
+
+			{{ with .Content }}
+			<div class="article-style" itemprop="articleBody">{{ . }}</div>
+			{{ end }}
+
+			{{/* Arrays of distinct years and authors. */}}
+			{{/* $.Scratch.Set "counter" 0 */}}
+			{{ range $Page := .Pages.ByDate.Reverse }}
+				{{ $year := print (.Date.Format "2006") }}
+				{{ $.Scratch.SetInMap "years" $year $year }}
+
+				{{/* range $author := $Page.Params.authors */}}
+					{{/* if not (in ($.Scratch.GetSortedMapValues "authors") $author) */}}
+					{{/*printf "%#v" $counter */}}
+					{{/* $.Scratch.Get "counter" | $.Scratch.SetInMap "authors" $author "%q" */}}
+					{{/* printf "%#v" $counter */}}
+					{{/* $.Scratch.Get "counter" | $.Scratch.Set "counter" (add "%prev" 1) */}}
+					{{/* printf "%#v" $counter */}}
+					{{/* end */}}
+				{{/* end */}}
+			{{ end }}
+
+			<!-- <p style="margin-left:5px;"> -->
+<!-- 				Filters:  -->
+<div id = 'filter_container'>
+	<div class = 'filter'>
+				Publication type:
+				<select class="pub-filters pubtype-select" data-filter-group="pubtype">
+					<option value="*">{{ i18n "filter_all" }}</option>
+					{{ range $index, $taxonomy := .Site.Taxonomies.publication_types }}
+					<option value=".pubtype-{{ (int $index) }}">
+						{{ index $.Site.Params.publication_types (int $index) }}
+					</option>
+					{{ end }}
+				</select>
+			</div>
+			
+				<div class = 'filter'>
+					Year: 
+				<select class="pub-filters" data-filter-group="year">
+					<option value="*">{{ i18n "filter_all" }}</option>
+					{{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
+					{{ range $year := sort $years_sorted "" "desc" }}
+					<option value=".year-{{ $year }}">
+						{{ $year }}
+					</option>
+					{{ end }}
+				</select>
+				</div>
+
+				<!-- Still needs fixing -->
+<!-- 				<div class = 'filter'>
+					Author: 
+				<select class="pub-filters" data-filter-group="author">
+					<option value="*">{{ i18n "filter_all" }}</option>
+					{{ range $index, $members := $.Site.Params.members }}
+					<option value=".author-{{ $index}}">
+						{{index $.Site.Params.members (int $index)}}
+					</option>
+					{{ end }}
+				</select>
+				</div> -->
+	</div>
+
+	<!-- <div class = 'spacer'></div> -->
+	<hr>
+
+			<div id="container-publications">
+				{{ range .Pages.ByDate.Reverse }}
+
+				<!-- Only list papers in which T. Gerstenberg is a co-author -->
+				{{if in .Params.authors "T. Gerstenberg"}}
+
+				<div class='grid-sizer col-md-12 isotope-item pubtype-{{ delimit .Params.publication_types " pubtype-" }} year-{{ .Date.Format "2006"}} author-{{ $.Scratch.Get "author" }}'>
+					{{ if eq $.Params.list_format 1 }}
+						{{ partial "publication_li_detailed" . }}
+					{{ else if eq $.Params.list_format 2 }}
+						{{ partial "publication_li_apa" . }}
+					{{ else if eq $.Params.list_format 3 }}
+						{{ partial "publication_li_mla" . }}
+					{{ else }}
+						{{ partial "publication_li_simple" . }}
+					{{ end }}
+				</div>
+				{{ end }}
+				
+				{{ end }}
+			</div>
+
+		</div>
+	</div>
+</div>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Causality in Cognition Lab</title>
+    <link>http://cicl.stanford.edu/publication_types/0/</link>
+    <description>Recent content in 0 on Causality in Cognition Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Tobias Gerstenberg</copyright>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cicl.stanford.edu/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A counterfactual simulation model of causation by omission</title>
+      <link>http://cicl.stanford.edu/publication/gerstenberg2020omission/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/gerstenberg2020omission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The trajectory of counterfactual simulation in development</title>
+      <link>http://cicl.stanford.edu/publication/kominsky2020trajectory/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/kominsky2020trajectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference from explanation</title>
+      <link>http://cicl.stanford.edu/publication/kirfel2020inference/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/kirfel2020inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic models of physical reasoning</title>
+      <link>http://cicl.stanford.edu/publication/smith2020probabilistic/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/smith2020probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A counterfactual simulation model of causal judgment</title>
+      <link>http://cicl.stanford.edu/publication/gerstenberg2020csm/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/gerstenberg2020csm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moral dynamics: Grounding moral judgment in intuitive physics and intuitive psychology</title>
+      <link>http://cicl.stanford.edu/publication/sosa2019dynamics/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/sosa2019dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting responsibility judgments from dispositional inferences and causal attributions</title>
+      <link>http://cicl.stanford.edu/publication/langenhoff2019voting/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cicl.stanford.edu/publication/langenhoff2019voting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
