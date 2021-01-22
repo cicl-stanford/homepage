@@ -60,8 +60,9 @@ weight = 3
 	id = "Sarah Wu"
 	position = "Graduate student"
 	image = "sarah_wu.jpg"
-	email = "sarahawu@mit.edu"
+	email = "sarahawu@stanford.edu"
 	github = "sarahawu"
+    website = "https://sarahawu.github.io/"
 	description = "I’m interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
 [[member]]
