@@ -209,7 +209,7 @@ weight = 3
 	image = "liang_zhou.jpg"
 	email = "liang.zhou.18@ucl.ac.uk"
 	github = "lzil"
-	website = "https://lzil.github.io"
+	website = "https://lzil.github.io/"
 	description = "I study how people learn and use structural knowledge, from both neural and cognitive perspectives. I like to stay hydrated."
 
 
