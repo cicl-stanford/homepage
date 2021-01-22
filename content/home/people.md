@@ -122,6 +122,15 @@ weight = 3
 	description = "I am interested in how people gain information about the physical and social world, the degree of accuracy and bias of this information, and how it is used to make decisions. Currently I am exploring collaborative projects involving motivated causal reasoning, early development of theory of mind, and cross-cultural differences in early abstract reasoning. I am working jointly with Dr. Hyowon Gweon's Social Learning Lab and Dr. Michael Frank's Language and Cognition Lab at Stanford. I enjoy rice bowls, bagels and spicy masala chai!"	
 
 [[member]]
+    id = "Adam Huang"
+    position = "Research assistant"
+    image = "adam_huang.jpg"
+    email = "jiaqiadamhuang@gmail.com"
+    github = "adamhuang11111"
+    website = "https://sites.google.com/view/jiaqihuang"
+    description = "I did my undergraduate in physics and mathematics. I am interested in computational model of causal reasoning, and how it supports intuitive physical predictions. I am also interested in cognitive biases that distract us perceiving the real physical world. I like to play and watch soccer."
+
+[[member]]
 	id = "Elisa Kreiss"
 	position = "Lab affiliate"
 	image = "elisa_kreiss.jpg"
