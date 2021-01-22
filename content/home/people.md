@@ -131,6 +131,13 @@ weight = 3
     description = "I did my undergraduate in physics and mathematics. I am interested in computational model of causal reasoning, and how it supports intuitive physical predictions. I am also interested in cognitive biases that distract us perceiving the real physical world. I like to play and watch soccer."
 
 [[member]]
+    id = "Addison Jadwin"
+    position = "Research assistant"
+    image = "addison_jadwin.jpg"
+    email = "ajadwin@stanford.edu"
+    description = "I'm a junior at Stanford majoring in symbolic systems. I'm interested in understanding cognition through computational models. Outside of this I enjoy playing viola and taking care of my fish and corals!"
+
+[[member]]
 	id = "Elisa Kreiss"
 	position = "Lab affiliate"
 	image = "elisa_kreiss.jpg"
