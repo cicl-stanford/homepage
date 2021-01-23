@@ -1,4 +1,5 @@
-baseurl = "https://cicl-stanford.github.io/homepage/"
+#baseurl = "https://cicl-stanford.github.io/homepage/"
+baseurl = "https://cicl.stanford.edu/"
 title = "Causality in Cognition Lab"
 copyright = "&copy; 2020 Tobias Gerstenberg"
 theme = "academic"
