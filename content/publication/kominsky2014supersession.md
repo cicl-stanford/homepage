@@ -22,7 +22,7 @@ abstract= "When agents violate norms, they are typically judged to be more of a 
 
 # Links (optional).
 url_pdf = "papers/kominsky2014supersession.pdf"
-url_preprint = ""
+url_preprint = "https://psyarxiv.com/vq32j"
 url_code = ""
 url_dataset = ""
 url_project = ""
