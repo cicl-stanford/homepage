@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A counterfactual simulation model of causal judgments for physical events</title>
+      <link>https://cicl.stanford.edu/publication/gerstenberg2021csm/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gerstenberg2021csm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A counterfactual simulation model of causation by omission</title>
@@ -36,15 +45,6 @@
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/smith2020probabilistic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A counterfactual simulation model of causal judgment</title>
-      <link>https://cicl.stanford.edu/publication/gerstenberg2020csm/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gerstenberg2020csm/</guid>
       <description></description>
     </item>
     
