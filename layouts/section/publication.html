@@ -76,7 +76,7 @@
 	<hr>
 
 			<div id="container-publications">
-				{{ range .Pages.ByDate.Reverse }}
+                {{ range .Pages.ByParam "status" }}
 
 				<!-- Only list papers in which T. Gerstenberg is a co-author -->
 				{{if in .Params.authors "T. Gerstenberg"}}

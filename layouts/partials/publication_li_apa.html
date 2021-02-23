@@ -4,8 +4,8 @@
       {{- delimit . ", " | markdownify -}}
     {{- end -}}
   </span>
-  {{ if in .Params.publication_types "0"}}
-    ({{.Params.year}}).
+  {{ if isset .Params "status"}}
+    ({{.Params.status}}).
   {{ else }}
     ({{- .Date.Format "2006" -}}).
   {{ end }}

@@ -8,7 +8,6 @@
 
 title = "Moral values pervade implicit and explicit causal attribution: Evidence from basic language processing"
 date = "2020-01-01"
-year = "accepted"
 authors = ["L. Niemi","J. Hartshorne","T. Gerstenberg","M. Stanley","L. Young"]
 publication_types = ["2"]
 publication_short = "_Cognitive Science_"

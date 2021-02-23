@@ -8,7 +8,7 @@
 
 title = "A counterfactual simulation model of causal judgments for physical events"
 date = "2021-01-31"
-year = "in press"
+status = "in press"
 authors = ["T. Gerstenberg","N. D. Goodman","D. A. Lagnado","J. B. Tenenbaum"]
 publication_types = ["0", "2"]
 publication_short = "Psychological Review"

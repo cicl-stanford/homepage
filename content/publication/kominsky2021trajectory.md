@@ -8,7 +8,6 @@
 
 title = "The trajectory of counterfactual simulation in development"
 date = "2021-02-05"
-year = "submitted"
 authors = ["J. F. Kominsky","T. Gerstenberg","M. Pelz","M. Sheskin","H. Singmann","L. Schulz","F. Keil"]
 publication_types = ["2"]
 publication_short = "_Developmental Psychology_"

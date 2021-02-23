@@ -8,7 +8,7 @@
 
 title = "Predicting responsibility judgments from dispositional inferences and causal attributions"
 date = "2020-03-01"
-year = "submitted"
+status = "submitted"
 authors = ["A. F. Langenhoff","A. Wiegmann","J. Y. Halpern","J. B. Tenenbaum","T. Gerstenberg"]
 publication_types = ["0", "2"]
 publication = ""

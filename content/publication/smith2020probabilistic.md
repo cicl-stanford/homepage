@@ -8,7 +8,7 @@
 
 title = "Probabilistic models of physical reasoning"
 date = "2020-04-01"
-year = "submitted"
+status = "submitted"
 authors = ["K. A. Smith","J. B. Hamrick","A. N. Sanborn","P. W. Battaglia","T. Gerstenberg","T. D. Ullman","J. B. Tenenbaum"]
 publication_types = ["0", "4"]
 publication = ""

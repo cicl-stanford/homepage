@@ -8,7 +8,7 @@
 
 title = "A counterfactual simulation model of causation by omission"
 date = "2020-06-11"
-year = "submitted"
+status = "submitted"
 authors = ["T. Gerstenberg","S. Stephan"]
 publication_types = ["0"]
 publication_short = ""
