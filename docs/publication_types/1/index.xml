@@ -7,10 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The trajectory of counterfactual simulation in development</title>
+      <link>https://cicl.stanford.edu/publication/kominsky2021trajectory/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/kominsky2021trajectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A counterfactual simulation model of causal judgments for physical events</title>
+      <link>https://cicl.stanford.edu/publication/gerstenberg2021csm/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gerstenberg2021csm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A counterfactual simulation model of causation by omission</title>
+      <link>https://cicl.stanford.edu/publication/gerstenberg2020omission/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gerstenberg2020omission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference from explanation</title>
+      <link>https://cicl.stanford.edu/publication/kirfel2020inference/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/kirfel2020inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting responsibility judgments from dispositional inferences and causal attributions</title>
+      <link>https://cicl.stanford.edu/publication/langenhoff2019voting/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/langenhoff2019voting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expectations affect physical causation judgments</title>
+      <link>https://cicl.stanford.edu/publication/gerstenberg2019physical/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gerstenberg2019physical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intuitive experimentation in the physical world</title>
+      <link>https://cicl.stanford.edu/publication/bramley2018experiments/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/bramley2018experiments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Judgments of actual causation approximate the effectiveness of interventions</title>
