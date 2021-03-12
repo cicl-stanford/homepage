@@ -129,7 +129,7 @@ weight = 3
     email = "jiaqiadamhuang@gmail.com"
     github = "adamhuang11111"
     website = "https://sites.google.com/view/jiaqihuang"
-    description = "I did my undergraduate in physics and mathematics. I am interested in computational model of causal reasoning, and how it supports intuitive physical predictions. I am also interested in cognitive biases that distract us perceiving the real physical world. I like to play and watch soccer."
+    description = "I did my undergraduate in physics and mathematics. I am interested in computational models of causal reasoning, and how they supports intuitive physical predictions. I am also interested in cognitive biases that shape how we perceive real physical world. I like to play and watch soccer."
 
 [[member]]
     id = "Addison Jadwin"
