@@ -66,36 +66,6 @@ weight = 3
 	description = "I’m interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
 [[member]]
-	id = "Disha Dasgupta"
-	position = "Research assistant"
-	image = "disha_dasgupta.jpg"
-	email = "disha01@stanford.edu"
-	twitter = "DishaDasgupta"
-	github = "dishadasgupta"
-	#scholar = ""
-	#cv = ""
-	#website = "disha_dasgupta"
-	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
-
-[[member]]
-	id = "Alan Brown"
-	position = "Research assistant"
-	image = "alan_brown.jpg"
-	email = "alanb@stanford.edu"
-	twitter = "alanbrown4700"
-	cv = "alan_brown.pdf"
-	description = "I am a rising senior at Stanford majoring in psychology with an interest in neuroscience, sleep, and emotion regulation. I am interested in how brain injuries, in conjunction with innate factors, can influence daily lives. I think carbonated water is an underrated drink."
-
-[[member]]
-	id = "Tina Hua"
-	position = "Research assistant"
-	image = "tina_hua.jpg"
-	email = "teenana95@gmail.com"
-	github = "t6hua"
-	cv = "tina_hua.pdf"
-	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and got to concerts."
-
-[[member]]
 	id = "Bryce Linford"
 	position = "Research assistant"
 	image = "bryce_linford.jpg"
@@ -213,7 +183,35 @@ weight = 3
 	description = "I study how people learn and use structural knowledge, from both neural and cognitive perspectives. I like to stay hydrated."
 
 
+#[[member]]
+#	id = "Disha Dasgupta"
+#	position = "Research assistant"
+#	image = "disha_dasgupta.jpg"
+#	email = "disha01@stanford.edu"
+#	twitter = "DishaDasgupta"
+#	github = "dishadasgupta"
+#	#scholar = ""
+#	#cv = ""
+#	#website = "disha_dasgupta"
+#	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
+#[[member]]
+#	id = "Alan Brown"
+#	position = "Research assistant"
+#	image = "alan_brown.jpg"
+#	email = "alanb@stanford.edu"
+#	twitter = "alanbrown4700"
+#	cv = "alan_brown.pdf"
+#	description = "I am a rising senior at Stanford majoring in psychology with an interest in neuroscience, sleep, and emotion regulation. I am interested in how brain injuries, in conjunction with innate factors, can influence daily lives. I think carbonated water is an underrated drink."
+
+#[[member]]
+#	id = "Tina Hua"
+#	position = "Research assistant"
+#	image = "tina_hua.jpg"
+#	email = "teenana95@gmail.com"
+#	github = "t6hua"
+#	cv = "tina_hua.pdf"
+#	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and got to concerts."
 
 # [[member]]
 # 	id = "Allen Nie"
@@ -225,7 +223,6 @@ weight = 3
 # 	website = "http://anie.me/"
 # 	description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
 
-
 # [[member]]
 # 	id = "Shardul Chiplunkar"
 # 	position = "Winter intern"
@@ -235,9 +232,6 @@ weight = 3
 # 	website = "https://www.mit.edu/~shardulc/"
 # 	cv = "shardul_chiplunkar.pdf"
 # 	description = "I'm Shardul, a '22 undergraduate at MIT studying math. I enjoy thinking and learning about intelligence, rationality, and the human brain, and my other academic interests include mathematical logic, linguistics, and programming language theory. I also enjoy listening to and creating Hindustani classical music, teaching, and spinning fire."
-
-
-
 
 # [[member]]
 # id = "Jingren Wang"
@@ -281,16 +275,15 @@ weight = 3
 #email = "rkempner@umich.edu"
 #description  = "I am a rising junior at the University of Michigan majoring in computational cognitive science, interdisciplinary physics with a focus in physics and philosophy, and minoring in computer science. I am interested in interdisciplinary research at the intersection of these fields. I plan to pursue graduate studies in computational cognitive science."
 
-
 #[[member]]
-	#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
-	#position = "PhD student"
-	#image = "portrait.jpg"
-	#email = "gerstenberg@stanford.edu"
-	#twitter = "tobigerstenberg"
-	#github = "tobiasgerstenberg"
-	#scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
-	#cv = "tobias_gerstenberg.pdf"
-	#description = "I am interested in things."
+#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
+#position = "PhD student"
+#image = "portrait.jpg"
+#email = "gerstenberg@stanford.edu"
+#twitter = "tobigerstenberg"
+#github = "tobiasgerstenberg"
+#scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
+#cv = "tobias_gerstenberg.pdf"
+#description = "I am interested in things."
 
 +++
