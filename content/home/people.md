@@ -93,13 +93,15 @@ weight = 3
 	description = "I am interested in how people gain information about the physical and social world, the degree of accuracy and bias of this information, and how it is used to make decisions. Currently I am exploring collaborative projects involving motivated causal reasoning, early development of theory of mind, and cross-cultural differences in early abstract reasoning. I am working jointly with Dr. Hyowon Gweon's Social Learning Lab and Dr. Michael Frank's Language and Cognition Lab at Stanford. I enjoy rice bowls, bagels and spicy masala chai!"	
 
 [[member]]
-    id = "Adam Huang"
-    position = "Research assistant"
-    image = "adam_huang.jpg"
-    email = "jiaqiadamhuang@gmail.com"
-    github = "adamhuang11111"
-    website = "https://sites.google.com/view/jiaqihuang"
-    description = "I did my undergraduate in physics and mathematics. I am interested in computational models of causal reasoning, and how they support intuitive physical predictions. I am also interested in cognitive biases that shape how we perceive real physical world. I like to play and watch soccer."
+	id = "Xi Jia (Laura) Zhou"
+	position = "Research assistant"
+	image = "xi_jia_zhou.jpg"
+	email = "xijiazho@stanford.edu"
+	twitter = "LauraXijiaZhou"
+	github = "lauraxijia"
+	website = "https://xijiazho.people.stanford.edu/"
+	description = "I am currently a research coordinator at the Social Learning Lab. I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
+
 
 [[member]]
     id = "Addison Jadwin"
@@ -107,6 +109,15 @@ weight = 3
     image = "addison_jadwin.jpg"
     email = "ajadwin@stanford.edu"
     description = "I'm a junior at Stanford majoring in symbolic systems. I'm interested in understanding cognition through computational models. Outside of this I enjoy playing viola and taking care of my fish and corals!"
+
+[[member]]
+    id = "Adam Huang"
+    position = "Lab affiliate"
+    image = "adam_huang.jpg"
+    email = "jiaqiadamhuang@gmail.com"
+    github = "adamhuang11111"
+    website = "https://sites.google.com/view/jiaqihuang"
+    description = "I did my undergraduate in physics and mathematics. I am interested in computational models of causal reasoning, and how they support intuitive physical predictions. I am also interested in cognitive biases that shape how we perceive real physical world. I like to play and watch soccer."
 
 [[member]]
 	id = "Elisa Kreiss"
@@ -162,16 +173,6 @@ weight = 3
 	email = "kanwal@stanford.edu"
 	scholar = "citations?user=o1qFlsgAAAAJ&hl=en&oi=ao"
 	description = "I'm a PhD student focusing on theoretical neuroscience and neuroengineering.  I'm interested in developing foundational theory for neural interfacing.  Consequently, I am broadly interested in topics related to network causal inference.  I'm also always on the lookout for good vegan cheesecake."
-
-[[member]]
-	id = "Xi Jia (Laura) Zhou"
-	position = "Lab affiliate"
-	image = "xi_jia_zhou.jpg"
-	email = "xijiazho@stanford.edu"
-	twitter = "LauraXijiaZhou"
-	github = "lauraxijia"
-	website = "https://xijiazho.people.stanford.edu/"
-	description = "I am currently a research coordinator at the Social Learning Lab. I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
 
 [[member]]
 	id = "Liang Zhou"
