@@ -6,11 +6,29 @@
     <description>Recent content in Publication_types on Causality in Cognition Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2021 Tobias Gerstenberg</copyright>
+    <lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3</title>
+      <link>https://cicl.stanford.edu/publication_types/3/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://cicl.stanford.edu/publication_types/1/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication_types/1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2</title>
@@ -36,24 +54,6 @@
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication_types/4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3</title>
-      <link>https://cicl.stanford.edu/publication_types/3/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication_types/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>https://cicl.stanford.edu/publication_types/1/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication_types/1/</guid>
       <description></description>
     </item>
     
