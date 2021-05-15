@@ -61,7 +61,7 @@
       {{ $.Scratch.Set "recent_pubs" (where (where $.Site.RegularPages "Type" "publication") ".Params.publication_types" "intersect" (slice .Params.publication_type)) }} 
       {{ else }} {{ $.Scratch.Set "recent_pubs" (where $.Site.RegularPages "Type" "publication") }} 
       {{ end }} 
-      {{ $recent_pubs := $.Scratch.Get "recent_pubs" }} {{range $recent_pubs}}{{if in .Params.authors $page.Params.publication_name}}{{ partial "publication_li_apa" . }}{{ end }}{{ end }}
+      {{ $recent_pubs := $.Scratch.Get "recent_pubs" }} {{range $recent_pubs.ByParam "status" }}{{if in .Params.authors $page.Params.publication_name}}{{ partial "publication_li_apa" . }}{{ end }}{{ end }}
     </div>
 </div>
 {{ partial "footer_container.html" . }} {{ partial "footer.html" . }}
