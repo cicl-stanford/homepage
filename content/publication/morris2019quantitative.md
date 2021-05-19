@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "github", url = "https://github.com/adammmorris/causality"}]
+url_custom = [{name = "Github", url = "https://github.com/adammmorris/causality"}]
 math = true
 highlight = true
 [header]

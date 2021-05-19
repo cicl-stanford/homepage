@@ -25,7 +25,8 @@ url_slides = ""
 url_video = "videos/kirfel2020inference-video.mp4"
 url_poster = "posters/kirfel2020inference-poster.pdf"
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/inference_from_explanation"}]
+url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/inference_from_explanation"},
+{name = "OSF", url = "https://osf.io/3dh5n"}]
 math = true
 highlight = true
 [header]

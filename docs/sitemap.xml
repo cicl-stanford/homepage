@@ -3,8 +3,26 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication_types/3/</loc>
-      <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+      <loc>https://cicl.stanford.edu/publication_types/0/</loc>
+      <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
+      <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication_types/2/</loc>
+      <lastmod>2021-05-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +31,7 @@
     <url>
     
       <loc>https://cicl.stanford.edu/</loc>
-      <lastmod>2021-05-13T00:00:00+00:00</lastmod>
+      <lastmod>2021-05-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -21,7 +39,24 @@
     
     <url>
     
+      <loc>https://cicl.stanford.edu/publication/sosa2021dynamics/</loc>
+      <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://cicl.stanford.edu/publication_types/</loc>
+      <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication_types/3/</loc>
       <lastmod>2021-05-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -38,35 +73,8 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
-      <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication_types/2/</loc>
-      <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://cicl.stanford.edu/publication/kominsky2021trajectory/</loc>
       <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication_types/0/</loc>
-      <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -125,14 +133,6 @@
     
       <loc>https://cicl.stanford.edu/publication/smith2020probabilistic/</loc>
       <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication/sosa2019dynamics/</loc>
-      <lastmod>2020-03-02T00:00:00+00:00</lastmod>
     </url>
     
   

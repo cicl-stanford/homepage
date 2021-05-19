@@ -24,7 +24,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/voting_responsibility"}]
+url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/voting_responsibility"},
+{name = "OSF", url = "https://osf.io/bpwra"}]
 math = true
 highlight = true
 [header]
