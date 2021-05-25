@@ -89,7 +89,6 @@ weight = 3
 	email = "joo25@cornell.edu"
 	twitter = "outa_joseph"
 	github = "JosephOuta"
-	cv = "joseph_outa.pdf"
 	description = "I am interested in how people gain information about the physical and social world, the degree of accuracy and bias of this information, and how it is used to make decisions. Currently I am exploring collaborative projects involving motivated causal reasoning, early development of theory of mind, and cross-cultural differences in early abstract reasoning. I am working jointly with Dr. Hyowon Gweon's Social Learning Lab and Dr. Michael Frank's Language and Cognition Lab at Stanford. I enjoy rice bowls, bagels and spicy masala chai!"	
 
 [[member]]
