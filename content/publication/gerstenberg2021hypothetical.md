@@ -21,7 +21,7 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "posters/gerstenberg2021hypothetical-poster.pdf"
 url_source = ""
 #url_custom = [{name = "Github", url = ""}]
 math = true
