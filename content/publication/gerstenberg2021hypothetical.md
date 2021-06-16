@@ -20,7 +20,7 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/0CHHWffBFII"
 url_poster = "posters/gerstenberg2021hypothetical-poster.pdf"
 url_source = ""
 #url_custom = [{name = "Github", url = ""}]
