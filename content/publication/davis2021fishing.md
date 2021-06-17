@@ -21,8 +21,8 @@ url_preprint = "https://psyarxiv.com/x4zav"
 url_code = ""
 url_dataset = ""
 url_slides = ""
-url_video = ""
-url_poster = ""
+url_video = "https://www.youtube.com/watch?v=vbEAKwsAyM8&ab_channel=CausalityinCognitionLab"
+url_poster = "posters/davis2021fishing-poster.pdf"
 url_source = ""
 url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/inference_from_social_evaluations"}, {name = "OSF", url = "https://osf.io/rwsba"}]
 math = true
