@@ -7,7 +7,7 @@
 # 5 -> 'Thesis')
 
 title = "Probabilistic models of physical reasoning"
-date = "2020-04-01"
+date = "2021-07-08"
 status = "submitted"
 authors = ["K. A. Smith","J. B. Hamrick","A. N. Sanborn","P. W. Battaglia","T. Gerstenberg","T. D. Ullman","J. B. Tenenbaum"]
 publication_types = ["0", "4"]

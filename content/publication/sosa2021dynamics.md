@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "Moral dynamics: Grounding moral judgment in intuitive physics and intuitive psychology"
-date = "2021-05-18"
+date = "2021-07-08"
 status = "submitted"
 authors = ["F. A Sosa","T. D Ullman","J. B Tenenbaum","S. J Gershman","T. Gerstenberg"]
 publication_types = ["0", "1", "2"]

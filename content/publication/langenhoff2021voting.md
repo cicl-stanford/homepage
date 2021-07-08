@@ -7,7 +7,7 @@
 # 5 -> 'Thesis')
 
 title = "Predicting responsibility judgments from dispositional inferences and causal attributions"
-date = "2021-07-08"
+date = "2021-07-01"
 status = "in press"
 authors = ["A. F. Langenhoff","A. Wiegmann","J. Y. Halpern","J. B. Tenenbaum","T. Gerstenberg"]
 publication_types = ["0", "2"]

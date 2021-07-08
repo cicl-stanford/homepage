@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "A counterfactual simulation model of causation by omission"
-date = "2021-07-08"
+date = "2021-07-07"
 status = "in press"
 authors = ["T. Gerstenberg","S. Stephan"]
 publication_types = ["0", "2"]

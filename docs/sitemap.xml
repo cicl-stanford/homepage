@@ -12,6 +12,15 @@
     
     <url>
     
+      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
+      <lastmod>2021-07-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://cicl.stanford.edu/publication_types/2/</loc>
       <lastmod>2021-07-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -21,8 +30,9 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication/gerstenberg2021omission/</loc>
+      <loc>https://cicl.stanford.edu/publication_types/4/</loc>
       <lastmod>2021-07-08T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -38,7 +48,15 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication/langenhoff2021voting/</loc>
+      <loc>https://cicl.stanford.edu/publication/sosa2021dynamics/</loc>
+      <lastmod>2021-07-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/smith2020probabilistic/</loc>
       <lastmod>2021-07-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -56,7 +74,23 @@
     <url>
     
       <loc>https://cicl.stanford.edu/publication/gerstenberg2021hypothetical/</loc>
-      <lastmod>2021-06-14T00:00:00+00:00</lastmod>
+      <lastmod>2021-07-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/gerstenberg2021omission/</loc>
+      <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/langenhoff2021voting/</loc>
+      <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -65,23 +99,6 @@
     
       <loc>https://cicl.stanford.edu/publication/gerstenberg2021csm/</loc>
       <lastmod>2021-06-07T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
-      <lastmod>2021-05-18T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication/sosa2021dynamics/</loc>
-      <lastmod>2021-05-18T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -132,23 +149,6 @@
     
       <loc>https://cicl.stanford.edu/publication/kirfel2020inference/</loc>
       <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication_types/4/</loc>
-      <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication/smith2020probabilistic/</loc>
-      <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     </url>
     
   
