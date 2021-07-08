@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A counterfactual simulation model of causation by omission</title>
+      <link>https://cicl.stanford.edu/publication/gerstenberg2021omission/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gerstenberg2021omission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting responsibility judgments from dispositional inferences and causal attributions</title>
+      <link>https://cicl.stanford.edu/publication/langenhoff2021voting/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/langenhoff2021voting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What explains causal judgments? Counterfactual versus hypothetical simulations</title>
@@ -45,15 +63,6 @@
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/kominsky2021trajectory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting responsibility judgments from dispositional inferences and causal attributions</title>
-      <link>https://cicl.stanford.edu/publication/langenhoff2019voting/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/langenhoff2019voting/</guid>
       <description></description>
     </item>
     
