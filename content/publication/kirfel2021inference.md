@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "Inference from explanation"
-date = "2020-05-22"
+date = "2021-05-22"
 status = "submitted"
 authors = ["L. Kirfel","T. F. Icard","T. Gerstenberg"]
 publication_types = ["0", "1"]
