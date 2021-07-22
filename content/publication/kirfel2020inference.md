@@ -8,7 +8,7 @@
 
 title = "Inference from explanation"
 date = "2020-05-22"
-status = "submitted"
+status = "1 submitted"
 authors = ["L. Kirfel","T. F. Icard","T. Gerstenberg"]
 publication_types = ["0", "1"]
 publication_short = ""

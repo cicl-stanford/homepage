@@ -8,10 +8,10 @@
 
 title = "What explains causal judgments? Counterfactual versus hypothetical simulations"
 date = "2021-07-08"
-year = "in prep"
+status = "0 in prep"
 authors = ["T. Gerstenberg"]
 publication_types = ["0", "2"]
-publication = "Gerstenberg T. (in prep). What explains causal judgments? Counterfactual versus hypothetical simulations"
+#publication = "Gerstenberg T. (in prep). What explains causal judgments? Counterfactual versus hypothetical simulations"
 image_preview = ""
 selected = false
 projects = []
