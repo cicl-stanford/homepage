@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Causality in Cognition Lab</title>
+    <link>https://cicl.stanford.edu/publication_types/1/</link>
+    <description>Recent content in 1 on Causality in Cognition Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Tobias Gerstenberg</copyright>
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cicl.stanford.edu/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moral dynamics: Grounding moral judgment in intuitive physics and intuitive psychology</title>
+      <link>https://cicl.stanford.edu/publication/sosa2021dynamics/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/sosa2021dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference from explanation</title>
+      <link>https://cicl.stanford.edu/publication/kirfel2021inference/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/kirfel2021inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The trajectory of counterfactual simulation in development</title>
+      <link>https://cicl.stanford.edu/publication/kominsky2021trajectory/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/kominsky2021trajectory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do humans trust advice more if it comes from AI? An analysis of Human-AI interactions</title>
+      <link>https://cicl.stanford.edu/publication/vodrahalli2021trust/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/vodrahalli2021trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expectations affect physical causation judgments</title>
+      <link>https://cicl.stanford.edu/publication/gerstenberg2019physical/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gerstenberg2019physical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intuitive experimentation in the physical world</title>
+      <link>https://cicl.stanford.edu/publication/bramley2018experiments/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/bramley2018experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judgments of actual causation approximate the effectiveness of interventions</title>
+      <link>https://cicl.stanford.edu/publication/morris2018effective/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/morris2018effective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What happened? Reconstructing the past from vision and sound</title>
+      <link>https://cicl.stanford.edu/publication/gerstenberg2018what/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gerstenberg2018what/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

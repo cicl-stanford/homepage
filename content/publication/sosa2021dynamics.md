@@ -8,7 +8,7 @@
 
 title = "Moral dynamics: Grounding moral judgment in intuitive physics and intuitive psychology"
 date = "2021-07-08"
-status = "submitted"
+status = "1 submitted"
 authors = ["F. A Sosa","T. D Ullman","J. B Tenenbaum","S. J Gershman","T. Gerstenberg"]
 publication_types = ["0", "1", "2"]
 publication_short = ""

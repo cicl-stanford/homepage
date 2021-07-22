@@ -5,7 +5,7 @@
     {{- end -}}
   </span>
   {{ if isset .Params "status"}}
-    ({{.Params.status}}).
+    ({{- trim (strings.TrimLeft "012" (.Params.status)) " " -}}).
   {{ else }}
     ({{- .Date.Format "2006" -}}).
   {{ end }}
