@@ -641,7 +641,7 @@ article {
 
 .article-container {
   width: 100% !important;
-  /* max-width: 20px; */
+  max-width: 1150px;
   padding: 1rem 20px 0 20px;
   margin: 0 auto 0 auto;
 }

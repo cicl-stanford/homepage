@@ -6,8 +6,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Research and Values</title>
+      <link>https://cicl.stanford.edu/research_values/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/research_values/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-we-do&#34;&gt;What we do&lt;/h2&gt;
+
+&lt;p&gt;Our research uncovers how people &lt;a href=&#34;../publication/gerstenberg2021csm/&#34;&gt;understand the world&lt;/a&gt;, and how they &lt;a href=&#34;../publication/gerstenberg2018expectations/&#34;&gt;understand each other&lt;/a&gt;. Our working hypothesis is that people’s knowledge of the world is organized around &lt;a href=&#34;../publication/gerstenberg2017theories/&#34;&gt;causally structured mental models&lt;/a&gt;, and that much of human thought can be understood as &lt;a href=&#34;../publication/goodman2015concepts/&#34;&gt;cognitive operations over these mental models&lt;/a&gt;. Through the process of &lt;a href=&#34;../publication/gerstenberg2017tracking/&#34;&gt;mental simulation&lt;/a&gt;, humans can infer the past, explain the present, and predict the future. While recent years have shown the tremendous potential of what artificial intelligence can achieve, humans are still unrivaled in their intuitive understanding of how the world works. We investigate this understanding in the domains of intuitive physics and intuitive psychology.&lt;/p&gt;
+
+&lt;p&gt;The overarching questions that guide our research are 1) how do people figure out what caused what, 2) how do they go beyond the here and now to mentally simulate alternative possibilities, and 3) what role do causal inference and mental simulation play in how people hold each other responsible? To answer these questions our work draws inspiration from psychology, philosophy, computer science, linguistics, and the legal sciences. We develop computational models and quantitatively test these models in novel experimental paradigms with both human adults and &lt;a href=&#34;../publication/kominsky2021trajectory/&#34;&gt;children&lt;/a&gt;, using behavioral and &lt;a href=&#34;../publication/gerstenberg2017tracking/&#34;&gt;eye-tracking data&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/responsibility_framework.jpeg&#34; width=&#34;75%&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Our goal is to develop a comprehensive computational model of how people assign responsibility. Responsibility is the glue that holds the social world together, and understanding this concept is critical for addressing some of the most important challenges we face as society today. These include problems of collective responsibility, such as climate change and ethical AI, as well as topics of individual responsibility with &lt;a href=&#34;../publication/lagnado2017causation/&#34;&gt;legal&lt;/a&gt;, &lt;a href=&#34;../publication/sosa2021dynamics/&#34;&gt;moral&lt;/a&gt;, and &lt;a href=&#34;../publication/langenhoff2021voting/&#34;&gt;political&lt;/a&gt; consequences.&lt;/p&gt;
+
+&lt;p&gt;You can learn more about our work on the &lt;a href=&#34;https://www.youtube.com/channel/UCvGjDSbTa9blRRdCRTlCvwA&#34;&gt;CiCL YouTube channel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-we-value&#34;&gt;What we value&lt;/h2&gt;
+
+&lt;p&gt;We not only study how people assign responsibility, we also take seriously our responsibilities as scientists, teachers, and mentors. We feel very grateful for being able to study the human mind, and we try our best to use the resources we&amp;rsquo;ve been given to generate knowledge that contributes toward a society in which we better understand one another.&lt;/p&gt;
+
+&lt;h4 id=&#34;culture-and-community&#34;&gt;Culture and community&lt;/h4&gt;
+
+&lt;p&gt;We love doing research together! We aim to create a culture in which we learn through discussion, appreciating the different perspectives we each bring to table. We believe that in order to do good research (and to enjoy doing it), we have to take good care of ourselves first. We value a healthy work-life balance and acknowledge that an academic career presents unique mental health challenges. In order to address these challenges, we work to foster a community of mutual learning and support. When we hit a roadblock, we know that there is always a friend to talk out our thoughts with. We foster community through weekly lab meetings, coffee chats, and regular social events. We work with each other consistently, providing concrete feedback on experiments, presentations, and paper drafts to help each other produce the best scientific work we can.&lt;/p&gt;
+
+&lt;h4 id=&#34;inclusion-and-diversity&#34;&gt;Inclusion and diversity&lt;/h4&gt;
+
+&lt;p&gt;Our lab brings together researchers from various backgrounds who love to learn from one another. To understand the full complexity of the human mind, we need to make sure that the diversity of human experience is represented in the people who study it, and in the people who participate in research. To help increase diversity in academia, we participate in &lt;a href=&#34;https://psychology.stanford.edu/diversity/paths-phd&#34;&gt;Stanford&amp;rsquo;s Paths to PhD program&lt;/a&gt;, the &lt;a href=&#34;https://fast.stanford.edu/&#34;&gt;FAST program&lt;/a&gt;, and in a variety of summer programs, such as the &lt;a href=&#34;https://www-csli.stanford.edu/csli-summer-internship-program-2021&#34;&gt;CSLI summer internship program&lt;/a&gt;. We commit to reporting demographic information about our study participants (including gender and race identification) in our research. We continue to discuss what concrete steps we can take to contribute toward diversity, equity and inclusion. For example, every year in the week of May 26th (the day on which George Floyd was murdered), we reflect as a community in our lab meeting on what we have accomplished in the past, and set goals for the future.&lt;/p&gt;
+
+&lt;h4 id=&#34;open-science&#34;&gt;Open science&lt;/h4&gt;
+
+&lt;p&gt;Science should be open to all. We pre-register our experiments via the &lt;a href=&#34;https://osf.io/udjqb/&#34;&gt;Open Science Framework&lt;/a&gt;, and share the materials of all of our published work via the &lt;a href=&#34;https://github.com/cicl-stanford&#34;&gt;CiCL github account&lt;/a&gt;. In our research, we aim to only use free software (like R and python) so that our results are fully reproducible by others. We make our results freely available to everyone by posting &lt;a href=&#34;https://psyarxiv.com/discover?q=tobias%20gerstenberg&#34;&gt;pre-prints&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-join-us&#34;&gt;How to join us&lt;/h2&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested in our lab&amp;rsquo;s research, feel free to sign up for our &lt;a href=&#34;https://mailman.stanford.edu/mailman/listinfo/causality-in-cognition&#34;&gt;lab&amp;rsquo;s email list&lt;/a&gt; in which we send regular updates about our research meetings. You are very welcome to join in for these!&lt;/p&gt;
+
+&lt;p&gt;You can also reach out and send us an email via &lt;a href=&#34;mailto:gerstenberg@stanford.edu&#34;&gt;gerstenberg@stanford.edu&lt;/a&gt;. We&amp;rsquo;re looking forward to hearing from you!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A counterfactual simulation model of causation by omission</title>
@@ -147,15 +191,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/grinfeld2020robust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moral values pervade implicit and explicit causal attribution: Evidence from basic language processing</title>
-      <link>https://cicl.stanford.edu/publication/niemi2020moral/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/niemi2020moral/</guid>
       <description></description>
     </item>
     

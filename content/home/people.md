@@ -66,15 +66,6 @@ weight = 3
 	description = "I’m interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
 [[member]]
-	id = "Bryce Linford"
-	position = "Research assistant"
-	image = "bryce_linford.jpg"
-	email = "linford5@stanford.edu"
-	github = "brycelinford"
-	cv = "bryce_linford.pdf"
-	description = "I am interested in using computational and behavioral approaches to study how people make inferences, judgments, and decisions with limited cognitive resources. I like to drink milk."
-
-[[member]]
 	id = "Yingchen Xu"
 	position = "Research assistant"
 	image = "yingchen_xu.jpg"
@@ -128,30 +119,6 @@ weight = 3
 	#scholar = ""
 	#website = "http://elisakreiss.com/"
 	description = "I’m a Linguistics PhD student and member of the [ALPS lab](http://alpslab.stanford.edu/). I'm interested in cognitive and computational approaches towards understanding language production and comprehension. I received my undergraduate degree in Cognitive Science. I also like to eat cake."
-
-[[member]]
-	id = "Cai Guo"
-	position = "Lab affiliate"
-	image = "cai_guo.jpg"
-	email = "caiguo@stanford.edu"
-	#twitter = ""
-	github = "caiguostanford"
-	scholar = "citations?user=lk-7P8oAAAAJ&hl=en"
-	website = "http://web.stanford.edu/~caiguo/"
-	cv = "cai_guo.pdf"
-	description = "I'm a third-year PhD student interested in how people understand abstract concepts, such as personal identity and philosophical/literary ideas. In the CiCl lab, I'm working on building computational causal networks of how mental representations of abstract concepts originate from beliefs about small, concrete things."
-
-[[member]]
-	id = "Erin Bennett"
-	position = "Lab affiliate"
-	image = "erin_bennett.jpg"
-	email = "erindb@stanford.edu"
-	#twitter = ""
-	github = "erindb"
-	scholar = "citations?user=0tRBAFQAAAAJ&hl=en&authuser=1"
-	website = "http://web.stanford.edu/~erindb/"
-	#cv = ""
-	description = "I'm a Psychology PhD student primarily in the [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
 
 [[member]]
 	id = "Andrew Nam"
@@ -285,5 +252,38 @@ weight = 3
 #scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
 #cv = "tobias_gerstenberg.pdf"
 #description = "I am interested in things."
+
+#[[member]]
+#id = "Bryce Linford"
+#position = "Research assistant"
+#image = "bryce_linford.jpg"
+#email = "linford5@stanford.edu"
+#github = "brycelinford"
+#cv = "bryce_linford.pdf"
+#description = "I am interested in using computational and behavioral approaches to study how people make inferences, judgments, and decisions with limited cognitive resources. I like to drink milk."
+
+#[[member]]
+#id = "Cai Guo"
+#position = "Lab affiliate"
+#image = "cai_guo.jpg"
+#email = "caiguo@stanford.edu"
+##twitter = ""
+#github = "caiguostanford"
+#scholar = "citations?user=lk-7P8oAAAAJ&hl=en"
+#website = "http://web.stanford.edu/~caiguo/"
+#cv = "cai_guo.pdf"
+#description = "I'm a third-year PhD student interested in how people understand abstract concepts, such as personal identity and philosophical/literary ideas. In the CiCl lab, I'm working on building computational causal networks of how mental representations of abstract concepts originate from beliefs about small, concrete things."
+
+#[[member]]
+#id = "Erin Bennett"
+#position = "Lab affiliate"
+#image = "erin_bennett.jpg"
+#email = "erindb@stanford.edu"
+##twitter = ""
+#github = "erindb"
+#scholar = "citations?user=0tRBAFQAAAAJ&hl=en&authuser=1"
+#website = "http://web.stanford.edu/~erindb/"
+##cv = ""
+#description = "I'm a Psychology PhD student primarily in the [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
 
 +++
