@@ -54,3 +54,5 @@ Science should be open to all. We share the materials of all of our published wo
 If you're interested in our lab's research, feel free to sign up for our [lab's email list](https://mailman.stanford.edu/mailman/listinfo/causality-in-cognition) in which we send regular updates about our research meetings. You are very welcome to join in for these!
 
 You can also reach out and send us an email via [gerstenberg@stanford.edu](mailto:gerstenberg@stanford.edu). We're looking forward to hearing from you! 
+
+We encourage prospective PhD students to apply to the PhD program in Stanford's Psychology department. Feel free to reach out if you have any questions! 
