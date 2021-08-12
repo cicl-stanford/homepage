@@ -180,15 +180,15 @@ weight = 3
 #	cv = "tina_hua.pdf"
 #	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and got to concerts."
 
-# [[member]]
-# 	id = "Allen Nie"
-# 	position = "Rotating graduate student"
-# 	image = "allen_nie.jpg"
-# 	email = "anie@stanford.edu"
-# 	twitter = "Allen_A_N"
-# 	scholar = "citations?hl=en&user=r90OelAAAAAJ"
-# 	website = "http://anie.me/"
-# 	description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
+[[member]]
+id = "Allen Nie"
+position = "Lab affiliate"
+image = "allen_nie.jpg"
+email = "anie@stanford.edu"
+twitter = "Allen_A_N"
+scholar = "citations?hl=en&user=r90OelAAAAAJ"
+website = "http://anie.me/"
+description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
 
 # [[member]]
 # 	id = "Shardul Chiplunkar"
