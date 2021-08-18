@@ -92,13 +92,22 @@ weight = 3
 	website = "https://xijiazho.people.stanford.edu/"
 	description = "I am currently a research coordinator at the Social Learning Lab. I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
 
-
 [[member]]
     id = "Addison Jadwin"
     position = "Research assistant"
     image = "addison_jadwin.jpg"
     email = "ajadwin@stanford.edu"
     description = "I'm a junior at Stanford majoring in symbolic systems. I'm interested in understanding cognition through computational models. Outside of this I enjoy playing viola and taking care of my fish and corals!"
+
+[[member]]
+    id = "Ricky Ma"
+    position = "Research assistant"
+    image = "ricky_ma.jpg"
+    email = "ricky.ma@alumni.ubc.ca"
+    github = "ricky-ma"
+    website = "https://ricky-ma.github.io/"
+    scholar = "citations?user=VKOVWTIAAAAJ&hl=en"
+    description = "I am interested in how causal reasoning mechanisms in humans can inspire machine learning algorithms that are both more generalizable and interpretable. I am especially passionate about using new ML and AI technology for social good. I completed my BSc. at UBC studying Cognitive Systems with a focus in Computational Intelligence and Design. I like to drink coffee, maybe a bit too much."
 
 [[member]]
     id = "Adam Huang"
