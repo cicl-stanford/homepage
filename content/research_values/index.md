@@ -55,4 +55,4 @@ If you're interested in our lab's research, feel free to sign up for our [lab's 
 
 You can also reach out and send us an email via [gerstenberg@stanford.edu](mailto:gerstenberg@stanford.edu). We're looking forward to hearing from you! 
 
-We encourage prospective PhD students to apply to the PhD program in Stanford's Psychology department. Feel free to reach out if you have any questions! 
+We encourage prospective PhD students to apply to the [PhD program in Stanford's Psychology department](https://psychology.stanford.edu/admissions/phd-admissions). Feel free to reach out if you have any questions! 
