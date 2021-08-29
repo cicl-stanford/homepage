@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/tobiasgerstenberg/tracing_counterfactuals"}, {name = "OSF", url = "https://osf.io/5jw6y"}]
+url_custom = [{name = "Link", url = "https://psycnet.apa.org/record/2021-14131-009"},{name = "Github", url = "https://github.com/tobiasgerstenberg/tracing_counterfactuals"}, {name = "OSF", url = "https://osf.io/5jw6y"}]
 math = true
 highlight = true
 [header]

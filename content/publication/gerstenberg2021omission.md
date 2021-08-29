@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/omission"},
+url_custom = [{name = "Link", url = "https://www.sciencedirect.com/science/article/pii/S0010027721002614?casa_token=3tP937KZQsQAAAAA:6XOvBHbjylPwOayARgdcpD3wbm5p8cMn13HNggNjZqJNGaLyOO_xDNnQACzWtcwHhF5oybC-w6Ku"},{name = "Github", url = "https://github.com/cicl-stanford/omission"},
 {name = "OSF", url = "https://osf.io/jubdz"}]
 math = true
 highlight = true
