@@ -16,7 +16,7 @@ abstract = "When holding others morally responsible, we care about what they did
 image_preview = ""
 selected = false
 projects = []
-#url_pdf = "papers/sosa2021dynamics.pdf"
+url_pdf = "papers/sosa2021dynamics.pdf"
 url_preprint = "https://psyarxiv.com/xh4kg"
 url_code = ""
 url_dataset = ""
@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/moral_dynamics"},
+url_custom = [{name = "Link", url = "https://www.sciencedirect.com/science/article/pii/S0010027721003139"},{name = "Github", url = "https://github.com/cicl-stanford/moral_dynamics"},
 {name = "OSF", url = "https://osf.io/8egju"},
 ]
 math = true
