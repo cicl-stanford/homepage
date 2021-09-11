@@ -6,8 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What explains causal judgments? Counterfactual versus hypothetical simulations</title>
+      <link>https://cicl.stanford.edu/publication/gerstenberg2021hypothetical/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gerstenberg2021hypothetical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference from explanation</title>
+      <link>https://cicl.stanford.edu/publication/kirfel2021inference/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/kirfel2021inference/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Moral dynamics: Grounding moral judgment in intuitive physics and intuitive psychology</title>
@@ -74,15 +92,6 @@
     </item>
     
     <item>
-      <title>What explains causal judgments? Counterfactual versus hypothetical simulations</title>
-      <link>https://cicl.stanford.edu/publication/gerstenberg2021hypothetical/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gerstenberg2021hypothetical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Predicting responsibility judgments from dispositional inferences and causal attributions</title>
       <link>https://cicl.stanford.edu/publication/langenhoff2021voting/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
@@ -106,15 +115,6 @@
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/gerstenberg2021csm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inference from explanation</title>
-      <link>https://cicl.stanford.edu/publication/kirfel2021inference/</link>
-      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/kirfel2021inference/</guid>
       <description></description>
     </item>
     

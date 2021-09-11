@@ -7,8 +7,8 @@
 # 5 -> 'Thesis'
 
 title = "What explains causal judgments? Counterfactual versus hypothetical simulations"
-date = "2021-07-21"
-status = "in prep"
+date = "2021-09-11"
+status = "1 in preparation"
 authors = ["T. Gerstenberg"]
 publication_types = ["0"]
 publication = ""
