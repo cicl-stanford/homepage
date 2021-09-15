@@ -110,6 +110,14 @@ weight = 3
     description = "I am interested in how causal reasoning mechanisms in humans can inspire machine learning algorithms that are both more generalizable and interpretable. I am especially passionate about using new ML and AI technology for social good. I completed my BSc. at UBC studying Cognitive Systems with a focus in Computational Intelligence and Design. I like to drink coffee, maybe a bit too much."
 
 [[member]]
+    id = "Shruti Sridhar"
+    position = "Research assistant"
+    image = "shruti_sridhar.jpg"
+    email = "shrutisr@stanford.edu"
+    github = "shruti-sridhar"
+    description = "I am a sophomore at Stanford looking to major in Computer Science on the AI track. I am interested in using computational models to explore causality in social settings. Outside of that, I enjoy dancing and amateur vegan baking."
+
+[[member]]
     id = "Adam Huang"
     position = "Lab affiliate"
     image = "adam_huang.jpg"
