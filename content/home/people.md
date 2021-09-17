@@ -118,6 +118,13 @@ weight = 3
     description = "I am a sophomore at Stanford looking to major in Computer Science on the AI track. I am interested in using computational models to explore causality in social settings. Outside of that, I enjoy dancing and amateur vegan baking."
 
 [[member]]
+    id = "Sloan Charles"
+    position = "Research assistant"
+    image = "sloan_charles.jpg"
+    email = "sloanc24@stanford.edu"
+    description = "I am a sophomore at Stanford planning to major in Psychology and minor in Creative Writing and/or African and African American Studies. I am working on a developmental project focused on children’s cognition, and I hope to work more with children in the future. I love eating soup dumplings and crispy tofu!"
+
+[[member]]
     id = "Adam Huang"
     position = "Lab affiliate"
     image = "adam_huang.jpg"
