@@ -71,9 +71,9 @@
   sri = "sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE="
   url = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/%s/css/bootstrap.min.css"
 [css.fontAwesome]
-  version = "5.12.0-1"
-  sri = "sha384-i090POAzfiGzqb4z2cbVa+SZ/ye0lP0mNl1rCZBTGVVPFpU8a4Ky5aBxJ0Ol5W6s"
-  url = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/%s/css/all.min.css"
+  version = "5.3.1"
+  sri = "sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
+  url = "https://use.fontawesome.com/releases/v%s/css/all.css"
 [css.academicons]
   version = "1.8.6"
   sri = "sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw="
