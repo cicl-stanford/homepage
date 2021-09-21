@@ -125,6 +125,14 @@ weight = 3
     description = "I am a sophomore at Stanford planning to major in Psychology and minor in Creative Writing and/or African and African American Studies. I am working on a developmental project focused on children’s cognition, and I hope to work more with children in the future. I love eating soup dumplings and crispy tofu!"
 
 [[member]]
+    id = "Hana Dao"
+    position = "Research assistant"
+    image = "hana_dao.jpg"
+    email = "hanadao@stanford.edu"
+    github = "hanaddao"
+    description = "I am a sophomore at Stanford and interested in communications and psychology. Currently, I am working on a project on counterfactual thinking and children's development. I am also hoping to explore how culture and race affect cognition. In my free time, I love baking sweets and my favorite drink would have to be mango tea with sea salt foam & boba!"
+
+[[member]]
     id = "Adam Huang"
     position = "Lab affiliate"
     image = "adam_huang.jpg"
