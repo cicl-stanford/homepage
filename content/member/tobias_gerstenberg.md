@@ -40,17 +40,17 @@ publication_name = "T. Gerstenberg"
   institution = "University College London"
   #year = 2007-2008
 
-[[education.courses]]
-  course = "Vordiplom in Psychology, 2007"
-  institution = "Humboldt University Berlin"
+#  [[education.courses]]
+  #  course = "Vordiplom in Psychology, 2007"
+  #  institution = "Humboldt University Berlin"
  
 +++
 
-I'm the PI of Causality in Cognition lab (CICL). You can see me in action [here](https://www.youtube.com/watch?v=IkbEIKQqoyA) at an invited symposium on causation at the Society for Philosophy and Psychology (SPP) conference. 
+I'm the PI of Causality in Cognition lab (CICL). You can see me in action [here](https://www.youtube.com/watch?v=IkbEIKQqoyA) at an invited symposium on causation at the Society for Philosophy and Psychology conference. 
 
-## Research interests 
+## Research interests
 
-Here are some keywords that capture what I'm interested in: 
+Here are some of the things I'm interested in: 
 
 - computational models of cognition
 - causal inference 
@@ -58,15 +58,16 @@ Here are some keywords that capture what I'm interested in:
 - mental simulation
 - eye-tracking
 
-If you'd like to learn more, you can take a look at my [research statement](../../misc/tobias_gerstenberg_research_statement.pdf). 
+You can find out more about what we do in the CICL, what we value, and how to join us [here](../../research_values/). You can also take a look at my [research statement](../../misc/tobias_gerstenberg_research_statement.pdf). 
 
-## Contact 
+## Contact
 
 __Email__: gerstenberg@stanford.edu   
 __Office__: Room 302, [Building 420](https://goo.gl/maps/mBbkXZfiSR42)
 
-## Teaching 
+## Teaching
 
+- Fall 2021/22: [Advanced Research (PSYCH 197)](https://psych197.stanford.edu)
 - Winter 2020/21: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
 - Fall 2020/21: [Experimental Methods (PSYCH 251)](https://explorecourses.stanford.edu/search;jsessionid=1vwlzj7h09e9lzakcp1adv6d?q=PSYCH+251%3a+Experimental+Methods&view=catalog&filter-coursestatus-Active=on&academicYear=20202021)
 - Fall 2020/21: [What makes a good explanation? Psychological and philosophical perspectives (PSYCH 293)](https://psych293.github.io/)
