@@ -181,6 +181,15 @@ weight = 3
 	website = "https://lzil.github.io/"
 	description = "I study how people learn and use structural knowledge, from both neural and cognitive perspectives. I like to stay hydrated."
 
+[[member]]
+id = "Allen Nie"
+position = "Lab affiliate"
+image = "allen_nie.jpg"
+email = "anie@stanford.edu"
+twitter = "Allen_A_N"
+scholar = "citations?hl=en&user=r90OelAAAAAJ"
+website = "http://anie.me/"
+description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
 
 #[[member]]
 #	id = "Disha Dasgupta"
@@ -211,16 +220,6 @@ weight = 3
 #	github = "t6hua"
 #	cv = "tina_hua.pdf"
 #	description = "I did my undergraduate in psychology and I'm currently exploring my research interests in neuroscience and sleep. I hope to apply to a graduate program in the near future. In my free time, I like to try new foods and got to concerts."
-
-[[member]]
-id = "Allen Nie"
-position = "Lab affiliate"
-image = "allen_nie.jpg"
-email = "anie@stanford.edu"
-twitter = "Allen_A_N"
-scholar = "citations?hl=en&user=r90OelAAAAAJ"
-website = "http://anie.me/"
-description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
 
 # [[member]]
 # 	id = "Shardul Chiplunkar"
@@ -275,17 +274,6 @@ description = "I’m a Computer Science PhD student focusing on Artificial Intel
 #description  = "I am a rising junior at the University of Michigan majoring in computational cognitive science, interdisciplinary physics with a focus in physics and philosophy, and minoring in computer science. I am interested in interdisciplinary research at the intersection of these fields. I plan to pursue graduate studies in computational cognitive science."
 
 #[[member]]
-#id = "[Prof. Tobias Gerstenberg](/member/tobias_gerstenberg)"
-#position = "PhD student"
-#image = "portrait.jpg"
-#email = "gerstenberg@stanford.edu"
-#twitter = "tobigerstenberg"
-#github = "tobiasgerstenberg"
-#scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
-#cv = "tobias_gerstenberg.pdf"
-#description = "I am interested in things."
-
-#[[member]]
 #id = "Bryce Linford"
 #position = "Research assistant"
 #image = "bryce_linford.jpg"
@@ -317,5 +305,12 @@ description = "I’m a Computer Science PhD student focusing on Artificial Intel
 #website = "http://web.stanford.edu/~erindb/"
 ##cv = ""
 #description = "I'm a Psychology PhD student primarily in the [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
+
+[[member]]
+id = "Alumni"
+image = "alumni.jpg"
+description = "<ul><li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (Lab affiliate)</li><li>Bryce Linford (Research assistant): Now PhD student at UCLA.</li><li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (Research assistant): Now PhD student at UC Berkeley.</li></ul>"
+
+
 
 +++
