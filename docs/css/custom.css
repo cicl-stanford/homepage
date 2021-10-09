@@ -275,6 +275,7 @@ small,
 
 .section-heading h1 {
   margin: 0 0 10px 0;
+  white-space: nowrap;
 }
 
 .section-heading p {
