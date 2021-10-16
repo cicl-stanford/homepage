@@ -133,6 +133,13 @@ weight = 3
     description = "I am a sophomore at Stanford and interested in communications and psychology. Currently, I am working on a project on counterfactual thinking and children's development. I am also hoping to explore how culture and race affect cognition. In my free time, I love baking sweets and my favorite drink would have to be mango tea with sea salt foam & boba!"
 
 [[member]]
+    id = "Mary Markley"
+    position = "Research assistant"
+    image = "mary_markley.jpg"
+    email = "mmarkley@stanford.edu"
+    description = "I'm a junior at Stanford majoring in linguistics. I'm interested in anything related to language, especially its intersection with education. I really enjoy baking elaborate cakes for all my friends' birthdays, especially as a form of procrastinating (procrastibaking!). I also spend time climbing trees, painting with watercolors, and staying up all night giving mini lectures to my friends about medieval Germanic phonology."
+
+[[member]]
     id = "Adam Huang"
     position = "Lab affiliate"
     image = "adam_huang.jpg"
