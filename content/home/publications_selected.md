@@ -6,7 +6,7 @@ widget = "publications_selected"
 active = true
 date = 2016-04-20
 
-title = "Selected publications"
+title = "Selected<br>publications"
 #subtitle = "<a href='publication/'>Here</a> is a list of all of our publications"
 subtitle = "[List of all publications >>](publication/)"
 
