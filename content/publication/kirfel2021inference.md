@@ -7,17 +7,16 @@
 # 5 -> 'Thesis'
 
 title = "Inference from explanation"
-date = "2021-09-10"
-status = "accepted"
+date = "2022-01-15"
 authors = ["L. Kirfel","T. F. Icard","T. Gerstenberg"]
 publication_types = ["0", "2"]
 publication_short = "_Journal of Experimental Psychology: General_"
-publication = ""
-abstract = "What do we communicate with causal explanations? Upon being told, 'E because C', one might learn that C and E both occurred, and perhaps that there is a causal relationship between C and E. In fact, causal explanations systematically disclose much more than this basic information. Here, we offer a communication-theoretic account of explanation that makes specific predictions about the kinds of inferences people draw from others' explanations. We test these predictions in a case study involving the role of norms and causal structure. In Experiment 1, we demonstrate that people infer the normality of a cause from an explanation when they know the underlying causal structure. In Experiment 2, we show that people infer the causal structure from an explanation if they know the normality of the cited cause. We find these patterns both for scenarios that manipulate the statistical and prescriptive normality of events. Finally, we consider how the communicative function of explanations, as highlighted in this series of experiments, may help to elucidate the distinctive roles that normality and causal structure play in causal judgment, paving the way toward a more comprehensive account of causal explanation."
+publication = "L. Kirfel, T. F. Icard & T. Gerstenberg (2022). Inference from explanation. _Journal of Experimental Psychology: General_"
+abstract = "What do we communicate with causal explanations? Upon being told, 'E because C', a person might learn that C and E both occurred, and perhaps that there is a causal relationship between C and E. In fact, causal explanations systematically disclose much more than this basic information. Here, we offer a communication-theoretic account of explanation that makes speci!c predictions about the kinds of inferences people draw from others' explanations. We test these predictions in a case study involving the role of norms and causal structure. In Experiment 1, we demonstrate that people infer the normality of a cause from an explanation when they know the underlying causal structure. In Experiment 2, we show that people infer the causal structure from an explanation if they know the normality of the cited cause. We !nd these patterns both for scenarios that manipulate the statistical and prescriptive normality of events. Finally, we consider how the communicative function of explanations, as highlighted in this series of experiments, may help to elucidate the distinctive roles that normality and causal structure play in causal judgment, paving the way toward a more comprehensive account of causal explanation."
 image_preview = ""
 selected = false
 projects = []
-#url_pdf = "papers/kirfel2020inference.pdf"
+url_pdf = "papers/kirfel2022inference.pdf"
 url_preprint = "https://psyarxiv.com/x5mqc"
 url_code = ""
 url_dataset = ""
