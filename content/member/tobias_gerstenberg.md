@@ -46,7 +46,7 @@ publication_name = "T. Gerstenberg"
  
 +++
 
-I'm the PI of Causality in Cognition lab (CICL). You can see me in action [here](https://www.youtube.com/watch?v=q0HLci67Tr8&t=218s). 
+I'm the PI of Causality in Cognition lab (CiCL). You can see me in action [here](https://www.youtube.com/watch?v=q0HLci67Tr8&t=218s). 
 
 ## Research interests
 
@@ -58,7 +58,7 @@ Here are some of the things I'm interested in:
 - mental simulation
 - eye-tracking
 
-You can find out more about what we do in the CICL, what we value, and how to join us [here](../../research_values/). You can also take a look at my [research statement](../../misc/tobias_gerstenberg_research_statement.pdf). 
+You can find out more about what we do in the CiCL, what we value, and how to join us [here](../../research_values/). You can also take a look at my [research statement](../../misc/tobias_gerstenberg_research_statement.pdf). 
 
 ## Contact
 
