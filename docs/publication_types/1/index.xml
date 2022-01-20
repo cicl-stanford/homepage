@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What would have happened? Counterfactuals, hypotheticals, and causal judgments</title>
+      <link>https://cicl.stanford.edu/publication/gerstenberg2021hypothetical/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gerstenberg2021hypothetical/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The trajectory of counterfactual simulation in development</title>
