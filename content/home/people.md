@@ -28,14 +28,13 @@ weight = 3
 	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
 
 [[member]]
-	id = "Zach Davis"
+	id = "Lara Kirfel"
 	position = "Postdoctoral researcher"
-	image = "zach_davis.jpg"
-	email = "zach.davis@nyu.edu"
-	scholar = "citations?user=Sz7sucMAAAAJ&hl=en"
-	cv = "zach_davis.pdf"
-	website = "https://zach-davis.github.io/"
-	description = "I am interested in how people learn complex causal relationships, and how they use that causal knowledge to achieve their goals. I did not like eating durian ice cream."
+	image = "lara_kirfel.jpg"
+	email = "l.kirfel@stanford.edu"
+	github = "LaraKirfel"
+    scholar = "citations?user=uJkMLZwAAAAJ&hl=de"
+    description = "My research focusses on causal reasoning, moral cognition and counterfactual thinking with the occasional dip into philosophy. I like to drink strong black coffee."
 
 [[member]]
 	id = "Ari Beller"
@@ -198,6 +197,16 @@ scholar = "citations?hl=en&user=r90OelAAAAAJ"
 website = "http://anie.me/"
 description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
 
+# [[member]]
+# 	id = "Zach Davis"
+# 	position = "Postdoctoral researcher"
+# 	image = "zach_davis.jpg"
+# 	email = "zach.davis@nyu.edu"
+# 	scholar = "citations?user=Sz7sucMAAAAJ&hl=en"
+# 	cv = "zach_davis.pdf"
+# 	website = "https://zach-davis.github.io/"
+# 	description = "I am interested in how people learn complex causal relationships, and how they use that causal knowledge to achieve their goals. I did not like eating durian ice cream."
+
 #[[member]]
 #	id = "Disha Dasgupta"
 #	position = "Research assistant"
@@ -264,14 +273,6 @@ description = "I’m a Computer Science PhD student focusing on Artificial Intel
 #	email = "antonial@stanford.edu"
 #	description = "I am visiting the CICL for three months. I recently graduated with my masters in Psychology from the University of Göttingen (Germany) and will start my PhD at UC Berkeley this fall. One of my interests is how causal and normative judgments are affected by the social contexts in which they are made. I also like to study causal and social cognition from a developmental perspective. I enjoy drinking coffee."
 
-#[[member]]
-#	id = "Lara Kirfel"
-#	position = "Visiting researcher"
-#	image = "lara_kirfel.jpg"
-#	email = "lara-christina.kirfel.15@ucl.ac.uk"
-#	twitter = "Lara_Kirfel"
-#	github = "LaraKirfel"
-#	description = "I am a psychology PhD student at University College London (UCL) with [Prof. David Lagnado](https://www.ucl.ac.uk/lagnado-lab/index.html) and currently visiting the Causality in Cognition Lab. My PhD research investigates how “soft” factors, e.g. the norm-related features of a causal context, change the way we think about the cause of an event, and whether (and, if so, to what extent) counterfactual theories of causation can capture this. I enjoy eating chocolate."
 
 #[[member]]
 #id = "Ross Kempner"
@@ -316,7 +317,7 @@ description = "I’m a Computer Science PhD student focusing on Artificial Intel
 [[member]]
 id = "Alumni"
 image = "alumni.jpg"
-description = "<ul><li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (Lab affiliate)</li><li>Bryce Linford (Research assistant): Now PhD student at UCLA.</li><li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (Research assistant): Now PhD student at UC Berkeley.</li></ul>"
+description = "<ul> <li> <a href='https://zach-davis.github.io/'>Zach Davis</a> (Postdoc): Now research scientist at Facebook Reality Labs. </li> <li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (Lab affiliate)</li> <li>Bryce Linford (Research assistant): Now PhD student at UCLA.</li> <li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (Research assistant): Now PhD student at UC Berkeley.</li> </ul>"
 
 
 
