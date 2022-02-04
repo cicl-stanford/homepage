@@ -34,7 +34,7 @@ weight = 3
 	email = "l.kirfel@stanford.edu"
 	github = "LaraKirfel"
     scholar = "citations?user=uJkMLZwAAAAJ&hl=de"
-    description = "My research focusses on causal reasoning, moral cognition and counterfactual thinking with the occasional dip into philosophy. I like to drink strong black coffee."
+    description = "My research focuses on causal reasoning, moral cognition and counterfactual thinking with the occasional dip into philosophy. I like to drink strong black coffee."
 
 [[member]]
 	id = "Ari Beller"
