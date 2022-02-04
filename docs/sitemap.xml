@@ -3,8 +3,8 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
-      <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+      <loc>https://cicl.stanford.edu/publication_types/2/</loc>
+      <lastmod>2022-02-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,8 +13,16 @@
     <url>
     
       <loc>https://cicl.stanford.edu/</loc>
-      <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+      <lastmod>2022-02-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/zhou2021jenga/</loc>
+      <lastmod>2022-02-04T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -22,7 +30,7 @@
     <url>
     
       <loc>https://cicl.stanford.edu/publication_types/</loc>
-      <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+      <lastmod>2022-02-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -30,16 +38,8 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication/gerstenberg2021hypothetical/</loc>
-      <lastmod>2022-01-19T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication_types/2/</loc>
-      <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
+      <lastmod>2022-02-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -47,8 +47,16 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication/kirfel2021inference/</loc>
-      <lastmod>2022-01-15T00:00:00+00:00</lastmod>
+      <loc>https://cicl.stanford.edu/publication/gerstenberg2022hypothetical/</loc>
+      <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/kirfel2022inference/</loc>
+      <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -81,32 +89,6 @@
     
       <loc>https://cicl.stanford.edu/publication/langenhoff2021voting/</loc>
       <lastmod>2021-07-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication_types/0/</loc>
-      <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication_types/4/</loc>
-      <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication/smith2020probabilistic/</loc>
-      <lastmod>2021-07-08T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -205,6 +187,15 @@
     
       <loc>https://cicl.stanford.edu/publication/niemi2020moral/</loc>
       <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication_types/4/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   

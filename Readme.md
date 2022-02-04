@@ -1,4 +1,4 @@
-# Readme 
+# Readme
 
 This is the github repo of Stanford's Causality in Cognition Lab homepage.
 
@@ -48,7 +48,7 @@ brew link hugo@0.55.5
 ```
 - Confirm that `hugo version` shows `v0.55.5`.
 
-## Folder organization 
+## Folder organization
 
 ```
 ├── archetypes
@@ -114,7 +114,7 @@ The hugo setup uses a submodule to differentiate the public facing website from 
 - Clone the [submodule](https://github.com/tobiasgerstenberg/tobiasgerstenberg.github.io) into the homepage folder.
 - Rename the submodule to public.
 
-## Update the hompage 
+## Update the hompage
 
 If you have any trouble getting things to work, feel free to post an issue on the github repo. 
 
@@ -140,21 +140,21 @@ Please type a 'message' that communicates what changes you've made.
 - Ideally, it should be square. 
 - Name the picture `firstname_lastname.jpg` and put it into `static/img/members/`. 
 
-#### Add your CV 
+#### Add your CV
 
 - Name your CV `firstname_lastname.pdf` and put it in `static/cv/`.
 
-#### Add your personal page 
+#### Add your personal page
 
 You can create a new webpage by adding a new markdown file with your name into the `content/member/` folder. Just copy the `tobias_gerstenberg.md` file, rename it, and adapt it to your needs. 
 
-#### Update the people page 
+#### Update the people page
 
 In `content/home/people.md` add yourself as a new member. You can simply copy the template. If you don't have twitter or any of the other services, just leave it empty (e.g. `twitter = ""`). 
 
-### Add a publication 
+### Add a publication
 
-#### Update the lab's bibtex file 
+#### Update the lab's bibtex file
 
 - The lab's bibtex file is located here: `static/bibtex/cic_papers.bib`. 
 - Add the bibtex entry of your publication to the file. 
@@ -172,11 +172,11 @@ This will create a new markdown file in the `content/publication/` folder for ea
 
 The parser also puts individual `.bib` files for each publication into `static/files/citations/`. 
 
-#### Add a pdf of your paper 
+#### Add a pdf of your paper
 
 Add a pdf of your paper to `static/papers/` using the same name as the markdown file above (e.g. `gerstenberg2016csm.pdf`).
 
-#### Tweak the publication page 
+#### Tweak the publication page
 
 Navigate to `content/publication/` to open the publication. Adapt the links: 
 
@@ -204,7 +204,7 @@ url_custom = [
 
 You can also add an image to go with the paper by putting it into `static/img/publications/` and linking to by adapting the `image =""` parameter (e.g. `image ="publications/gerstenberg2016csm.png"`).
 
-## Develop the page 
+## Develop the page
 
 Here is a list of the key files to play around with: 
 
@@ -216,28 +216,28 @@ Here is a list of the key files to play around with:
 - `/static/css/custom.css`:
 	+ css file to adapt any of the stylings 
 
-## Test the page 
+## Test the page
 
 Monkeys help us test for broken links: [https://monkeytest.it/](https://monkeytest.it/)
 
 ## Some useful things to know
 
-### Commenting 
+### Commenting
 
 - html: `<-- comment -->` 
 - markdown: `# comment`
 - css: `/* comment */`
 - hugo: `// comment`
 
-### Bibtex 
+### Bibtex
 
 - For the abstracts in the bibtex files, make sure to typeset `"` as `''` (i.e. with two separate quote marks). Otherwise, the metadata in the corresponding `publication.md` file is incorrect. 
 
-## Tutorial links 
+## Tutorial links
 
 - https://georgecushen.com/create-your-website-with-hugo/
 
-## To do list 
+## To do list
 
 - [ ] define personal variables only on people page
 
