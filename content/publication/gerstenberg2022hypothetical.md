@@ -21,7 +21,7 @@ url_preprint = "https://psyarxiv.com/rsb46"
 url_code = ""
 url_dataset = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=0CHHWffBFII&t=70s"
 url_poster = ""
 url_source = ""
 url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/counterfactual_hypothetical"}]
