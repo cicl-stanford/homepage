@@ -82,16 +82,6 @@ weight = 3
 	description = "I am interested in how people gain information about the physical and social world, the degree of accuracy and bias of this information, and how it is used to make decisions. Currently I am exploring collaborative projects involving motivated causal reasoning, early development of theory of mind, and cross-cultural differences in early abstract reasoning. I am working jointly with Dr. Hyowon Gweon's Social Learning Lab and Dr. Michael Frank's Language and Cognition Lab at Stanford. I enjoy rice bowls, bagels and spicy masala chai!"	
 
 [[member]]
-	id = "Xi Jia (Laura) Zhou"
-	position = "Research assistant"
-	image = "xi_jia_zhou.jpg"
-	email = "xijiazho@stanford.edu"
-	twitter = "LauraXijiaZhou"
-	github = "lauraxijia"
-	website = "https://xijiazho.people.stanford.edu/"
-	description = "I am currently a research coordinator at the Social Learning Lab. I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
-
-[[member]]
     id = "Addison Jadwin"
     position = "Research assistant"
     image = "addison_jadwin.jpg"
@@ -137,6 +127,17 @@ weight = 3
     image = "mary_markley.jpg"
     email = "mmarkley@stanford.edu"
     description = "I'm a junior at Stanford majoring in linguistics. I'm interested in anything related to language, especially its intersection with education. I really enjoy baking elaborate cakes for all my friends' birthdays, especially as a form of procrastinating (procrastibaking!). I also spend time climbing trees, painting with watercolors, and staying up all night giving mini lectures to my friends about medieval Germanic phonology."
+
+[[member]]
+	id = "Xi Jia (Laura) Zhou"
+	position = "Lab affiliate"
+	image = "xi_jia_zhou.jpg"
+	email = "xijiazho@stanford.edu"
+	twitter = "LauraXijiaZhou"
+	github = "lauraxijia"
+	website = "https://xijiazho.people.stanford.edu/"
+	description = "I am currently a PhD candidate in Nick Haber's [autonomous agents lab](https://www.autonomousagents.stanford.edu/). I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
+
 
 [[member]]
     id = "Adam Huang"
