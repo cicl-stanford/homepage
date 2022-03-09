@@ -9,7 +9,7 @@
 title = "Expectations affect physical causation judgments"
 date = "2020-09-16"
 authors = ["T. Gerstenberg","T. F. Icard"]
-publication_types = ["2", "1"]
+publication_types = ["2"]
 publication_short = "_Journal of Experimental Psychology: General_"
 publication = "Gerstenberg T., Icard T. F. (2020). Expectations affect physical causation judgments. In _Journal of Experimental Psychology: General_."
 abstract = "When several causes contributed to an outcome, we often single out one as ``the'' cause. What explains this selection? Previous work has argued that people select abnormal events as causes, though recent work shows that sometimes normal events are preferred over abnormal ones. Existing studies have relied on vignettes that commonly feature agents committing immoral acts. An important challenge to the thesis that norms permeate causal reasoning is that people's responses may merely reflect pragmatic or social reasoning rather than arising from causal cognition per se. We test this hypothesis by asking whether the previously observed patterns of causal selection emerge in tasks that recruit participants' causal reasoning about physical systems. Strikingly, we find that the same patterns observed in vignette studies with intentional agents arises in visual animations of physical interactions. Our results demonstrate how deeply normative expectations affect causal cognition."
