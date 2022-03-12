@@ -129,6 +129,14 @@ weight = 3
     description = "I'm a junior at Stanford majoring in linguistics. I'm interested in anything related to language, especially its intersection with education. I really enjoy baking elaborate cakes for all my friends' birthdays, especially as a form of procrastinating (procrastibaking!). I also spend time climbing trees, painting with watercolors, and staying up all night giving mini lectures to my friends about medieval Germanic phonology."
 
 [[member]]
+    id = "Helena Vasconcelos"
+    position = "Lab affiliate"
+    image = "helena_vasconcelos.jpg"
+    email = "helenav@cs.stanford.edu"
+    website = "https://helenavasc.com/"
+    description = "I am interested in how people interact with explainable AI agents, as well as how we can teach models to reason and explain. I am also working with Michael Bernstein's and Ranjay Krishna's groups. I love to eat Brazilian foods!"
+
+[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab affiliate"
 	image = "xi_jia_zhou.jpg"
