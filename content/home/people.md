@@ -129,6 +129,13 @@ weight = 3
     description = "I'm a junior at Stanford majoring in linguistics. I'm interested in anything related to language, especially its intersection with education. I really enjoy baking elaborate cakes for all my friends' birthdays, especially as a form of procrastinating (procrastibaking!). I also spend time climbing trees, painting with watercolors, and staying up all night giving mini lectures to my friends about medieval Germanic phonology."
 
 [[member]]
+    id = "Siying Zhang"
+    position = "Research assistant"
+    image = "siying_zhang.jpg"
+    email = "syzhang6@stanford.edu"
+    description = "I’m a dutiful questioner and an adroit researcher. I have a background in education and second language acquisition. I’m interested in how language affects social category development as well as perceived characteristics of individual social group members. I am also interested in the psychological and sociological disciplines that interact with each other and how the information I’ve learned from both perspectives are related together. So far at Stanford, I’m working on a couple of projects on causal judgements and shape bias. Ultimately, I’m planning to become a human factors researcher or UX research scientist. I love to do high intensity workouts followed by vanilla sweet cream cold brew coffee, or maybe coffee first!"
+
+[[member]]
     id = "Helena Vasconcelos"
     position = "Lab affiliate"
     image = "helena_vasconcelos.jpg"
