@@ -136,6 +136,14 @@ weight = 3
     description = "I’m a dutiful questioner and an adroit researcher. I have a background in education and second language acquisition. I’m interested in how language affects social category development as well as perceived characteristics of individual social group members. I am also interested in the psychological and sociological disciplines that interact with each other and how the information I’ve learned from both perspectives are related together. So far at Stanford, I’m working on a couple of projects on causal judgements and shape bias. Ultimately, I’m planning to become a human factors researcher or UX research scientist. I love to do high intensity workouts followed by vanilla sweet cream cold brew coffee, or maybe coffee first!"
 
 [[member]]
+    id = "Damini Kusum"
+    position = "Research Assistant"
+    image = "damini_kusum.jpg"
+    email = "kdamini@ucla.edu"
+    github = "kdamini"
+    description = "I am interested in the intersection of logic, epistemology, and causality, specifically with respect to formal models of causation. I am also trying to gain more experience in experimental philosophy. I received my undergraduate degree in mathematics from UCLA. In my spare time, I enjoy exploring political documentaries, alternative metal, Sufi, and Hindustani classical music (also, watching Reels)."
+
+[[member]]
     id = "Jeong Shin"
     position = "Research Assistant"
     image = "jeong_shin.jpg"
