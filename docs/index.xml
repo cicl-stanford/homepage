@@ -46,6 +46,15 @@
     </item>
     
     <item>
+      <title>Active causal structure learning in continuous time</title>
+      <link>https://cicl.stanford.edu/publication/gong2022active/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gong2022active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Inference from explanation</title>
       <link>https://cicl.stanford.edu/publication/kirfel2022inference/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -170,30 +179,6 @@
       
       <guid>https://cicl.stanford.edu/publication/gerstenberg2020physical/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Ari Beller</title>
-      <link>https://cicl.stanford.edu/member/ari_beller/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/member/ari_beller/</guid>
-      <description>
-
-&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: abeller@stanford.edu&lt;/p&gt;
-
-&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;computational models of cognition&lt;/li&gt;
-&lt;li&gt;causal inference&lt;/li&gt;
-&lt;li&gt;artificial intelligence&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-</description>
     </item>
     
   </channel>
