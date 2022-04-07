@@ -372,9 +372,8 @@ small,
 }
 
 .big-icon {
-  /* font-size: 1.2rem; */
-  font-size: calc(10px + 1vw);
-  /* font-size: 3vw; */
+  /* font-size: calc(10px + 1vw); */
+  font-size: calc(15px + 0.5vw);
 }
 
 .big-icon:hover {
