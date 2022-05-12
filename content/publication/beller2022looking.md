@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "Looking into the past: Eye-tracking mental simulation in physical inference"
-date = "2022-05-12"
+date = "2022-05-11"
 authors = ["A. Beller","Y. Xu","S. Linderman","T. Gerstenberg"]
 publication_types = ["3"]
 publication_short = "_Cognitive Science Proceedings_"
@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/tracking_inference"}]
 math = true
 highlight = true
 [header]
