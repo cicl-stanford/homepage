@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>2</title>
-      <link>https://cicl.stanford.edu/publication_types/2/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>3</title>
       <link>https://cicl.stanford.edu/publication_types/3/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
@@ -54,6 +45,15 @@
       <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication_types/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://cicl.stanford.edu/publication_types/2/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication_types/2/</guid>
       <description></description>
     </item>
     
