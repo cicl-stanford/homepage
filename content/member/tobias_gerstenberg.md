@@ -46,7 +46,7 @@ publication_name = "T. Gerstenberg"
  
 +++
 
-I'm the PI of Causality in Cognition lab (CiCL). You can see me in action [here](https://www.youtube.com/watch?v=q0HLci67Tr8&t=218s). 
+I'm the PI of the Causality in Cognition lab (CiCL). You can see me in action [here](https://www.youtube.com/watch?v=q0HLci67Tr8&t=218s). 
 
 ## Research interests
 
