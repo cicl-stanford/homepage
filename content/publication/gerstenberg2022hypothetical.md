@@ -7,11 +7,12 @@
 # 5 -> 'Thesis'
 
 title = "What would have happened? Counterfactuals, hypotheticals, and causal judgments"
-date = "2022-02-01"
+date = "2022-06-05"
+year = "{accepted}"
 authors = ["T. Gerstenberg"]
-publication_types = ["1"]
-publication_short = "_PsyArXiv_"
-publication = "Gerstenberg T. (2022). What would have happened? Counterfactuals, hypotheticals, and causal judgments. _PsyArXiv_"
+publication_types = ["0", "2"]
+publication_short = "_Philosophical Transactions of the Royal Society B: Biological Sciences_"
+publication = "Gerstenberg T. (accepted). What would have happened? Counterfactuals, hypotheticals, and causal judgments. _Philosophical Transactions of the Royal Society B: Biological Sciences_"
 abstract = "How do people make causal judgments? In this paper, I show that counterfactual simulations are necessary for explaining causal judgments about events, and that hypotheticals don't suffice. In two experiments, participants viewed video clips of dynamic interactions between billiard balls. In Experiment 1, participants either made hypothetical judgments about whether ball B would go through the gate if ball A weren't present in the scene, or counterfactual judgments about whether ball B would have gone through the gate if ball A hadn't been present. Because the clips featured a block in front of the gate that sometimes moved and sometimes stayed put, hypothetical and counterfactual judgments came apart. A computational model that evaluates hypotheticals and counterfactuals by running noisy physical simulations accurately captured participants' judgments. In Experiment 2, participants judged whether ball A caused ball B to go through the gate. The results showed a tight fit between counterfactual and causal judgments, whereas hypotheticals didn't predict causal judgments. I discuss the implications of this work for theories of causality, and for studying the development of counterfactual thinking in children."
 image_preview = ""
 selected = false
