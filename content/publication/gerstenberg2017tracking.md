@@ -22,7 +22,7 @@ abstract= "How do people make causal judgments? What role, if any, does counterf
 
 # Links (optional).
 url_pdf = "papers/gerstenberg2017tracking.pdf"
-# url_preprint = "https://osf.io/ugbk3/download"
+url_preprint = "https://psyarxiv.com/jr73v/"
 url_code = ""
 url_dataset = ""
 url_project = ""
