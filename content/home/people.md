@@ -152,6 +152,14 @@ weight = 3
     description = "I’m an undergraduate studying Symbolic Systems & Asian American Studies. I’m interested in how people interact and communicate with each other, and how we use the power of computational models and technology to help us answer questions in these fields. Exploring how our identities (race, gender, culture, etc) may impact such interactions is something that deeply interests me, as well. I love hiking, shopping for earrings, and stress-baking, and my top three drinks would have to be matcha, black coffee, and kombucha."
 
 [[member]]
+    id = "Selena She"
+    position = "Research Assistant"
+    image = "selena_she.jpg"
+    email = "jshe@haverford.edu"
+    github = "selena-she"
+    description = "I’m a rising senior and a Stanford CSLI summer intern! I’m interested in how humans rapidly and cooperatively extract information in the form of language. What are the cognitive and neural basis of these abilities? Can we try to represent/simulate them with computational models? Currently, I use a combination of NLP techniques and behavioral experiments to see how humans and machines deal with concepts, categorization, and lexical/event semantics. In the long term, I want to learn to use text data and neuroimaging to answer these cognitive questions in a meaningful way."
+
+[[member]]
     id = "Helena Vasconcelos"
     position = "Lab Affiliate"
     image = "helena_vasconcelos.jpg"
