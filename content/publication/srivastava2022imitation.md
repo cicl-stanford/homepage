@@ -8,7 +8,7 @@
 
 title = "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
 date = "2022-06-20"
-authors = ["A. Srivastava","...", "A. Nie", "...", "T. Gerstenberg", "..."]
+authors = ["A. Srivastava","...", "A. Nie", "...", "T. Gerstenberg", "et al."]
 publication_types = ["1"]
 publication_short = "_arXiv_"
 publication = "Srivastava et al. (2022). Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models. In _arXiv_."
