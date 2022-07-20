@@ -175,7 +175,7 @@ weight = 3
 	twitter = "LauraXijiaZhou"
 	github = "lauraxijia"
 	website = "https://xijiazho.people.stanford.edu/"
-	description = "I am currently a PhD candidate in Nick Haber's [autonomous agents lab](https://www.autonomousagents.stanford.edu/). I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
+	description = "I am currently a PhD candidate in Nick Haber's [Autonomous Agents Lab](https://www.autonomousagents.stanford.edu/). I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
 
 
 [[member]]
@@ -236,6 +236,14 @@ weight = 3
     scholar = "citations?hl=en&user=r90OelAAAAAJ"
     website = "http://anie.me/"
     description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
+
+[[member]]
+    id = "Elyse Chase"
+    position = "Lab Affiliate"
+    image = "elyse_chase.jpg"
+    email = "elysec@stanford.edu"
+    website = "https://www.elysechase.com/"
+    description = "I am a Mechanical Engineering PhD student in the [Shape Lab](https://shape.stanford.edu/). My research interests are focused on exploring the role that haptic feedback plays in our perception of the world. I also like to paint."
 
 # [[member]]
 # 	id = "Zach Davis"
