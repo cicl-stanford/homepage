@@ -245,6 +245,17 @@ weight = 3
     website = "https://www.elysechase.com/"
     description = "I am a Mechanical Engineering PhD student in the [Shape Lab](https://shape.stanford.edu/). My research interests are focused on exploring the role that haptic feedback plays in our perception of the world. I also like to paint."
 
+[[member]]
+    id = "Ben Prystawski"
+    position = "Lab Affiliate"
+    image = "ben_prystawski.jpg"
+    email = "benpry@stanford.edu"
+    twitter = "BenPrystawski"
+    github = "benpry"
+    scholar = "citations?user=Ns8jBNsAAAAJ"
+    website = "https://benprystawski.com/"
+    description = "I am a PhD student in the [CoCoLab](http://cocolab.stanford.edu/). My research involves studying how pedagogical language shapes cultural transmission of knowledge and analyzing connections between large language models and probabilistic models of cognition. I like rock climbing."
+
 # [[member]]
 # 	id = "Zach Davis"
 # 	position = "Postdoctoral Researcher"
