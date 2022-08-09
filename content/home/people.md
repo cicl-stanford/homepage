@@ -227,6 +227,14 @@ weight = 3
     website = "https://benprystawski.com/"
     description = "I am a PhD student in the [CoCoLab](http://cocolab.stanford.edu/). My research involves studying how pedagogical language shapes cultural transmission of knowledge and analyzing connections between large language models and probabilistic models of cognition. I like rock climbing."
 
+[[member]]
+    id = "Kate Petrova"
+    position = "Lab Affiliate"
+    email = "kpetrova@stanford.edu"
+    twitter = "kate_ptrv"
+    website = "https://www.kpetrova.com"
+    description = "I am an affective science PhD Student at the [Stanford Psychophysiology Lab](https://spl.stanford.edu/). I use a combination of behavioral experiments, experience-sampling, physiological measures, and computational modeling to understand how beliefs about emotions shape emotion regulation. When I am not in the lab, you can find me 3,000ft up in the sky, working towards my private pilot license!"
+
 # [[member]]
 # 	id = "Zach Davis"
 # 	position = "Postdoctoral Researcher"
