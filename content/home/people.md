@@ -18,7 +18,6 @@ weight = 3
 [[member]]
 	id = "Tobias Gerstenberg"
 	position = "Principal Investigator"
-	image = "tobias_gerstenberg.jpg"
 	email = "gerstenberg@stanford.edu"
 	twitter = "tobigerstenberg"
 	github = "tobiasgerstenberg"
@@ -30,7 +29,6 @@ weight = 3
 [[member]]
 	id = "Lara Kirfel"
 	position = "Postdoctoral Researcher"
-	image = "lara_kirfel.jpg"
 	email = "l.kirfel@stanford.edu"
 	github = "LaraKirfel"
     scholar = "citations?user=uJkMLZwAAAAJ&hl=de"
@@ -39,7 +37,6 @@ weight = 3
 [[member]]
 	id = "Ari Beller"
 	position = "Graduate Student"
-    image = "ari_beller.jpg"
 	email = "aribeller@gmail.com"
 	github = "aribeller"
 	cv = "ari_beller.pdf"
@@ -49,7 +46,6 @@ weight = 3
 [[member]]
 	id = "David Rose"
 	position = "Graduate Student"
-	image = "david_rose.jpg"
 	email = "davdrose@stanford.edu"
 	scholar = "citations?user=-hAqrvwAAAAJ&hl=en"
 	website = "https://philpeople.org/profiles/david-rose"
@@ -58,7 +54,6 @@ weight = 3
 [[member]]
 	id = "Sarah Wu"
 	position = "Graduate Student"
-	image = "sarah_wu.jpg"
 	email = "sarahawu@stanford.edu"
 	github = "sarahawu"
     website = "https://sarahawu.github.io/"
@@ -67,7 +62,6 @@ weight = 3
 [[member]]
 	id = "Yingchen Xu"
 	position = "Research Assistant"
-	image = "yingchen_xu.jpg"
 	email = "yingchenxu20@gmail.com"
 	github = "yukichul"
 	description = "I am interested in understanding human learning and I am excited about building machines that can think like human beings. I did my undergraduate studies in CS and math, and have worked on some research and applications in ML. I love backpacking!"
@@ -75,7 +69,6 @@ weight = 3
 [[member]]
 	id = "Joseph Outa"
 	position = "Research Assistant"
-	image = "joseph_outa.jpg"
 	email = "joo25@cornell.edu"
 	twitter = "outa_joseph"
 	github = "JosephOuta"
@@ -84,14 +77,12 @@ weight = 3
 [[member]]
     id = "Addison Jadwin"
     position = "Research Assistant"
-    image = "addison_jadwin.jpg"
     email = "ajadwin@stanford.edu"
     description = "I'm a junior at Stanford majoring in symbolic systems. I'm interested in understanding cognition through computational models. Outside of this I enjoy playing viola and taking care of my fish and corals!"
 
 [[member]]
     id = "Ricky Ma"
     position = "Research Assistant"
-    image = "ricky_ma.jpg"
     email = "ricky.ma@alumni.ubc.ca"
     github = "ricky-ma"
     website = "https://ricky-ma.github.io/"
@@ -101,7 +92,6 @@ weight = 3
 [[member]]
     id = "Shruti Sridhar"
     position = "Research Assistant"
-    image = "shruti_sridhar.jpg"
     email = "shrutisr@stanford.edu"
     github = "shruti-sridhar"
     description = "I am a sophomore at Stanford looking to major in Computer Science on the AI track. I am interested in using computational models to explore causality in social settings. Outside of that, I enjoy dancing and amateur vegan baking."
@@ -109,14 +99,12 @@ weight = 3
 [[member]]
     id = "Sloan Charles"
     position = "Research Assistant"
-    image = "sloan_charles.jpg"
     email = "sloanc24@stanford.edu"
     description = "I am a sophomore at Stanford planning to major in Psychology and minor in Creative Writing and/or African and African American Studies. I am working on a developmental project focused on children’s cognition, and I hope to work more with children in the future. I love eating soup dumplings and crispy tofu!"
 
 [[member]]
     id = "Hana Dao"
     position = "Research Assistant"
-    image = "hana_dao.jpg"
     email = "hanadao@stanford.edu"
     github = "hanaddao"
     description = "I am a sophomore at Stanford and interested in communications and psychology. Currently, I am working on a project on counterfactual thinking and children's development. I am also hoping to explore how culture and race affect cognition. In my free time, I love baking sweets and my favorite drink would have to be mango tea with sea salt foam & boba!"
@@ -124,21 +112,18 @@ weight = 3
 [[member]]
     id = "Mary Markley"
     position = "Research Assistant"
-    image = "mary_markley.jpg"
     email = "mmarkley@stanford.edu"
     description = "I'm a junior at Stanford majoring in linguistics. I'm interested in anything related to language, especially its intersection with education. I really enjoy baking elaborate cakes for all my friends' birthdays, especially as a form of procrastinating (procrastibaking!). I also spend time climbing trees, painting with watercolors, and staying up all night giving mini lectures to my friends about medieval Germanic phonology."
 
 [[member]]
     id = "Siying Zhang"
     position = "Research Assistant"
-    image = "siying_zhang.jpg"
     email = "syzhang6@stanford.edu"
     description = "I’m a dutiful questioner and an adroit researcher. I have a background in education and second language acquisition. I’m interested in how language affects social category development as well as perceived characteristics of individual social group members. I am also interested in the psychological and sociological disciplines that interact with each other and how the information I’ve learned from both perspectives are related together. So far at Stanford, I’m working on a couple of projects on causal judgements and shape bias. Ultimately, I’m planning to become a human factors researcher or UX research scientist. I love to do high intensity workouts followed by vanilla sweet cream cold brew coffee, or maybe coffee first!"
 
 [[member]]
     id = "Damini Kusum"
     position = "Research Assistant"
-    image = "damini_kusum.jpg"
     email = "kdamini@ucla.edu"
     github = "kdamini"
     description = "I am interested in the intersection of logic, epistemology, and causality, specifically with respect to formal models of causation. I am also trying to gain more experience in experimental philosophy. I received my undergraduate degree in mathematics from UCLA. In my spare time, I enjoy exploring political documentaries, alternative metal, Sufi, and Hindustani classical music (also, watching Reels)."
@@ -146,7 +131,6 @@ weight = 3
 [[member]]
     id = "Jeong Shin"
     position = "Research Assistant"
-    image = "jeong_shin.jpg"
     email = "jyshin@stanford.edu"
     github = "jshinnn"
     description = "I’m an undergraduate studying Symbolic Systems & Asian American Studies. I’m interested in how people interact and communicate with each other, and how we use the power of computational models and technology to help us answer questions in these fields. Exploring how our identities (race, gender, culture, etc) may impact such interactions is something that deeply interests me, as well. I love hiking, shopping for earrings, and stress-baking, and my top three drinks would have to be matcha, black coffee, and kombucha."
@@ -154,7 +138,6 @@ weight = 3
 [[member]]
     id = "Selena She"
     position = "Research Assistant"
-    image = "selena_she.jpg"
     email = "jshe@haverford.edu"
     github = "selena-she"
     description = "I’m a rising senior and a Stanford CSLI summer intern! I’m interested in how humans rapidly and cooperatively extract information in the form of language. What are the cognitive and neural basis of these abilities? Can we try to represent/simulate them with computational models? Currently, I use a combination of NLP techniques and behavioral experiments to see how humans and machines deal with concepts, categorization, and lexical/event semantics. In the long term, I want to learn to use text data and neuroimaging to answer these cognitive questions in a meaningful way."
@@ -162,7 +145,6 @@ weight = 3
 [[member]]
     id = "Helena Vasconcelos"
     position = "Lab Affiliate"
-    image = "helena_vasconcelos.jpg"
     email = "helenav@cs.stanford.edu"
     website = "https://helenavasc.com/"
     description = "I am interested in how people interact with explainable AI agents, as well as how we can teach models to reason and explain. I am also working with Michael Bernstein's and Ranjay Krishna's groups. I love to eat Brazilian foods!"
@@ -181,7 +163,6 @@ weight = 3
 [[member]]
     id = "Adam Huang"
     position = "Lab Affiliate"
-    image = "adam_huang.jpg"
     email = "jiaqiadamhuang@gmail.com"
     github = "adamhuang11111"
     website = "https://sites.google.com/view/jiaqihuang"
@@ -190,7 +171,6 @@ weight = 3
 [[member]]
 	id = "Elisa Kreiss"
 	position = "Lab Affiliate"
-	image = "elisa_kreiss.jpg"
 	email = "ekreiss@stanford.edu"
 	twitter = "ElisaKreiss"
 	github = "elisakreiss"
@@ -201,19 +181,14 @@ weight = 3
 [[member]]
 	id = "Andrew Nam"
 	position = "Lab Affiliate"
-	image = "andrew_nam.jpg"
 	email = "ajhnam@stanford.edu"
-	#twitter = ""
 	github = "andrewnam"
-	#scholar = ""
-	#website = ""
 	cv = "andrew_nam.pdf"
 	description = "I'm a PhD student in the [PDP lab](https://web.stanford.edu/group/pdplab/index.html). My research is on computational cognitive modeling, that is, identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
 
 [[member]]
 	id = "Max Kanwal"
 	position = "Lab Affiliate"
-	image = "max_kanwal.jpg"
 	email = "kanwal@stanford.edu"
 	scholar = "citations?user=o1qFlsgAAAAJ&hl=en&oi=ao"
 	description = "I'm a PhD student focusing on theoretical neuroscience and neuroengineering.  I'm interested in developing foundational theory for neural interfacing.  Consequently, I am broadly interested in topics related to network causal inference.  I'm also always on the lookout for good vegan cheesecake."
@@ -221,7 +196,6 @@ weight = 3
 [[member]]
 	id = "Liang Zhou"
 	position = "Lab Affiliate"
-	image = "liang_zhou.jpg"
 	email = "liang.zhou.18@ucl.ac.uk"
 	github = "lzil"
 	website = "https://lzil.github.io/"
@@ -230,7 +204,6 @@ weight = 3
 [[member]]
     id = "Allen Nie"
     position = "Lab Affiliate"
-    image = "allen_nie.jpg"
     email = "anie@stanford.edu"
     twitter = "Allen_A_N"
     scholar = "citations?hl=en&user=r90OelAAAAAJ"
@@ -240,7 +213,6 @@ weight = 3
 [[member]]
     id = "Elyse Chase"
     position = "Lab Affiliate"
-    image = "elyse_chase.jpg"
     email = "elysec@stanford.edu"
     website = "https://www.elysechase.com/"
     description = "I am a Mechanical Engineering PhD student in the [Shape Lab](https://shape.stanford.edu/). My research interests are focused on exploring the role that haptic feedback plays in our perception of the world. I also like to paint."
@@ -248,7 +220,6 @@ weight = 3
 [[member]]
     id = "Ben Prystawski"
     position = "Lab Affiliate"
-    image = "ben_prystawski.jpg"
     email = "benpry@stanford.edu"
     twitter = "BenPrystawski"
     github = "benpry"
@@ -259,7 +230,6 @@ weight = 3
 # [[member]]
 # 	id = "Zach Davis"
 # 	position = "Postdoctoral Researcher"
-# 	image = "zach_davis.jpg"
 # 	email = "zach.davis@nyu.edu"
 # 	scholar = "citations?user=Sz7sucMAAAAJ&hl=en"
 # 	cv = "zach_davis.pdf"
@@ -269,19 +239,15 @@ weight = 3
 #[[member]]
 #	id = "Disha Dasgupta"
 #	position = "Research assistant"
-#	image = "disha_dasgupta.jpg"
 #	email = "disha01@stanford.edu"
 #	twitter = "DishaDasgupta"
 #	github = "dishadasgupta"
-#	#scholar = ""
-#	#cv = ""
 #	#website = "disha_dasgupta"
 #	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
 #[[member]]
 #	id = "Alan Brown"
 #	position = "Research assistant"
-#	image = "alan_brown.jpg"
 #	email = "alanb@stanford.edu"
 #	twitter = "alanbrown4700"
 #	cv = "alan_brown.pdf"
@@ -290,7 +256,6 @@ weight = 3
 #[[member]]
 #	id = "Tina Hua"
 #	position = "Research assistant"
-#	image = "tina_hua.jpg"
 #	email = "teenana95@gmail.com"
 #	github = "t6hua"
 #	cv = "tina_hua.pdf"
@@ -299,7 +264,6 @@ weight = 3
 # [[member]]
 # 	id = "Shardul Chiplunkar"
 # 	position = "Winter intern"
-# 	image = "shardul_chiplunkar.png"
 # 	email = "shardulc@mit.edu"
 # 	github = "shardulc"
 # 	website = "https://www.mit.edu/~shardulc/"
@@ -309,7 +273,6 @@ weight = 3
 # [[member]]
 # id = "Jingren Wang"
 # position = "Summer intern"
-# image = "jingren_wang.jpg"
 # email = "jingren.wang@minerva.kgi.edu"
 # github = "https://github.com/JrenW"
 # description = "I am a rising junior at Minerva Schools at KGI majoring in computer science with double concentrations in AI and data science, and minoring in cognitive psychology. I am curious about how the human mind constructs causal models to understand the world, and to what extent machines can learn and adapt to this incredible ability. I love all sorts of tea (and # boba, of course!)."
@@ -317,7 +280,6 @@ weight = 3
 #[[member]]
 #	id = "Minyoung Lee"
 #	position = "Lab Affiliate"
-#	image = "minyoung_lee.jpg"
 #	email = "mlee17@stanford.edu"
 #	# twitter = ""
 #	github = "mlee17"
@@ -328,7 +290,6 @@ weight = 3
 #[[member]]
 #	id = "Antonia Langenhoff"
 #	position = "Visiting researcher"
-#	image = "antonia_langenhoff.jpg"
 #	email = "antonial@stanford.edu"
 #	description = "I am visiting the CICL for three months. I recently graduated with my masters in Psychology from the University of Göttingen (Germany) and will start my PhD at UC Berkeley this fall. One of my interests is how causal and normative judgments are affected by the social contexts in which they are made. I also like to study causal and social cognition from a developmental perspective. I enjoy drinking coffee."
 
@@ -336,14 +297,12 @@ weight = 3
 #[[member]]
 #id = "Ross Kempner"
 #position = "Summer intern"
-#image = "ross_kempner.jpg"
 #email = "rkempner@umich.edu"
 #description  = "I am a rising junior at the University of Michigan majoring in computational cognitive science, interdisciplinary physics with a focus in physics and philosophy, and minoring in computer science. I am interested in interdisciplinary research at the intersection of these fields. I plan to pursue graduate studies in computational cognitive science."
 
 #[[member]]
 #id = "Bryce Linford"
 #position = "Research assistant"
-#image = "bryce_linford.jpg"
 #email = "linford5@stanford.edu"
 #github = "brycelinford"
 #cv = "bryce_linford.pdf"
@@ -352,9 +311,7 @@ weight = 3
 #[[member]]
 #id = "Cai Guo"
 #position = "Lab Affiliate"
-#image = "cai_guo.jpg"
 #email = "caiguo@stanford.edu"
-##twitter = ""
 #github = "caiguostanford"
 #scholar = "citations?user=lk-7P8oAAAAJ&hl=en"
 #website = "http://web.stanford.edu/~caiguo/"
@@ -364,18 +321,14 @@ weight = 3
 #[[member]]
 #id = "Erin Bennett"
 #position = "Lab Affiliate"
-#image = "erin_bennett.jpg"
 #email = "erindb@stanford.edu"
-##twitter = ""
 #github = "erindb"
 #scholar = "citations?user=0tRBAFQAAAAJ&hl=en&authuser=1"
 #website = "http://web.stanford.edu/~erindb/"
-##cv = ""
 #description = "I'm a Psychology PhD student primarily in the [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
 
 [[member]]
 id = "Alumni"
-image = "alumni.jpg"
 description = "<ul> <li> <a href='https://zach-davis.github.io/'>Zach Davis</a> (postdoc): Now research scientist at Facebook Reality Labs. </li> <li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (lab affiliate)</li> <li>Bryce Linford (research assistant): Now PhD student at UCLA.</li> <li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (research assistant): Now PhD student at UC Berkeley.</li> </ul>"
 
 
