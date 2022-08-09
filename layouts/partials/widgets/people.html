@@ -51,9 +51,6 @@
       </div>
     </div>
     <div class='people-description'>
-      <p>{{ with .description }}{{ . | markdownify }}{{ end }}</p>
-      <!-- E-Mail: <a href="mailto:{{.email}}" title="E-Mail" target="_top">{{.email}}</a> -->
-      <!-- <br> -->
       {{if .website}}
         {{if in .website "http"}}
         <a href={{.website}} title="Website" target="_top">> Personal website</a>
@@ -61,6 +58,9 @@
         <a href="member/{{.website}}" title="Website" target="_top">> Personal website</a>
         {{end}}
       {{end}}
+      <p>{{ with .description }}{{ . | markdownify }}{{ end }}</p>
+      <!-- E-Mail: <a href="mailto:{{.email}}" title="E-Mail" target="_top">{{.email}}</a> -->
+      <!-- <br> -->
     </div>
     <div class = 'spacer'></div>
     </div>
