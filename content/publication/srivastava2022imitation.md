@@ -24,7 +24,9 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/google/BIG-bench"}]
+url_custom = [{name = "Github", url = "https://github.com/google/BIG-bench"},
+{name = "Press: Synced", url = "https://syncedreview.com/2022/06/14/444-authors-from-132-institutions-release-big-bench-a-204-task-extremely-difficult-and-diverse-benchmark-for-large-language-models/"}
+]
 math = true
 highlight = true
 [header]
