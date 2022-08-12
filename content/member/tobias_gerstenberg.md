@@ -22,7 +22,7 @@ publication_name = "T. Gerstenberg"
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Assistant Professor in Psychology, 2018"
+  course = "Assistant Professor in Psychology, 2018-present"
   institution = "Stanford University"
 
 [[education.courses]]
