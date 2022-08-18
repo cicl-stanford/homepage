@@ -235,6 +235,13 @@ weight = 3
     website = "https://www.kpetrova.com"
     description = "I am an affective science PhD Student at the [Stanford Psychophysiology Lab](https://spl.stanford.edu/). I use a combination of behavioral experiments, experience-sampling, physiological measures, and computational modeling to understand how beliefs about emotions shape emotion regulation. When I am not in the lab, you can find me 3,000ft up in the sky, working towards my private pilot license!"
 
+[[member]]
+    id = "Peter Zhu"
+    position = "Lab Affiliate"
+    email = "pgzhu@stanford.edu"
+    twitter = "petergzhu"
+    description = "I am a PhD Student in the [Stanford Social Learning Lab](http://sll.stanford.edu/). My research interests focus on the representations and motivations that guide learning and play early in life. I like to eat tacos and drink coffee."
+
 # [[member]]
 # 	id = "Zach Davis"
 # 	position = "Postdoctoral Researcher"
