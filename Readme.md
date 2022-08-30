@@ -26,19 +26,12 @@ You should be on the branch `master` for all three of them. If not, then type `g
 
 ### Installing `hugo`
 
+#### Using brew (only works for older macs)
+
 - First, install `homebrew` following the instructions [here](https://brew.sh/).
 - The current version of the homepage works with hugo version 0.55.5. To install this particular version, run the following commands (see [this post](https://www.fernandomc.com/posts/brew-install-legacy-hugo-site-generator/) for more info).
 
-```
-brew unlink hugo
-brew install https://raw.githubusercontent.com/Homebrew/homebrew-core/2d7e602ad4c26d1d509e5f6c17fd5911323788a3/Formula/hugo.rb
-```
-
-You might get the following error:
-```
-Error: Calling Installation of hugo from a GitHub commit URL is disabled! Use 'brew extract hugo' to stable tap on GitHub instead.
-```
-in which case run the following commands to install from tap instead (see [this thread](https://discourse.brew.sh/t/has-brew-install-force-formula-raw-path-been-taken-out/8793) for more details).
+run the following commands to install from tap instead (see [this thread](https://discourse.brew.sh/t/has-brew-install-force-formula-raw-path-been-taken-out/8793) for more details).
 ```
 brew unlink hugo
 brew tap-new company/team
@@ -47,6 +40,12 @@ brew install company/team/hugo@0.55.5
 brew link hugo@0.55.5
 ```
 - Confirm that `hugo version` shows `v0.55.5`.
+
+#### Manual installation (works for M1 macs)
+
+- Follow the instructions of this blog [post here](https://datacenterjourney.com/2021/install-specific-version-hugo-macos/#:~:text=If%20you%20want%20to%20install,version%20you%20want%20to%20install.&text=For%20this%20document%2C%20we%20will,on%20the%20version%20number%20link.)
+- The release for hugo0.55.5 is [here](https://github.com/gohugoio/hugo/releases/tag/v0.55.5).
+	+ If you're on a mac, use the following file: `hugo_0.55.5_macOS-64bit.tar.gz`
 
 ## Folder organization
 
