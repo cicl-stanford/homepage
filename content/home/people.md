@@ -143,6 +143,15 @@ weight = 3
     description = "I’m a rising senior and a Stanford CSLI summer intern! I’m interested in how humans rapidly and cooperatively extract information in the form of language. What are the cognitive and neural basis of these abilities? Can we try to represent/simulate them with computational models? Currently, I use a combination of NLP techniques and behavioral experiments to see how humans and machines deal with concepts, categorization, and lexical/event semantics. In the long term, I want to learn to use text data and neuroimaging to answer these cognitive questions in a meaningful way."
 
 [[member]]
+    id = "Xenia Bunk"
+    position = "Research Assistant"
+    email = "xenia.bunk@gmx.de"
+    github = "xeniabunk"
+    linkedin = "xeniabunk"
+    cv = "xenia_bunk.pdf"
+    description = "I am a graduate student in Psychology and Cognitive Neuroscience at LMU Munich and Technology Management at the Center for Digital Technology and Management. I am passionate about topics on the intersection of psychology and computer science and wrote my master thesis on theory of mind implementations in artificial systems. During my research assistantship I will research on wilful ignorance."
+
+[[member]]
     id = "Helena Vasconcelos"
     position = "Lab Affiliate"
     email = "helenav@cs.stanford.edu"
