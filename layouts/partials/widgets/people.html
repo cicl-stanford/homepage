@@ -36,6 +36,9 @@
 		</a> {{end}} {{if .scholar}}
         <a href="https://scholar.google.com/{{.scholar}}" title="Google Scholar" target="_blank">
 		<i class="ai ai-google-scholar big-icon"></i>
+		</a> {{end}} {{if .linkedin}}
+        <a href="https://www.linkedin.com/in/{{.linkedin}}" title="LinkedIn" target="_blank">
+		<i class="fab fa-linkedin big-icon"></i>
 		</a> {{end}} 
     {{if .email}}
         <a href="mailto:{{.email}}" title="E-Mail" target="_top">
