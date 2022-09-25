@@ -60,13 +60,6 @@ weight = 3
 	description = "I’m interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
 [[member]]
-	id = "Yingchen Xu"
-	position = "Research Assistant"
-	email = "yingchenxu20@gmail.com"
-	github = "yukichul"
-	description = "I am interested in understanding human learning and I am excited about building machines that can think like human beings. I did my undergraduate studies in CS and math, and have worked on some research and applications in ML. I love backpacking!"
-
-[[member]]
 	id = "Joseph Outa"
 	position = "Research Assistant"
 	email = "joo25@cornell.edu"
@@ -95,12 +88,6 @@ weight = 3
     email = "shrutisr@stanford.edu"
     github = "shruti-sridhar"
     description = "I am a sophomore at Stanford looking to major in Computer Science on the AI track. I am interested in using computational models to explore causality in social settings. Outside of that, I enjoy dancing and amateur vegan baking."
-
-[[member]]
-    id = "Sloan Charles"
-    position = "Research Assistant"
-    email = "sloanc24@stanford.edu"
-    description = "I am a sophomore at Stanford planning to major in Psychology and minor in Creative Writing and/or African and African American Studies. I am working on a developmental project focused on children’s cognition, and I hope to work more with children in the future. I love eating soup dumplings and crispy tofu!"
 
 [[member]]
     id = "Hana Dao"
@@ -168,7 +155,6 @@ weight = 3
 	website = "https://xijiazho.people.stanford.edu/"
 	description = "I am currently a PhD candidate in Nick Haber's [Autonomous Agents Lab](https://www.autonomousagents.stanford.edu/). I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
 
-
 [[member]]
     id = "Adam Huang"
     position = "Lab Affiliate"
@@ -176,16 +162,6 @@ weight = 3
     github = "adamhuang11111"
     website = "https://sites.google.com/view/jiaqihuang"
     description = "I did my undergraduate in physics and mathematics. I am interested in computational models of causal reasoning, and how they support intuitive physical predictions. I am also interested in cognitive biases that shape how we perceive real physical world. I like to play and watch soccer."
-
-[[member]]
-	id = "Elisa Kreiss"
-	position = "Lab Affiliate"
-	email = "ekreiss@stanford.edu"
-	twitter = "ElisaKreiss"
-	github = "elisakreiss"
-	#scholar = ""
-	#website = "http://elisakreiss.com/"
-	description = "I’m a Linguistics PhD student and member of the [ALPS lab](http://alpslab.stanford.edu/). I'm interested in cognitive and computational approaches towards understanding language production and comprehension. I received my undergraduate degree in Cognitive Science. I also like to eat cake."
 
 [[member]]
 	id = "Andrew Nam"
@@ -260,7 +236,7 @@ weight = 3
 # 	website = "https://zach-davis.github.io/"
 # 	description = "I am interested in how people learn complex causal relationships, and how they use that causal knowledge to achieve their goals. I did not like eating durian ice cream."
 
-#[[member]]
+# [[member]]
 #	id = "Disha Dasgupta"
 #	position = "Research assistant"
 #	email = "disha01@stanford.edu"
@@ -269,7 +245,7 @@ weight = 3
 #	#website = "disha_dasgupta"
 #	description = "I am a rising junior at Stanford University. I am interested in Computer Science, Math, and Cognitive Science - which I plan to pursue with a career as a Data Scientist. Outside of these interests, I also enjoy playing the piano, dancing, reading, and eating exorbitant amounts of sugar."
 
-#[[member]]
+# [[member]]
 #	id = "Alan Brown"
 #	position = "Research assistant"
 #	email = "alanb@stanford.edu"
@@ -277,7 +253,7 @@ weight = 3
 #	cv = "alan_brown.pdf"
 #	description = "I am a rising senior at Stanford majoring in psychology with an interest in neuroscience, sleep, and emotion regulation. I am interested in how brain injuries, in conjunction with innate factors, can influence daily lives. I think carbonated water is an underrated drink."
 
-#[[member]]
+# [[member]]
 #	id = "Tina Hua"
 #	position = "Research assistant"
 #	email = "teenana95@gmail.com"
@@ -301,7 +277,7 @@ weight = 3
 # github = "https://github.com/JrenW"
 # description = "I am a rising junior at Minerva Schools at KGI majoring in computer science with double concentrations in AI and data science, and minoring in cognitive psychology. I am curious about how the human mind constructs causal models to understand the world, and to what extent machines can learn and adapt to this incredible ability. I love all sorts of tea (and # boba, of course!)."
 
-#[[member]]
+# [[member]]
 #	id = "Minyoung Lee"
 #	position = "Lab Affiliate"
 #	email = "mlee17@stanford.edu"
@@ -311,45 +287,67 @@ weight = 3
 #	#website = ""
 #	description = "I am a PhD student studying cognitive neuroscience primarily in the [Gardner lab](http://gru.stanford.edu/doku.php/shared/home). I am interested in sensory cue combination and how sensory reliability is represented in the brain."
 
-#[[member]]
+# [[member]]
 #	id = "Antonia Langenhoff"
 #	position = "Visiting researcher"
 #	email = "antonial@stanford.edu"
-#	description = "I am visiting the CICL for three months. I recently graduated with my masters in Psychology from the University of Göttingen (Germany) and will start my PhD at UC Berkeley this fall. One of my interests is how causal and normative judgments are affected by the social contexts in which they are made. I also like to study causal and social cognition from a developmental perspective. I enjoy drinking coffee."
+#    description = "I am visiting the CICL for three months. I recently graduated with my masters in Psychology from the University of Göttingen (Germany) and will start my PhD at UC Berkeley this fall. One of my interests is how causal and normative judgments are affected by the social contexts in which they are made. I also like to study causal and social cognition from a developmental perspective. I enjoy drinking coffee."
 
+# [[member]]
+# id = "Sloan Charles"
+# position = "Research Assistant"
+# email = "sloanc24@stanford.edu"
+# description = "I am a sophomore at Stanford planning to major in Psychology and minor in Creative Writing and/or African and African American Studies. I am working on a developmental project focused on children’s cognition, and I hope to work more with children in the future. I love eating soup dumplings and crispy tofu!"
 
-#[[member]]
-#id = "Ross Kempner"
-#position = "Summer intern"
-#email = "rkempner@umich.edu"
-#description  = "I am a rising junior at the University of Michigan majoring in computational cognitive science, interdisciplinary physics with a focus in physics and philosophy, and minoring in computer science. I am interested in interdisciplinary research at the intersection of these fields. I plan to pursue graduate studies in computational cognitive science."
+# [[member]]
+# id = "Ross Kempner"
+# position = "Summer intern"
+# email = "rkempner@umich.edu"
+# description  = "I am a rising junior at the University of Michigan majoring in computational cognitive science, interdisciplinary physics with a focus in physics and philosophy, and minoring in computer science. I am interested in interdisciplinary research at the intersection of these fields. I plan to pursue graduate studies in computational cognitive science."
 
-#[[member]]
-#id = "Bryce Linford"
-#position = "Research assistant"
-#email = "linford5@stanford.edu"
-#github = "brycelinford"
-#cv = "bryce_linford.pdf"
-#description = "I am interested in using computational and behavioral approaches to study how people make inferences, judgments, and decisions with limited cognitive resources. I like to drink milk."
+# [[member]]
+# id = "Bryce Linford"
+# position = "Research assistant"
+# email = "linford5@stanford.edu"
+# github = "brycelinford"
+# cv = "bryce_linford.pdf"
+# description = "I am interested in using computational and behavioral approaches to study how people make inferences, judgments, and decisions with limited cognitive resources. I like to drink milk."
 
-#[[member]]
-#id = "Cai Guo"
-#position = "Lab Affiliate"
-#email = "caiguo@stanford.edu"
-#github = "caiguostanford"
-#scholar = "citations?user=lk-7P8oAAAAJ&hl=en"
-#website = "http://web.stanford.edu/~caiguo/"
-#cv = "cai_guo.pdf"
-#description = "I'm a third-year PhD student interested in how people understand abstract concepts, such as personal identity and philosophical/literary ideas. In the CiCl lab, I'm working on building computational causal networks of how mental representations of abstract concepts originate from beliefs about small, concrete things."
+# [[member]]
+# id = "Cai Guo"
+# position = "Lab Affiliate"
+# email = "caiguo@stanford.edu"
+# github = "caiguostanford"
+# scholar = "citations?user=lk-7P8oAAAAJ&hl=en"
+# website = "http://web.stanford.edu/~caiguo/"
+# cv = "cai_guo.pdf"
+# description = "I'm a third-year PhD student interested in how people understand abstract concepts, such as personal identity and philosophical/literary ideas. In the CiCl lab, I'm working on building computational causal networks of how mental representations of abstract concepts originate from beliefs about small, concrete things."
 
-#[[member]]
-#id = "Erin Bennett"
-#position = "Lab Affiliate"
-#email = "erindb@stanford.edu"
-#github = "erindb"
-#scholar = "citations?user=0tRBAFQAAAAJ&hl=en&authuser=1"
-#website = "http://web.stanford.edu/~erindb/"
-#description = "I'm a Psychology PhD student primarily in the [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
+# [[member]]
+# id = "Erin Bennett"
+# position = "Lab Affiliate"
+# email = "erindb@stanford.edu"
+# github = "erindb"
+# scholar = "citations?user=0tRBAFQAAAAJ&hl=en&authuser=1"
+# website = "http://web.stanford.edu/~erindb/"
+# description = "I'm a Psychology PhD student primarily in the [CoCoLab](https://cocolab.stanford.edu). I'm interested in how vague language gets resolved by context, and in particular the semantics and pragmatics of causal language. I'm also interested in sentence meaning representation and discourse relations, especially causal relations."
+
+# [[member]]
+#     id = "Elisa Kreiss"
+#     position = "Lab Affiliate"
+#     email = "ekreiss@stanford.edu"
+#     twitter = "ElisaKreiss"
+#     github = "elisakreiss"
+#     #scholar = ""
+#     #website = "http://elisakreiss.com/"
+#     description = "I’m a Linguistics PhD student and member of the [ALPS lab](http://alpslab.stanford.edu/). I'm interested in cognitive and computational approaches towards understanding language production and comprehension. I received my undergraduate degree in Cognitive Science. I also like to eat cake."
+
+# [[member]]
+#     id = "Yingchen Xu"
+#     position = "Research Assistant"
+#     email = "yingchenxu20@gmail.com"
+#     github = "yukichul"
+#     description = "I am interested in understanding human learning and I am excited about building machines that can think like human beings. I did my undergraduate studies in CS and math, and have worked on some research and applications in ML. I love backpacking!"
 
 [[member]]
 id = "Alumni"
