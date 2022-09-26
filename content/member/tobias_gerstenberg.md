@@ -68,7 +68,7 @@ __Office__: Room 302, [Building 420](https://goo.gl/maps/mBbkXZfiSR42)
 ## Teaching
 
 - Winter 2021/22: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
-- Fall, Winter, and Spring 2021/22: [Advanced Research (PSYCH 197)](https://psych197.stanford.edu)
+- Fall, Winter, and Spring 2021/22: [Advanced Research (PSYCH 198)](https://psych198.stanford.edu)
 - Winter 2020/21: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
 - Fall 2020/21: [Experimental Methods (PSYCH 251)](https://explorecourses.stanford.edu/search;jsessionid=1vwlzj7h09e9lzakcp1adv6d?q=PSYCH+251%3a+Experimental+Methods&view=catalog&filter-coursestatus-Active=on&academicYear=20202021)
 - Fall 2020/21: [What makes a good explanation? Psychological and philosophical perspectives (PSYCH 293)](https://psych293.github.io/)

@@ -33,11 +33,11 @@ publication_name = "A. Beller"
  
 +++
 
-## Contact 
+## Contact
 
 __Email__: abeller@stanford.edu
 
-## Research interests 
+## Research interests
 
 - computational models of cognition
 - causal inference 
