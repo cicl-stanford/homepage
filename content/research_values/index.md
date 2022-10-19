@@ -21,6 +21,8 @@ preview = false
 
 +++
 
+<img src="../img/lab_photo.jpg" width="75%"/>
+
 ## What we do
 
 Our research uncovers how people [understand the world](../publication/gerstenberg2021csm/), and how they [understand each other](../publication/gerstenberg2018expectations/). Our working hypothesis is that people’s knowledge of the world is organized around [causally structured mental models](../publication/gerstenberg2017theories/), and that much of human thought can be understood as [cognitive operations over these mental models](../publication/goodman2015concepts/). Through the process of [mental simulation](../publication/gerstenberg2017tracking/), humans can infer the past, explain the present, and predict the future. While recent years have shown the tremendous potential of what artificial intelligence can achieve, humans are still unrivaled in their intuitive understanding of how the world works. We investigate this understanding in the domains of intuitive physics and intuitive psychology. 
