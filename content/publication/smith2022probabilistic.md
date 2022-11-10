@@ -6,7 +6,7 @@
 # 4 -> 'Book chapter',
 # 5 -> 'Thesis'
 
-title = "Probabilistic mdels of physical reasoning"
+title = "Probabilistic models of physical reasoning"
 date = "2022-03-08"
 year = "{in press}"
 authors = ["K. A. Smith","J. B. Hamrick","A. N. Sanborn","P. W. Battaglia","T. Gerstenberg","T. D. Ullman","J. B. Tenenbaum"]
