@@ -90,13 +90,6 @@ weight = 3
     description = "I am a sophomore at Stanford looking to major in Computer Science on the AI track. I am interested in using computational models to explore causality in social settings. Outside of that, I enjoy dancing and amateur vegan baking."
 
 [[member]]
-    id = "Hana Dao"
-    position = "Research Assistant"
-    email = "hanadao@stanford.edu"
-    github = "hanaddao"
-    description = "I am a sophomore at Stanford and interested in communications and psychology. Currently, I am working on a project on counterfactual thinking and children's development. I am also hoping to explore how culture and race affect cognition. In my free time, I love baking sweets and my favorite drink would have to be mango tea with sea salt foam & boba!"
-
-[[member]]
     id = "Mary Markley"
     position = "Research Assistant"
     email = "mmarkley@stanford.edu"
@@ -128,15 +121,6 @@ weight = 3
     email = "jshe@haverford.edu"
     github = "selena-she"
     description = "I’m a rising senior and a Stanford CSLI summer intern! I’m interested in how humans rapidly and cooperatively extract information in the form of language. What are the cognitive and neural basis of these abilities? Can we try to represent/simulate them with computational models? Currently, I use a combination of NLP techniques and behavioral experiments to see how humans and machines deal with concepts, categorization, and lexical/event semantics. In the long term, I want to learn to use text data and neuroimaging to answer these cognitive questions in a meaningful way."
-
-[[member]]
-    id = "Xenia Bunk"
-    position = "Research Assistant"
-    email = "xenia.bunk@gmx.de"
-    github = "xeniabunk"
-    linkedin = "xeniabunk"
-    cv = "xenia_bunk.pdf"
-    description = "I am a graduate student in Psychology and Cognitive Neuroscience at LMU Munich and Technology Management at the Center for Digital Technology and Management. I am passionate about topics on the intersection of psychology and computer science and wrote my master thesis on theory of mind implementations in artificial systems. During my research assistantship I will research on wilful ignorance."
 
 [[member]]
     id = "Helena Vasconcelos"
@@ -226,6 +210,22 @@ weight = 3
     email = "pgzhu@stanford.edu"
     twitter = "petergzhu"
     description = "I am a PhD Student in the [Stanford Social Learning Lab](http://sll.stanford.edu/). My research interests focus on the representations and motivations that guide learning and play early in life. I like to eat tacos and drink coffee."
+
+# [[member]]
+#     id = "Xenia Bunk"
+#     position = "Research Assistant"
+#     email = "xenia.bunk@gmx.de"
+#     github = "xeniabunk"
+#     linkedin = "xeniabunk"
+#     cv = "xenia_bunk.pdf"
+#     description = "I am a graduate student in Psychology and Cognitive Neuroscience at LMU Munich and Technology Management at the Center for Digital Technology and Management. I am passionate about topics on the intersection of psychology and computer science and wrote my master thesis on theory of mind implementations in artificial systems. During my research assistantship I will research on wilful ignorance."
+
+# [[member]]
+#    id = "Hana Dao"
+#    position = "Research Assistant"
+#    email = "hanadao@stanford.edu"
+#    github = "hanaddao"
+#    description = "I am a sophomore at Stanford and interested in communications and psychology. Currently, I am working on a project on counterfactual thinking and children's development. I am also hoping to explore how culture and race affect cognition. In my free time, I love baking sweets and my favorite drink would have to be mango tea with sea salt foam & boba!"
 
 # [[member]]
 # 	id = "Zach Davis"
