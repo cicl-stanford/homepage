@@ -26,6 +26,12 @@ You should be on the branch `master` for all three of them. If not, then type `g
 
 ### Installing `hugo`
 
+#### Manual installation (works for M1 macs)
+
+- Follow the instructions of this blog [post here](https://datacenterjourney.com/2021/install-specific-version-hugo-macos/#:~:text=If%20you%20want%20to%20install,version%20you%20want%20to%20install.&text=For%20this%20document%2C%20we%20will,on%20the%20version%20number%20link.)
+- The release for hugo0.55.5 is [here](https://github.com/gohugoio/hugo/releases/tag/v0.55.5).
+	+ If you're on a mac, use the following file: `hugo_0.55.5_macOS-64bit.tar.gz`
+
 #### Using brew (only works for older macs)
 
 - First, install `homebrew` following the instructions [here](https://brew.sh/).
@@ -40,12 +46,6 @@ brew install company/team/hugo@0.55.5
 brew link hugo@0.55.5
 ```
 - Confirm that `hugo version` shows `v0.55.5`.
-
-#### Manual installation (works for M1 macs)
-
-- Follow the instructions of this blog [post here](https://datacenterjourney.com/2021/install-specific-version-hugo-macos/#:~:text=If%20you%20want%20to%20install,version%20you%20want%20to%20install.&text=For%20this%20document%2C%20we%20will,on%20the%20version%20number%20link.)
-- The release for hugo0.55.5 is [here](https://github.com/gohugoio/hugo/releases/tag/v0.55.5).
-	+ If you're on a mac, use the following file: `hugo_0.55.5_macOS-64bit.tar.gz`
 
 ## Folder organization
 
