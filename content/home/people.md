@@ -123,13 +123,6 @@ weight = 3
     description = "I’m a rising senior and a Stanford CSLI summer intern! I’m interested in how humans rapidly and cooperatively extract information in the form of language. What are the cognitive and neural basis of these abilities? Can we try to represent/simulate them with computational models? Currently, I use a combination of NLP techniques and behavioral experiments to see how humans and machines deal with concepts, categorization, and lexical/event semantics. In the long term, I want to learn to use text data and neuroimaging to answer these cognitive questions in a meaningful way."
 
 [[member]]
-    id = "Helena Vasconcelos"
-    position = "Lab Affiliate"
-    email = "helenav@cs.stanford.edu"
-    website = "https://helenavasc.com/"
-    description = "I am interested in how people interact with explainable AI agents, as well as how we can teach models to reason and explain. I am also working with Michael Bernstein's and Ranjay Krishna's groups. I love to eat Brazilian foods!"
-
-[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab Affiliate"
 	image = "xi_jia_zhou.jpg"
@@ -187,6 +180,13 @@ weight = 3
     description = "I am a Mechanical Engineering PhD student in the [Shape Lab](https://shape.stanford.edu/). My research interests are focused on exploring the role that haptic feedback plays in our perception of the world. I also like to paint."
 
 [[member]]
+    id = "Helena Vasconcelos"
+    position = "Lab Affiliate"
+    email = "helenav@cs.stanford.edu"
+    website = "https://helenavasc.com/"
+    description = "I am interested in how people interact with explainable AI agents, as well as how we can teach models to reason and explain. I am also working with Michael Bernstein's and Ranjay Krishna's groups. I love to eat Brazilian foods!"
+
+[[member]]
     id = "Ben Prystawski"
     position = "Lab Affiliate"
     email = "benpry@stanford.edu"
@@ -210,6 +210,12 @@ weight = 3
     email = "pgzhu@stanford.edu"
     twitter = "petergzhu"
     description = "I am a PhD Student in the [Stanford Social Learning Lab](http://sll.stanford.edu/). My research interests focus on the representations and motivations that guide learning and play early in life. I like to eat tacos and drink coffee."
+
+[[member]]
+    id = "Steven Shin"
+    position = "Lab Affiliate"
+    email = "steven.m.shin.23@dartmouth.edu"
+    description = "I'm a senior at Dartmouth College studying cognitive science, with a special focus on language. My research interests include theory of mind and causal reasoning. Outside of research, I spend a lot of time outdoors, and am especially interested in rock climbing and skiing!"
 
 # [[member]]
 #     id = "Xenia Bunk"
