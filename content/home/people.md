@@ -35,6 +35,16 @@ weight = 3
     description = "My research focuses on causal reasoning, moral cognition and counterfactual thinking with the occasional dip into philosophy. I like to drink strong black coffee."
 
 [[member]]
+	id = "Jan-Philipp Fränken"
+	position = "Postdoctoral Researcher"
+    image = "jan-philipp_franken.jpg"
+# because special characters have trouble rendering on OS X
+	email = "janphilipp.franken@gmail.com"
+	github = "janphilippfranken"
+    scholar = "citations?user=s2omqQcAAAAJ&hl=en"
+    description = "I'm interested in representation learning, causal inference, and theory of mind reasoning. I currently work on [MARPLE](https://hai.stanford.edu/2022-hoffman-yee-grant-recipients): Explaining what happened through multimodal simulation. I like to drink hot chocolate."
+
+[[member]]
 	id = "Ari Beller"
 	position = "Graduate Student"
 	email = "aribeller@gmail.com"
