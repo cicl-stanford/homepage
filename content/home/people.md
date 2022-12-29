@@ -32,6 +32,7 @@ weight = 3
 	email = "l.kirfel@stanford.edu"
 	github = "LaraKirfel"
     scholar = "citations?user=uJkMLZwAAAAJ&hl=de"
+    website = "https://larakirfel.tumblr.com/"
     description = "My research focuses on causal reasoning, moral cognition and counterfactual thinking with the occasional dip into philosophy. I like to drink strong black coffee."
 
 [[member]]
@@ -42,6 +43,7 @@ weight = 3
 	email = "janphilipp.franken@gmail.com"
 	github = "janphilippfranken"
     scholar = "citations?user=s2omqQcAAAAJ&hl=en"
+    website = "https://janphilippfranken.github.io/"
     description = "I'm interested in representation learning, causal inference, and theory of mind reasoning. I currently work on [MARPLE](https://hai.stanford.edu/2022-hoffman-yee-grant-recipients): Explaining what happened through multimodal simulation. I like to drink hot chocolate."
 
 [[member]]

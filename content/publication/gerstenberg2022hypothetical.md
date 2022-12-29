@@ -24,7 +24,7 @@ url_slides = ""
 url_video = "https://www.youtube.com/watch?v=0CHHWffBFII&t=70s"
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/counterfactual_hypothetical"}]
+url_custom = [{name = "Link", url = "https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0339"},{name = "Github", url = "https://github.com/cicl-stanford/counterfactual_hypothetical"}]
 math = true
 highlight = true
 [header]

@@ -25,7 +25,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/tianweigong/time_and_intervention"}]
+url_custom = [{name = "Link", url = "https://www.sciencedirect.com/science/article/pii/S0010028522000780"},{name = "Github", url = "https://github.com/tianweigong/time_and_intervention"}]
 math = true
 highlight = true
 [header]
