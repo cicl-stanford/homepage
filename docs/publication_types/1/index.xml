@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Active causal structure learning in continuous time</title>
-      <link>https://cicl.stanford.edu/publication/gong2022active/</link>
-      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gong2022active/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
@@ -27,15 +18,6 @@
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/srivastava2022imitation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mental Jenga: A counterfactual simulation model of causal judgments about physical support</title>
-      <link>https://cicl.stanford.edu/publication/zhou2022jenga/</link>
-      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/zhou2022jenga/</guid>
       <description></description>
     </item>
     
