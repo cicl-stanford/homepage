@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "Active causal structure learning in continuous time"
-date = "2023-01--1"
+date = "2023-01-01"
 authors = ["T. Gong","T. Gerstenberg","R. Mayrhofer","N. R Bramley"]
 publication_types = ["2"]
 publication_short = "_Cognitive Psychology_"
