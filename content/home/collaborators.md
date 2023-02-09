@@ -60,6 +60,13 @@ weight = 5
 	show = true
 
 [[collaborator]]
+	id = "Scott Linderman"
+	image = "scott_linderman.jpeg"
+	position = "Stanford"
+	link = "https://web.stanford.edu/~swl1/"
+	show = true	
+
+[[collaborator]]
 	id = "Jiajun Wu"
 	image = "jiajun_wu.jpeg"
 	position = "Stanford"
@@ -86,6 +93,13 @@ weight = 5
 	position = "Stanford"
 	link = "https://hci.stanford.edu/msb/"
 	show = true	
+
+[[collaborator]]
+	id = "Ro'i Zultan"
+	image = "roi_zultan.jpg"
+	position = "Ben Gurion"
+	link = "http://www.bgu.ac.il/~zultan/"
+	show = true
 
 [[collaborator]]
 	id = "Jamie Amemiya"
@@ -132,7 +146,7 @@ weight = 5
 [[collaborator]]
 	id = "Jonathan Kominsky"
 	image = "jonathan_kominsky.jpg"
-	position = "Rutgers"
+	position = "Central European University"
 	link = "http://www.jfkominsky.com/"
 	show = true
 
@@ -146,7 +160,7 @@ weight = 5
 [[collaborator]]
 	id = "Julian Jara-Ettinger"
 	image = "julian_jara-ettinger.jpg"
-	position = ""
+	position = "Yale"
 	link = ""
 	show = true
 
@@ -169,20 +183,13 @@ weight = 5
 	image = "max_kleiman-weiner.jpg"
 	position = "MIT"
 	link = "http://www.mit.edu/~maxkw/"
-	show = false
+	show = true
 
 [[collaborator]]
 	id = "Ralf Mayrhofer"
 	image = "ralf_mayrhofer.jpeg"
 	position = "Göttingen"
 	link = "https://www.psych.uni-goettingen.de/mayrhofer"
-	show = false
-
-[[collaborator]]
-	id = "Ro'i Zultan"
-	image = "roi_zultan.jpg"
-	position = "Ben Gurion"
-	link = "http://www.bgu.ac.il/~zultan/"
 	show = true
 
 [[collaborator]]
@@ -204,7 +211,7 @@ weight = 5
 	image = "todd_gureckis.jpg"
 	position = "NYU"
 	link = "https://as.nyu.edu/faculty/todd-gureckis.html"
-	show = false
+	show = true
 
 
 +++
