@@ -18,13 +18,6 @@ weight = 5
 	show = true
 
 [[collaborator]]
-	id = "Noah Goodman"
-	image = "noah_goodman.jpg"
-	position = "Stanford"
-	link = "https://cocolab.stanford.edu/ndg.html"
-	show = true
-
-[[collaborator]]
 	id = "David Lagnado"
 	image = "david_lagnado.jpg"
 	position = "University College London"
@@ -39,6 +32,27 @@ weight = 5
 	show = true
 
 [[collaborator]]
+	id = "Noah Goodman"
+	image = "noah_goodman.jpg"
+	position = "Stanford"
+	link = "https://cocolab.stanford.edu/ndg.html"
+	show = true
+
+[[collaborator]]
+	id = "Chelsea Finn"
+	image = "chelsea_finn.jpeg"
+	position = "Stanford"
+	link = "https://ai.stanford.edu/~cbfinn/"
+	show = true	
+
+[[collaborator]]
+	id = "Jeannette Bohg"
+	image = "jeannette_bohg.png"
+	position = "Stanford"
+	link = "https://web.stanford.edu/~bohg/"
+	show = true		
+
+[[collaborator]]
 	id = "Hyowon Gweon"
 	image = "hyowon_gweon.jpg"
 	position = "Stanford"
@@ -46,18 +60,53 @@ weight = 5
 	show = true
 
 [[collaborator]]
+	id = "Jiajun Wu"
+	image = "jiajun_wu.jpeg"
+	position = "Stanford"
+	link = "https://jiajunwu.com/"
+	show = true
+
+[[collaborator]]
+	id = "Sean Follmer"
+	image = "sean_follmer.jpeg"
+	position = "Stanford"
+	link = "https://profiles.stanford.edu/sean-follmer"
+	show = true
+
+[[collaborator]]
+	id = "Rob MacCoun"
+	image = "rob_maccoun.jpg"
+	position = "Stanford"
+	link = "https://law.stanford.edu/directory/robert-j-maccoun/"
+	show = true
+
+[[collaborator]]
+	id = "Michael Bernstein"
+	image = "michael_bernstein.jpeg"
+	position = "Stanford"
+	link = "https://hci.stanford.edu/msb/"
+	show = true	
+
+[[collaborator]]
+	id = "Jamie Amemiya"
+	image = "jamie_amemiya.jpeg"
+	position = "Occidental College"
+	link = "https://www.jamieamemiya.com/"
+	show = true
+
+[[collaborator]]
+	id = "Gail Heyman"
+	image = "gail_heyman.jpeg"
+	position = "UC San Diego"
+	link = "http://heymanlab.ucsd.edu/"
+	show = true		
+
+[[collaborator]]
 	id = "Neil Bramley"
 	image = "neil_bramley.jpg"
 	position = "Edinburgh"
 	link = "https://www.bramleylab.ppls.ed.ac.uk/"
 	show = true
-
-[[collaborator]]
-	id = "Anne Schlottmann"
-	image = "anne_schlottmann.jpg"
-	position = "University College London"
-	link = "https://www.ucl.ac.uk/pals/research/experimental-psychology/person/anne-schlottmann/"
-	show = false
 
 [[collaborator]]
 	id = "Fiery Cushman"
@@ -71,7 +120,7 @@ weight = 5
 	image = "joseph_halpern.jpg"
 	position = "Cornell"
 	link = "https://www.cs.cornell.edu/home/halpern/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Ilker Yildirim"
@@ -94,27 +143,12 @@ weight = 5
 	link = "https://www.dartmouth.edu/~phillab/"
 	show = true
 
-
-[[collaborator]]
-	id = "Justin Gardner"
-	image = "justin_gardner.jpg"
-	position = "Stanford"
-	link = "http://gru.stanford.edu/doku.php"
-	show = false
-
-[[collaborator]]
-	id = "Joshua Hartshorne"
-	image = "joshua_hartshorne.jpg"
-	position = "Boston College"
-	link = "http://l3atbc.org/JKHartshorne.About.html"
-	show = false
-
 [[collaborator]]
 	id = "Julian Jara-Ettinger"
 	image = "julian_jara-ettinger.jpg"
 	position = ""
 	link = ""
-	show = false
+	show = true
 
 [[collaborator]]
 	id = "Kevin Smith"
@@ -131,31 +165,10 @@ weight = 5
 	show = true
 
 [[collaborator]]
-	id = "Laura Niemi"
-	image = "laura_niemi.png"
-	position = "Munk School"
-	link = "https://lauraniemi.com/"
-	show = true
-
-[[collaborator]]
 	id = "Max Kleiman-Weiner"
 	image = "max_kleiman-weiner.jpg"
 	position = "MIT"
 	link = "http://www.mit.edu/~maxkw/"
-	show = true
-
-[[collaborator]]
-	id = "Michael Waldmann"
-	image = "michael_waldmann.jpeg"
-	position = ""
-	link = ""
-	show = false
-
-[[collaborator]]
-	id = "Pascale Willemsen"
-	image = "pascale_willemsen.jpg"
-	position = ""
-	link = ""
 	show = false
 
 [[collaborator]]
@@ -187,26 +200,11 @@ weight = 5
 	show = true
 
 [[collaborator]]
-	id = "Yaakov Kareev"
-	image = "yaakov_kareev.jpg"
-	position = ""
-	link = ""
-	show = false
-
-[[collaborator]]
 	id = "Todd Gureckis"
 	image = "todd_gureckis.jpg"
 	position = "NYU"
 	link = "https://as.nyu.edu/faculty/todd-gureckis.html"
-	show = true
-
-[[collaborator]]
-	id = "Liane Young"
-	image = "liane_young.jpg"
-	position = "Boston College"
-	link = "http://moralitylab.bc.edu/"
-	show = true
-
+	show = false
 
 
 +++
