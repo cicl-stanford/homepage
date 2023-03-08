@@ -8,7 +8,7 @@
 
 title = "If not me, then who? Responsibility and replacement"
 date = "2023-03-07"
-authors = ["S. A Wu","T. Gerstenberg"]
+authors = ["S. A. Wu","T. Gerstenberg"]
 publication_types = ["1"]
 publication_short = "_PsyArXiv_"
 publication = "Wu S. A., Gerstenberg T. (2023). If not me, then who? Responsibility and replacement. In _PsyArXiv_."
