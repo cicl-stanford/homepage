@@ -102,12 +102,6 @@ weight = 3
     description = "I am a sophomore at Stanford looking to major in Computer Science on the AI track. I am interested in using computational models to explore causality in social settings. Outside of that, I enjoy dancing and amateur vegan baking."
 
 [[member]]
-    id = "Mary Markley"
-    position = "Research Assistant"
-    email = "mmarkley@stanford.edu"
-    description = "I'm a junior at Stanford majoring in linguistics. I'm interested in anything related to language, especially its intersection with education. I really enjoy baking elaborate cakes for all my friends' birthdays, especially as a form of procrastinating (procrastibaking!). I also spend time climbing trees, painting with watercolors, and staying up all night giving mini lectures to my friends about medieval Germanic phonology."
-
-[[member]]
     id = "Siying Zhang"
     position = "Research Assistant"
     email = "syzhang6@stanford.edu"
@@ -126,13 +120,6 @@ weight = 3
     email = "jyshin@stanford.edu"
     github = "jshinnn"
     description = "I’m an undergraduate studying Symbolic Systems & Asian American Studies. I’m interested in how people interact and communicate with each other, and how we use the power of computational models and technology to help us answer questions in these fields. Exploring how our identities (race, gender, culture, etc) may impact such interactions is something that deeply interests me, as well. I love hiking, shopping for earrings, and stress-baking, and my top three drinks would have to be matcha, black coffee, and kombucha."
-
-[[member]]
-    id = "Selena She"
-    position = "Research Assistant"
-    email = "jshe@haverford.edu"
-    github = "selena-she"
-    description = "I’m a rising senior and a Stanford CSLI summer intern! I’m interested in how humans rapidly and cooperatively extract information in the form of language. What are the cognitive and neural basis of these abilities? Can we try to represent/simulate them with computational models? Currently, I use a combination of NLP techniques and behavioral experiments to see how humans and machines deal with concepts, categorization, and lexical/event semantics. In the long term, I want to learn to use text data and neuroimaging to answer these cognitive questions in a meaningful way."
 
 [[member]]
 	id = "Xi Jia (Laura) Zhou"
@@ -159,13 +146,6 @@ weight = 3
 	github = "andrewnam"
 	cv = "andrew_nam.pdf"
 	description = "I'm a PhD student in the [PDP lab](https://web.stanford.edu/group/pdplab/index.html). My research is on computational cognitive modeling, that is, identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
-
-[[member]]
-	id = "Max Kanwal"
-	position = "Lab Affiliate"
-	email = "kanwal@stanford.edu"
-	scholar = "citations?user=o1qFlsgAAAAJ&hl=en&oi=ao"
-	description = "I'm a PhD student focusing on theoretical neuroscience and neuroengineering.  I'm interested in developing foundational theory for neural interfacing.  Consequently, I am broadly interested in topics related to network causal inference.  I'm also always on the lookout for good vegan cheesecake."
 
 [[member]]
 	id = "Liang Zhou"
@@ -366,6 +346,27 @@ weight = 3
 #     email = "yingchenxu20@gmail.com"
 #     github = "yukichul"
 #     description = "I am interested in understanding human learning and I am excited about building machines that can think like human beings. I did my undergraduate studies in CS and math, and have worked on some research and applications in ML. I love backpacking!"
+
+# [[member]]
+#    id = "Max Kanwal"
+#    position = "Lab Affiliate"
+#    email = "kanwal@stanford.edu"
+#    scholar = "citations?user=o1qFlsgAAAAJ&hl=en&oi=ao"
+#    description = "I'm a PhD student focusing on theoretical neuroscience and neuroengineering.  I'm interested in developing foundational theory for neural interfacing.  Consequently, I am broadly interested in topics related to network causal inference.  I'm also always on the lookout for good vegan cheesecake."
+
+# [[member]]
+#    id = "Mary Markley"
+#    position = "Research Assistant"
+#    email = "mmarkley@stanford.edu"
+#    description = "I'm a junior at Stanford majoring in linguistics. I'm interested in anything related to language, especially its intersection with education. I really enjoy baking elaborate cakes for all my friends' birthdays, especially as a form of procrastinating (procrastibaking!). I also spend time climbing trees, painting with watercolors, and staying up all night giving mini lectures to my friends about medieval Germanic phonology."
+
+# [[member]]
+#    id = "Selena She"
+#    position = "Research Assistant"
+#    email = "jshe@haverford.edu"
+#    github = "selena-she"
+#    description = "I’m a rising senior and a Stanford CSLI summer intern! I’m interested in how humans rapidly and cooperatively extract information in the form of language. What are the cognitive and neural basis of these abilities? Can we try to represent/simulate them with computational models? Currently, I use a combination of NLP techniques and behavioral experiments to see how humans and machines deal with concepts, categorization, and lexical/event semantics. In the long term, I want to learn to use text data and neuroimaging to answer these cognitive questions in a meaningful way."
+
 
 [[member]]
 id = "Alumni"
