@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>If not me, then who? Responsibility and replacement</title>
+      <link>https://cicl.stanford.edu/publication/wu2023replacement/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/wu2023replacement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
