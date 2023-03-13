@@ -122,6 +122,19 @@ weight = 3
     description = "I’m an undergraduate studying Symbolic Systems & Asian American Studies. I’m interested in how people interact and communicate with each other, and how we use the power of computational models and technology to help us answer questions in these fields. Exploring how our identities (race, gender, culture, etc) may impact such interactions is something that deeply interests me, as well. I love hiking, shopping for earrings, and stress-baking, and my top three drinks would have to be matcha, black coffee, and kombucha."
 
 [[member]]
+    id = "Gabe Gaw"
+    position = "Research Assistant"
+    email = "ggaw25@stanford.edu"
+    github = "ggaw25"
+    description = "I’m interested in understanding how people make complex decisions through computational models. I am currently a sophomore studying Computer Science and Economics. I love all things sports and outdoors, and light-roasted black coffee."
+
+[[member]]
+    id = "Chris Hughes"
+    position = "Research Assistant"
+    email = "chughes4@stanford.edu"
+    description = "I'm a senior studying Physics and Philosophy. I'm very interested in formal epistemology and the philosophy of science. Within Cognitive Science, I'm interested in how people reason about causation using explanations. I love listening to music and playing the guitar."
+
+[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab Affiliate"
 	image = "xi_jia_zhou.jpg"
