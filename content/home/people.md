@@ -135,6 +135,16 @@ weight = 3
     description = "I'm a senior studying Physics and Philosophy. I'm very interested in formal epistemology and the philosophy of science. Within Cognitive Science, I'm interested in how people reason about causation using explanations. I love listening to music and playing the guitar."
 
 [[member]]
+    id = "Stratis Tsirtsis"
+    position = "Visitor"
+    email = "stsirtsis@mpi-sws.org"
+    twitter = "stratis_"
+    github = "stsirtsis"
+    website = "https://stsirtsis.github.io/"
+    scholar = "citations?user=zUNYVu4AAAAJ&hl=en"
+    description = "My interests lie at the intersection of machine learning, causal inference and algorithm design. I work mostly on the development of algorithms to inform human decisions in uncertain and high-stakes environments. I like to drink greek frappe."
+
+[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab Affiliate"
 	image = "xi_jia_zhou.jpg"
