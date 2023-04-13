@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+#url_custom = [{name = "Press: HAI blog", url = "https://hai.stanford.edu/news/ai-overreliance-problem-are-explanations-solution"}]
 math = true
 highlight = true
 [header]
