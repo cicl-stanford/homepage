@@ -135,6 +135,12 @@ weight = 3
     description = "I'm a senior studying Physics and Philosophy. I'm very interested in formal epistemology and the philosophy of science. Within Cognitive Science, I'm interested in how people reason about causation using explanations. I love listening to music and playing the guitar."
 
 [[member]]
+    id = "Sam Kwok"
+    position = "Research Assistant"
+    email = "samkwok@stanford.edu"
+    description = "I am an undergraduate sophomore currently studying Symbolic Systems. I'm interested in making AI more ethical and learning about different computational models that people use to solve real-world problems. Outside of that, I enjoy playing trombone and piano, and like playing basketball and frisbee with my friends."
+
+[[member]]
     id = "Stratis Tsirtsis"
     position = "Visitor"
     email = "stsirtsis@mpi-sws.org"
