@@ -141,6 +141,12 @@ weight = 3
     description = "I am an undergraduate sophomore currently studying Symbolic Systems. I'm interested in making AI more ethical and learning about different computational models that people use to solve real-world problems. Outside of that, I enjoy playing trombone and piano, and like playing basketball and frisbee with my friends."
 
 [[member]]
+    id = "Patrick Ye"
+    position = "Research Assistant"
+    email = "pxye@stanford.edu"
+    description = "I'm passionate with complex systems, human intellectuality, and world-building prospects. Majoring in computer science, I’m excited about AI and interdisciplinary research. Things I enjoy: poetry and guitar, hiking and dancing, and a sip of Earl Grey Tea."
+
+[[member]]
     id = "Stratis Tsirtsis"
     position = "Visitor"
     email = "stsirtsis@mpi-sws.org"
