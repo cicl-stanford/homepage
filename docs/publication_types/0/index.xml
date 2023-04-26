@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Mental Jenga: A counterfactual simulation model of causal judgments about physical support</title>
-      <link>https://cicl.stanford.edu/publication/zhou2023jenga/</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/zhou2023jenga/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Probabilistic models of physical reasoning</title>
