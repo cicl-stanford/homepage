@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning what matters: Causal abstraction in human inference</title>
+      <link>https://cicl.stanford.edu/publication/shin2023abstraction/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/shin2023abstraction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Explanations can reduce overreliance on AI systems during decision-making</title>
