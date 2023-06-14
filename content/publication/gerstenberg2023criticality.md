@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "Making a positive difference: Criticality in groups"
-date = "2023-02-16"
+date = "2023-06-14"
 authors = ["T. Gerstenberg","D. A. Lagnado","R. Zultan"]
 publication_types = ["2"]
 publication_short = "_Cognition_"
