@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Wed, 14 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Understanding Social Reasoning in Language Models with Language Models</title>
+      <link>https://cicl.stanford.edu/publication/gandhi2023understanding/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gandhi2023understanding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Making a positive difference: Criticality in groups</title>
@@ -119,10 +128,10 @@
     
     <item>
       <title>Explanations can reduce overreliance on AI systems during decision-making</title>
-      <link>https://cicl.stanford.edu/publication/vasconcelos2022explanations/</link>
-      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <link>https://cicl.stanford.edu/publication/vasconcelos2023explanations/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cicl.stanford.edu/publication/vasconcelos2022explanations/</guid>
+      <guid>https://cicl.stanford.edu/publication/vasconcelos2023explanations/</guid>
       <description></description>
     </item>
     
@@ -132,15 +141,6 @@
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/gerstenberg2022hypothetical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
-      <link>https://cicl.stanford.edu/publication/srivastava2022imitation/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/srivastava2022imitation/</guid>
       <description></description>
     </item>
     
