@@ -70,15 +70,6 @@ weight = 3
 	github = "sarahawu"
     website = "https://sarahawu.github.io/"
 	description = "I’m interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
-
-[[member]]
-	id = "Joseph Outa"
-	position = "Research Assistant"
-	email = "joo25@cornell.edu"
-	twitter = "outa_joseph"
-	github = "JosephOuta"
-	description = "I am interested in how people gain information about the physical and social world, the degree of accuracy and bias of this information, and how it is used to make decisions. Currently I am exploring collaborative projects involving motivated causal reasoning, early development of theory of mind, and cross-cultural differences in early abstract reasoning. I am working jointly with Dr. Hyowon Gweon's Social Learning Lab and Dr. Michael Frank's Language and Cognition Lab at Stanford. I enjoy rice bowls, bagels and spicy masala chai!"	
-
 [[member]]
     id = "Addison Jadwin"
     position = "Research Assistant"
@@ -115,24 +106,11 @@ weight = 3
     description = "I am interested in the intersection of logic, epistemology, and causality, specifically with respect to formal models of causation. I am also trying to gain more experience in experimental philosophy. I received my undergraduate degree in mathematics from UCLA. In my spare time, I enjoy exploring political documentaries, alternative metal, Sufi, and Hindustani classical music (also, watching Reels)."
 
 [[member]]
-    id = "Jeong Shin"
-    position = "Research Assistant"
-    email = "jyshin@stanford.edu"
-    github = "jshinnn"
-    description = "I’m an undergraduate studying Symbolic Systems & Asian American Studies. I’m interested in how people interact and communicate with each other, and how we use the power of computational models and technology to help us answer questions in these fields. Exploring how our identities (race, gender, culture, etc) may impact such interactions is something that deeply interests me, as well. I love hiking, shopping for earrings, and stress-baking, and my top three drinks would have to be matcha, black coffee, and kombucha."
-
-[[member]]
     id = "Gabe Gaw"
     position = "Research Assistant"
     email = "ggaw25@stanford.edu"
     github = "ggaw25"
     description = "I’m interested in understanding how people make complex decisions through computational models. I am currently a sophomore studying Computer Science and Economics. I love all things sports and outdoors, and light-roasted black coffee."
-
-[[member]]
-    id = "Chris Hughes"
-    position = "Research Assistant"
-    email = "chughes4@stanford.edu"
-    description = "I'm a senior studying Physics and Philosophy. I'm very interested in formal epistemology and the philosophy of science. Within Cognitive Science, I'm interested in how people reason about causation using explanations. I love listening to music and playing the guitar."
 
 [[member]]
     id = "Sam Kwok"
@@ -145,16 +123,6 @@ weight = 3
     position = "Research Assistant"
     email = "pxye@stanford.edu"
     description = "I'm passionate with complex systems, human intellectuality, and world-building prospects. Majoring in computer science, I’m excited about AI and interdisciplinary research. Things I enjoy: poetry and guitar, hiking and dancing, and a sip of Earl Grey Tea."
-
-[[member]]
-    id = "Stratis Tsirtsis"
-    position = "Visitor"
-    email = "stsirtsis@mpi-sws.org"
-    twitter = "stratis_"
-    github = "stsirtsis"
-    website = "https://stsirtsis.github.io/"
-    scholar = "citations?user=zUNYVu4AAAAJ&hl=en"
-    description = "My interests lie at the intersection of machine learning, causal inference and algorithm design. I work mostly on the development of algorithms to inform human decisions in uncertain and high-stakes environments. I like to drink greek frappe."
 
 [[member]]
 	id = "Xi Jia (Laura) Zhou"
@@ -181,14 +149,6 @@ weight = 3
 	github = "andrewnam"
 	cv = "andrew_nam.pdf"
 	description = "I'm a PhD student in the [PDP lab](https://web.stanford.edu/group/pdplab/index.html). My research is on computational cognitive modeling, that is, identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
-
-[[member]]
-	id = "Liang Zhou"
-	position = "Lab Affiliate"
-	email = "liang.zhou.18@ucl.ac.uk"
-	github = "lzil"
-	website = "https://lzil.github.io/"
-	description = "I study how people learn and use structural knowledge, from both neural and cognitive perspectives. I like to stay hydrated."
 
 [[member]]
     id = "Allen Nie"
@@ -238,11 +198,53 @@ weight = 3
     twitter = "petergzhu"
     description = "I am a PhD Student in the [Stanford Social Learning Lab](http://sll.stanford.edu/). My research interests focus on the representations and motivations that guide learning and play early in life. I like to eat tacos and drink coffee."
 
-[[member]]
-    id = "Steven Shin"
-    position = "Lab Affiliate"
-    email = "steven.m.shin.23@dartmouth.edu"
-    description = "I'm a senior at Dartmouth College studying cognitive science, with a special focus on language. My research interests include theory of mind and causal reasoning. Outside of research, I spend a lot of time outdoors, and am especially interested in rock climbing and skiing!"
+# [[member]]
+#    id = "Joseph Outa"
+#    position = "Research Assistant"
+#    email = "joo25@cornell.edu"
+#    twitter = "outa_joseph"
+#    github = "JosephOuta"
+#    description = "I am interested in how people gain information about the physical and social world, the degree of accuracy and bias of this information, and how it is used to make decisions. Currently I am exploring collaborative projects involving motivated causal reasoning, early development of theory of mind, and cross-cultural differences in early abstract reasoning. I am working jointly with Dr. Hyowon Gweon's Social Learning Lab and Dr. Michael Frank's Language and Cognition Lab at Stanford. I enjoy rice bowls, bagels and spicy masala chai!"    
+
+
+# [[member]]
+#     id = "Chris Hughes"
+#     position = "Research Assistant"
+#     email = "chughes4@stanford.edu"
+#     description = "I'm a senior studying Physics and Philosophy. I'm very interested in formal epistemology and the philosophy of science. Within Cognitive Science, I'm interested in how people reason about causation using explanations. I love listening to music and playing the guitar."
+
+# [[member]]
+#    id = "Stratis Tsirtsis"
+#    position = "Visitor"
+#    email = "stsirtsis@mpi-sws.org"
+#    twitter = "stratis_"
+#    github = "stsirtsis"
+#    website = "https://stsirtsis.github.io/"
+#    scholar = "citations?user=zUNYVu4AAAAJ&hl=en"
+#    description = "My interests lie at the intersection of machine learning, causal inference and algorithm design. I work mostly on the development of algorithms to inform human decisions in uncertain and high-stakes environments. I like to drink greek frappe."
+
+# [[member]]
+#    id = "Liang Zhou"
+#    position = "Lab Affiliate"
+#    email = "liang.zhou.18@ucl.ac.uk"
+#    github = "lzil"
+#    website = "https://lzil.github.io/"
+#    description = "I study how people learn and use structural knowledge, from both neural and cognitive perspectives. I like to stay hydrated."
+
+# [[member]]
+#    id = "Steven Shin"
+#    position = "Lab Affiliate"
+#    email = "steven.m.shin.23@dartmouth.edu"
+#    description = "I'm a senior at Dartmouth College studying cognitive science, with a special focus on language. My research interests include theory of mind and causal reasoning. Outside of research, I spend a lot of time outdoors, and am especially interested in rock climbing and skiing!"
+
+
+# [[member]]
+#    id = "Jeong Shin"
+#    position = "Research Assistant"
+#    email = "jyshin@stanford.edu"
+#    github = "jshinnn"
+#    description = "I’m an undergraduate studying Symbolic Systems & Asian American Studies. I’m interested in how people interact and communicate with each other, and how we use the power of computational models and technology to help us answer questions in these fields. Exploring how our identities (race, gender, culture, etc) may impact such interactions is something that deeply interests me, as well. I love hiking, shopping for earrings, and stress-baking, and my top three drinks would have to be matcha, black coffee, and kombucha."
+
 
 # [[member]]
 #     id = "Xenia Bunk"
@@ -405,7 +407,7 @@ weight = 3
 
 [[member]]
 id = "Alumni"
-description = "<ul> <li> <a href='https://zach-davis.github.io/'>Zach Davis</a> (postdoc): Now research scientist at Facebook Reality Labs. </li> <li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (lab affiliate)</li> <li>Bryce Linford (research assistant): Now PhD student at UCLA.</li> <li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (research assistant): Now PhD student at UC Berkeley.</li> </ul>"
+description = "<ul> <li> <a href='https://zach-davis.github.io/'>Joseph Outa</a> (research assistant): Now PhD student at Johns Hopkins University. </li><li> <a href='https://zach-davis.github.io/'>Zach Davis</a> (postdoc): Now research scientist at Facebook Reality Labs. </li> <li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (lab affiliate)</li> <li>Bryce Linford (research assistant): Now PhD student at UCLA.</li> <li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (research assistant): Now PhD student at UC Berkeley.</li> </ul>"
 
 
 
