@@ -3,8 +3,8 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
-      <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+      <loc>https://cicl.stanford.edu/publication_types/3/</loc>
+      <lastmod>2023-06-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +13,7 @@
     <url>
     
       <loc>https://cicl.stanford.edu/</loc>
-      <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+      <lastmod>2023-06-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -22,6 +22,23 @@
     <url>
     
       <loc>https://cicl.stanford.edu/publication_types/</loc>
+      <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/chase2023realism/</loc>
+      <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
       <lastmod>2023-06-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -49,15 +66,6 @@
     
       <loc>https://cicl.stanford.edu/publication/gerstenberg2023criticality/</loc>
       <lastmod>2023-06-14T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication_types/3/</loc>
-      <lastmod>2023-05-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Realism of Visual, Auditory, and Haptic Cues in Phenomenal Causality</title>
+      <link>https://cicl.stanford.edu/publication/chase2023realism/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/chase2023realism/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding Social Reasoning in Language Models with Language Models</title>
@@ -132,15 +141,6 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/vasconcelos2023explanations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What would have happened? Counterfactuals, hypotheticals, and causal judgments</title>
-      <link>https://cicl.stanford.edu/publication/gerstenberg2022hypothetical/</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gerstenberg2022hypothetical/</guid>
       <description></description>
     </item>
     
