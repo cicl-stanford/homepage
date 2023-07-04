@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A counterfactual simulation model of causal language</title>
+      <link>https://cicl.stanford.edu/publication/beller2023language/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/beller2023language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Realism of Visual, Auditory, and Haptic Cues in Phenomenal Causality</title>
@@ -132,15 +141,6 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/gong2023active/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explanations can reduce overreliance on AI systems during decision-making</title>
-      <link>https://cicl.stanford.edu/publication/vasconcelos2023explanations/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/vasconcelos2023explanations/</guid>
       <description></description>
     </item>
     
