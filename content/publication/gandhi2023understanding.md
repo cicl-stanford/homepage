@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/procedural-evals-tom"}]
+url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/procedural-evals-tom"}]
 math = true
 highlight = true
 [header]
