@@ -125,6 +125,12 @@ weight = 3
     description = "I'm passionate with complex systems, human intellectuality, and world-building prospects. Majoring in computer science, I’m excited about AI and interdisciplinary research. Things I enjoy: poetry and guitar, hiking and dancing, and a sip of Earl Grey Tea."
 
 [[member]]
+    id = "Cindy Xin"
+    position = "Research Assistant"
+    email = "cindywxx@stanford.edu"
+    description = "I'm an undergraduate majoring in symbolic systems and philosophy. I am interested in epistemology, philosophy of mind, experimental philosophy, and learning more about how people reason. In my spare time, I enjoy knitting and writing poetry."
+
+[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab Affiliate"
 	image = "xi_jia_zhou.jpg"
