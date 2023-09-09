@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Sep 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Children use disagreement to infer what happened</title>
+      <link>https://cicl.stanford.edu/publication/amemiya2023disagreement/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/amemiya2023disagreement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A counterfactual simulation model of causal language</title>
@@ -132,15 +141,6 @@
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/zhou2023jenga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Active causal structure learning in continuous time</title>
-      <link>https://cicl.stanford.edu/publication/gong2023active/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gong2023active/</guid>
       <description></description>
     </item>
     
