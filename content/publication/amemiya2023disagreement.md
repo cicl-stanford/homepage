@@ -22,7 +22,7 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "posters/amemiya2023disagreement-poster.pdf"
 url_source = ""
 url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/children_disagree"}]
 math = true
