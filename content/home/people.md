@@ -47,6 +47,16 @@ weight = 3
     description = "I'm interested in representation learning, causal inference, and theory of mind reasoning. I currently work on [MARPLE](https://hai.stanford.edu/2022-hoffman-yee-grant-recipients): Explaining what happened through multimodal simulation. I like to drink hot chocolate."
 
 [[member]]
+	id = "Erik Brockbank"
+	position = "Postdoctoral Researcher"
+	email = "ebrockbank@stanford.edu"
+    twitter = "ErikBrockbank"
+	github = "erik-brockbank"
+    scholar = "citations?&user=N2ZY9xsAAAAJ"
+    website = "http://www.erikbrockbank.com/"
+    description = "My research focuses on how people construct predictive internal models of those around them. I say yes to coffee unequivocally."
+
+[[member]]
 	id = "Ari Beller"
 	position = "Graduate Student"
 	email = "aribeller@gmail.com"
