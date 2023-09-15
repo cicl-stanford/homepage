@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = "posters/gonzalez2023agents-poster.pdf"
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Github", url = "https://github.com/PhilLaboratory/CausalAgents"}]
 math = true
 highlight = true
 [header]

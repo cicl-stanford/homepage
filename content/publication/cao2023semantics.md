@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = "posters/cao2023semantics-poster.pdf"
 url_source = ""
-#url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/causative-verbs"}]
+url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/causative-verbs"}]
 math = true
 highlight = true
 [header]
