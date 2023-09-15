@@ -72,6 +72,16 @@ weight = 3
 	description = "I’m interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
 [[member]]
+	id = "Justin Yang"
+	position = "Graduate Student"
+	email = "justin.yang@stanford.edu"
+	github = "justintheyang"
+    twitter = "justintheyang"
+    scholar = "citations?user=otxsJugAAAAJ"
+    website = "https://justintheyang.github.io/"
+	description = "I’m interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
+
+[[member]]
     id = "Addison Jadwin"
     position = "Research Assistant"
     email = "ajadwin@stanford.edu"
