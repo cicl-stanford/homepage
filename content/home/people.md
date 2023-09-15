@@ -70,6 +70,7 @@ weight = 3
 	github = "sarahawu"
     website = "https://sarahawu.github.io/"
 	description = "I’m interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
+
 [[member]]
     id = "Addison Jadwin"
     position = "Research Assistant"
@@ -166,13 +167,6 @@ weight = 3
     description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
 
 [[member]]
-    id = "Elyse Chase"
-    position = "Lab Affiliate"
-    email = "elysec@stanford.edu"
-    website = "https://www.elysechase.com/"
-    description = "I am a Mechanical Engineering PhD student in the [Shape Lab](https://shape.stanford.edu/). My research interests are focused on exploring the role that haptic feedback plays in our perception of the world. I also like to paint."
-
-[[member]]
     id = "Helena Vasconcelos"
     position = "Lab Affiliate"
     email = "helenav@cs.stanford.edu"
@@ -203,6 +197,20 @@ weight = 3
     email = "pgzhu@stanford.edu"
     twitter = "petergzhu"
     description = "I am a PhD Student in the [Stanford Social Learning Lab](http://sll.stanford.edu/). My research interests focus on the representations and motivations that guide learning and play early in life. I like to eat tacos and drink coffee."
+
+[[member]]
+    id = "Ruohan Zhang"
+    position = "Lab Affiliate"
+    email = "zharu@stanford.edu"
+    website = "https://ai.stanford.edu/~zharu/"
+    description = "I am a postdoctoral researcher at [Stanford Vision and Learning Lab](http://svl.stanford.edu/), as well as a [Wu Tsai Human Performance Alliance](https://humanperformancealliance.org/) Fellow. I work on robotics, human-robot interaction, brain-machine interface, cognitive science, and neuroscience. My research focus is human-centered artificial intelligence: Understanding human intelligence for developing biologically-inspired AI algorithms, as well as making AIs more compatible with humans."
+
+# [[member]]
+#     id = "Elyse Chase"
+#     position = "Lab Affiliate"
+#     email = "elysec@stanford.edu"
+#     website = "https://www.elysechase.com/"
+#     description = "I am a Mechanical Engineering PhD student in the [Shape Lab](https://shape.stanford.edu/). My research interests are focused on exploring the role that haptic feedback plays in our perception of the world. I also like to paint."
 
 # [[member]]
 #    id = "Joseph Outa"
