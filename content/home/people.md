@@ -89,7 +89,7 @@ weight = 3
     twitter = "justintheyang"
     scholar = "citations?user=otxsJugAAAAJ"
     website = "https://justintheyang.github.io/"
-	description = "I’m interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
+	description = "I am interested in leveraging behavioral experiments and computational modeling to understand how we represent the world around us, how we simulate alternative worlds, and how we use these simulations to make inferences. In my undergraduate, I studied cognitive science and mathematics. I like to drink milk."
 
 [[member]]
     id = "Addison Jadwin"
