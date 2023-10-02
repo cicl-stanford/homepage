@@ -159,6 +159,15 @@ weight = 3
     description = "I’m a senior at Stanford studying Symbolic Systems with a concentration in Artificial Intelligence. I’m interested in using computational methods to understand human and artificial cognition, with a focus on moral judgment and reasoning. Outside of school, I enjoy reading and watching soccer."
 
 [[member]]
+    id = "Haoran Zhao"
+    position = "Research Assistant"
+    email = "hz454@drexel.edu"
+    github = "haoranzhao419"
+    twitter = "HaoranZhaoHRZ"
+    website = "https://haoranzhao419.github.io/"
+    description = "I am interested in understanding how effectively language models can perform reasoning and comprehend commonsense and factual knowledge. Subsequently, with a better understanding of LLM’s cognitive abilities, I hope to build more cognitive-feasible and efficient language models at small scales. In my free time, I like running and sailing. I like lemonade."
+
+[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab Affiliate"
 	image = "xi_jia_zhou.jpg"
