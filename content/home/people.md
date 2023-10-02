@@ -225,6 +225,13 @@ weight = 3
     website = "https://ai.stanford.edu/~zharu/"
     description = "I am a postdoctoral researcher at [Stanford Vision and Learning Lab](http://svl.stanford.edu/), as well as a [Wu Tsai Human Performance Alliance](https://humanperformancealliance.org/) Fellow. I work on robotics, human-robot interaction, brain-machine interface, cognitive science, and neuroscience. My research focus is human-centered artificial intelligence: Understanding human intelligence for developing biologically-inspired AI algorithms, as well as making AIs more compatible with humans."
 
+[[member]]
+    id = "Kanishk Gandhi"
+    position = "Lab Affiliate"
+    email = "kanishk.gandhi@stanford.edu"
+    website = "http://kanishkgandhi.com/"
+    description = "I am interested in reasoning and social cognition; how we can build machines that interact with, learn from and communicate with others."
+
 # [[member]]
 #     id = "Elyse Chase"
 #     position = "Lab Affiliate"
