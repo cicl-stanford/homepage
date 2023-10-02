@@ -152,6 +152,13 @@ weight = 3
     description = "I'm an undergraduate majoring in symbolic systems and philosophy. I am interested in epistemology, philosophy of mind, experimental philosophy, and learning more about how people reason. In my spare time, I enjoy knitting and writing poetry."
 
 [[member]]
+    id = "Ayesha Khawaja"
+    position = "Research Assistant"
+    email = "akhawaja@stanford.edu"
+    github = "ayeshakhawaja"
+    description = "I’m a senior at Stanford studying Symbolic Systems with a concentration in Artificial Intelligence. I’m interested in using computational methods to understand human and artificial cognition, with a focus on moral judgment and reasoning. Outside of school, I enjoy reading and watching soccer."
+
+[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab Affiliate"
 	image = "xi_jia_zhou.jpg"
