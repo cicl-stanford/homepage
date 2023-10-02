@@ -120,20 +120,6 @@ weight = 3
     description = "I’m a dutiful questioner and an adroit researcher. I have a background in education and second language acquisition. I’m interested in how language affects social category development as well as perceived characteristics of individual social group members. I am also interested in the psychological and sociological disciplines that interact with each other and how the information I’ve learned from both perspectives are related together. So far at Stanford, I’m working on a couple of projects on causal judgements and shape bias. Ultimately, I’m planning to become a human factors researcher or UX research scientist. I love to do high intensity workouts followed by vanilla sweet cream cold brew coffee, or maybe coffee first!"
 
 [[member]]
-    id = "Damini Kusum"
-    position = "Research Assistant"
-    email = "kdamini@ucla.edu"
-    github = "kdamini"
-    description = "I am interested in the intersection of logic, epistemology, and causality, specifically with respect to formal models of causation. I am also trying to gain more experience in experimental philosophy. I received my undergraduate degree in mathematics from UCLA. In my spare time, I enjoy exploring political documentaries, alternative metal, Sufi, and Hindustani classical music (also, watching Reels)."
-
-[[member]]
-    id = "Gabe Gaw"
-    position = "Research Assistant"
-    email = "ggaw25@stanford.edu"
-    github = "ggaw25"
-    description = "I’m interested in understanding how people make complex decisions through computational models. I am currently a sophomore studying Computer Science and Economics. I love all things sports and outdoors, and light-roasted black coffee."
-
-[[member]]
     id = "Sam Kwok"
     position = "Research Assistant"
     email = "samkwok@stanford.edu"
@@ -461,6 +447,19 @@ weight = 3
 #    github = "selena-she"
 #    description = "I’m a rising senior and a Stanford CSLI summer intern! I’m interested in how humans rapidly and cooperatively extract information in the form of language. What are the cognitive and neural basis of these abilities? Can we try to represent/simulate them with computational models? Currently, I use a combination of NLP techniques and behavioral experiments to see how humans and machines deal with concepts, categorization, and lexical/event semantics. In the long term, I want to learn to use text data and neuroimaging to answer these cognitive questions in a meaningful way."
 
+# [[member]]
+# id = "Damini Kusum"
+# position = "Research Assistant"
+# email = "kdamini@ucla.edu"
+# github = "kdamini"
+# description = "I am interested in the intersection of logic, epistemology, and causality, specifically with respect to formal models of causation. I am also trying to gain more experience in experimental philosophy. I received my undergraduate degree in mathematics from UCLA. In my # spare time, I enjoy exploring political documentaries, alternative metal, Sufi, and Hindustani classical music (also, watching Reels)."
+
+# [[member]]
+#     id = "Gabe Gaw"
+#     position = "Research Assistant"
+#     email = "ggaw25@stanford.edu"
+#     github = "ggaw25"
+#     description = "I’m interested in understanding how people make complex decisions through computational models. I am currently a sophomore studying Computer Science and Economics. I love all things sports and outdoors, and light-roasted black coffee."
 
 [[member]]
 id = "Alumni"
