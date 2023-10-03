@@ -463,8 +463,6 @@ weight = 3
 
 [[member]]
 id = "Alumni"
-description = "<ul> <li> <a href='https://zach-davis.github.io/'>Joseph Outa</a> (research assistant): Now PhD student at Johns Hopkins University. </li><li> <a href='https://zach-davis.github.io/'>Zach Davis</a> (postdoc): Now research scientist at Facebook Reality Labs. </li> <li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (lab affiliate)</li> <li>Bryce Linford (research assistant): Now PhD student at UCLA.</li> <li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (research assistant): Now PhD student at UC Berkeley.</li> </ul>"
-
-
+description = "<ul><li> <a href='https://www.cmu.edu/dietrich/philosophy/people/masters/damini-kusum.html'>Damini Kusum</a> (research assistant): Now MSc student at Carnegie Mellon University. <li> <a href='https://josephouta.com/'>Joseph Outa</a> (research assistant): Now PhD student at Johns Hopkins University. </li><li> <a href='https://zach-davis.github.io/'>Zach Davis</a> (postdoc): Now research scientist at Facebook Reality Labs. </li> <li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (lab affiliate)</li> <li>Bryce Linford (research assistant): Now PhD student at UCLA.</li> <li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (research assistant): Now PhD student at UC Berkeley.</li> </ul>"
 
 +++
