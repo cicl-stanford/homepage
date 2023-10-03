@@ -154,6 +154,12 @@ weight = 3
     description = "I am interested in understanding how effectively language models can perform reasoning and comprehend commonsense and factual knowledge. Subsequently, with a better understanding of LLM’s cognitive abilities, I hope to build more cognitive-feasible and efficient language models at small scales. In my free time, I like running and sailing. I like lemonade."
 
 [[member]]
+    id = "Sunny Yu"
+    position = "Research Assistant"
+    email = "syu03@stanford.edu"
+    description = "I am interested in using different methods to explore social cognition, interpersonal interactions, and understanding the mind. I also enjoy reading, writing, and staying active."
+
+[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab Affiliate"
 	image = "xi_jia_zhou.jpg"
