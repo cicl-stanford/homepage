@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "Probabilistic models of physical reasoning"
-date = "2022-03-08"
+date = "2023-01-01"
 year = "{in press}"
 authors = ["K. A. Smith","J. B. Hamrick","A. N. Sanborn","P. W. Battaglia","T. Gerstenberg","T. D. Ullman","J. B. Tenenbaum"]
 publication_types = ["0", "4"]

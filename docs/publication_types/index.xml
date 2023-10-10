@@ -13,9 +13,18 @@
     
     
     <item>
+      <title>2</title>
+      <link>https://cicl.stanford.edu/publication_types/2/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>1</title>
       <link>https://cicl.stanford.edu/publication_types/1/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication_types/1/</guid>
       <description></description>
@@ -31,18 +40,9 @@
     </item>
     
     <item>
-      <title>2</title>
-      <link>https://cicl.stanford.edu/publication_types/2/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>0</title>
       <link>https://cicl.stanford.edu/publication_types/0/</link>
-      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication_types/0/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>4</title>
       <link>https://cicl.stanford.edu/publication_types/4/</link>
-      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication_types/4/</guid>
       <description></description>
