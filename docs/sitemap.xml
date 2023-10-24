@@ -72,8 +72,35 @@
     
     <url>
     
+      <loc>https://cicl.stanford.edu/tags/best-paper-award/</loc>
+      <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://cicl.stanford.edu/publication/chase2023realism/</loc>
       <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/tags/</loc>
+      <lastmod>2023-06-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/tags/spotlight-at-neurips-2023/</loc>
+      <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -821,14 +848,6 @@
     <url>
     
       <loc>https://cicl.stanford.edu/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/tags/</loc>
       <priority>0</priority>
     </url>
     

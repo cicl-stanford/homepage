@@ -1,0 +1,12 @@
+{{ if isset $.Params "tags" }}
+{{ $tagsLen := len $.Params.tags }}
+{{ if gt $tagsLen 0 }}
+<div class="article-tags">
+  <p>
+  {{ range $.Params.tags }}
+  <span style="color:blue;"><b>{{ . }}</b></span><br>
+  {{ end }}
+  </p>
+</div>
+{{ end }}
+{{ end }}

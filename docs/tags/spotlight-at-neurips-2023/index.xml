@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spotlight at NeurIPS 2023 on Causality in Cognition Lab</title>
+    <link>https://cicl.stanford.edu/tags/spotlight-at-neurips-2023/</link>
+    <description>Recent content in Spotlight at NeurIPS 2023 on Causality in Cognition Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
+    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cicl.stanford.edu/tags/spotlight-at-neurips-2023/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding Social Reasoning in Language Models with Language Models</title>
+      <link>https://cicl.stanford.edu/publication/gandhi2023understanding/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gandhi2023understanding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -15,5 +15,13 @@
   {{ else if .Params.publication }}
     {{- .Params.publication | markdownify -}}.
   {{ end }}
-  <p>{{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>
+
+  {{ range .Params.tags }}
+  <br><span style="color:blue;"><b>{{ . }}</b></span>
+  {{ end }}
+
+  <p>
+    {{ partial "publication_links" (dict "content" . "is_list" 1) }}
+  </p>
+
 </div>

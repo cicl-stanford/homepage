@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
+    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Best Paper Award</title>
+      <link>https://cicl.stanford.edu/tags/best-paper-award/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/tags/best-paper-award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotlight at NeurIPS 2023</title>
+      <link>https://cicl.stanford.edu/tags/spotlight-at-neurips-2023/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/tags/spotlight-at-neurips-2023/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
