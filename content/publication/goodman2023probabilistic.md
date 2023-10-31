@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "Probabilistic programs as a unifying language of thought"
-date = "2023-01-01"
+date = "2023-10-20"
 year = "{in press}"
 authors = ["N. D. Goodman","T. Gerstenberg","J. B. Tenenbaum"]
 publication_types = ["4", "0"]

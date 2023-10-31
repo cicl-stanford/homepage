@@ -1,12 +1,39 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Tobias Gerstenberg at 2023-10-15 13:46:48 -0700 
+%% Created for Tobias Gerstenberg at 2023-10-30 18:25:01 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@inproceedings{kirfel2023anticipating,
+	abstract = {This paper examines the transformative potential of Counterfactual World Simulation Models (CWSMs). A CWSM uses multi-modal evidence, such as the CCTV footage of a road accident, to build a high-fidelity 3D reconstruction of what happened. It can answer causal questions, such as whether the accident happened because the driver was speeding, by simulating what would have happened in relevant counterfactual situations. We argue for a normative and ethical framework that guides and constrains the simulation of counterfactuals. We address the challenge of ensuring fidelity in reconstructions while simultaneously preventing stereotype perpetuation during counterfactual simulations. We anticipate different modes of how users will interact with CWSMs and discuss how their outputs may be presented. Finally, we address the prospective applications of CWSMs in the legal domain, recognizing both their potential to revolutionize legal proceedings as well as the ethical concerns they engender. Sketching a new genre of AI, this paper seeks to illuminate the path forward for responsible and effective use of CWSMs.},
+	author = {Lara Kirfel and Robert J. MacCoun and Thomas Icard and Tobias Gerstenberg},
+	booktitle = {{AI Meets Moral Philosophy and Moral Psychology Workshop (NeurIPS 2023)}},
+	date-added = {2023-10-30 18:20:41 -0700},
+	date-modified = {2023-10-30 18:20:50 -0700},
+	title = {Anticipating the risks and benefits of counterfactual world simulation models},
+	year = {2023}}
+
+@inproceedings{franken2023rails,
+	abstract = {As AI systems like language models are increasingly integrated into making decisions that affect people, it's critical to ensure that these systems have sound moral reasoning. To test whether they do, we need to develop systematic evaluations. Recent work has introduced a method for procedurally generating LLM evaluations from abstract causal templates, and tested this method in the context of social reasoning (i.e., theory-of-mind). In this paper, we extend this method to the domain of moral dilemmas. We develop a framework that translates causal graphs into a prompt template which can then be used to procedurally generate a large and diverse set of moral dilemmas using a language model. Using this framework, we created the OffTheRails dataset which consists of 50 scenarios and 500 unique test items. We evaluated the quality of our model-written test items using two independent human experts and found that 90% of the test-items met the desired structure. We collect moral permissibility and intention judgments from 100 human crowdworkers and compared these judgments with those from GPT-4 and Claude-2 across eight control conditions. Both humans and GPT-4 assigned higher intentionality to agents when a harmful outcome was evitable and a necessary means. However, our findings did not match previous findings on permissibility judgments. This difference may be a result of not controlling the severity of harmful outcomes during scenario generation. We conclude by discussing future extensions of our benchmark to address this limitation.},
+	author = {Jan-Philipp Fr{\"a}nken and Ayesha Khawaja and Kanishk Gandhi and Jared Moore and Noah D. Goodman and Tobias Gerstenberg},
+	booktitle = {{AI Meets Moral Philosophy and Moral Psychology Workshop (NeurIPS 2023)}},
+	date-added = {2023-10-30 18:18:28 -0700},
+	date-modified = {2023-10-30 18:18:35 -0700},
+	title = {Off The Rails: Procedural Dilemma Generation for Moral Reasoning},
+	year = {2023}}
+
+@inproceedings{franken2023social,
+	abstract = {We explore the idea of aligning an AI assistant by inverting a model of users' (unknown) preferences from observed interactions. To validate our proposal, we run proof-of-concept simulations in the economic ultimatum game, formalizing user preferences as policies that guide the actions of simulated players. We find that the AI assistant accurately aligns its behavior to match standard policies from the economic literature (e.g., selfish, altruistic). However, the assistant's learned policies lack robustness and exhibit limited generalization in an out-of-distribution setting when confronted with a currency (e.g., grams of medicine) that was not included in the assistant's training distribution. Additionally, we find that when there is inconsistency in the relationship between language use and an unknown policy (e.g., an altruistic policy combined with rude language), the assistant's learning of the policy is slowed. Overall, our preliminary results suggest that developing simulation frameworks in which AI assistants need to infer preferences from diverse users can provide a valuable approach for studying practical alignment questions.},
+	author = {Jan-Philipp Fr{\"a}nken and Sam Kwok and Peixuan Ye and Kanishk Gandhi and Dilip Arumugam and Jared Moore and Alex Tamkin and Tobias Gerstenberg and Noah D. Goodman},
+	booktitle = {Socially Responsible Language Modelling Research Workshop (NeurIPS 2023)},
+	date-added = {2023-10-30 18:11:09 -0700},
+	date-modified = {2023-10-30 18:11:15 -0700},
+	title = {Social Contract AI: Aligning AI Assistants with Implicit Group Norms},
+	year = {2023}}
 
 @incollection{goodman2023probabilistic,
 	author = {Noah D. Goodman and Tobias Gerstenberg and Joshua B. Tenenbaum},
@@ -49,16 +76,14 @@
 	title = {Realism of Visual, Auditory, and Haptic Cues in Phenomenal Causality},
 	year = {2023}}
 
-@article{gandhi2023understanding,
+@inproceedings{gandhi2023understanding,
 	abstract = {As Large Language Models (LLMs) become increasingly integrated into our everyday lives, understanding their ability to comprehend human mental states becomes critical for ensuring effective interactions. However, despite the recent attempts to assess the Theory-of-Mind (ToM) reasoning capabilities of LLMs, the degree to which these models can align with human ToM remains a nuanced topic of exploration. This is primarily due to two distinct challenges: (1) the presence of inconsistent results from previous evaluations, and (2) concerns surrounding the validity of existing evaluation methodologies. To address these challenges, we present a novel framework for procedurally generating evaluations with LLMs by populating causal templates. Using our framework, we create a new social reasoning benchmark (BigToM) for LLMs which consists of 25 controls and 5,000 model-written evaluations. We find that human participants rate the quality of our benchmark higher than previous crowd-sourced evaluations and comparable to expert-written evaluations. Using BigToM, we evaluate the social reasoning capabilities of a variety of LLMs and compare model performances with human performance. Our results suggest that GPT4 has ToM capabilities that mirror human inference patterns, though less reliable, while other LLMs struggle.},
 	author = {Kanishk Gandhi and Jan-Philipp Fr{\"a}nken and Tobias Gerstenberg and Noah D. Goodman},
+	booktitle = {{Advances in Neural Information Processing Systems}},
 	date-added = {2023-06-27 19:45:01 -0700},
-	date-modified = {2023-06-27 19:45:09 -0700},
-	journal = {arXiv},
+	date-modified = {2023-10-30 18:11:40 -0700},
 	title = {Understanding Social Reasoning in Language Models with Language Models},
-	url = {https://arxiv.org/abs/2306.15448},
-	year = {2023},
-	bdsk-url-1 = {https://arxiv.org/abs/2306.15448}}
+	year = {2023}}
 
 @article{vasconcelos2023explanations,
 	author = {Vasconcelos, Helena and J{\"o}rke, Matthew and Grunde-McLaughlin, Madeleine and Gerstenberg, Tobias and Bernstein, Michael S and Krishna, Ranjay},

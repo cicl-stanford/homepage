@@ -6,8 +6,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anticipating the risks and benefits of counterfactual world simulation models</title>
+      <link>https://cicl.stanford.edu/publication/kirfel2023anticipating/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/kirfel2023anticipating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off The Rails: Procedural Dilemma Generation for Moral Reasoning</title>
+      <link>https://cicl.stanford.edu/publication/franken2023rails/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/franken2023rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Contract AI: Aligning AI Assistants with Implicit Group Norms</title>
+      <link>https://cicl.stanford.edu/publication/franken2023social/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/franken2023social/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>If not me, then who? Responsibility and replacement</title>
@@ -15,6 +42,15 @@
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/wu2023replacement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic programs as a unifying language of thought</title>
+      <link>https://cicl.stanford.edu/publication/goodman2023probabilistic/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/goodman2023probabilistic/</guid>
       <description></description>
     </item>
     
@@ -105,42 +141,6 @@
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/cao2023semantics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Causal Reasoning Across Agents and Objects</title>
-      <link>https://cicl.stanford.edu/publication/gonzalez2023agents/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gonzalez2023agents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning what matters: Causal abstraction in human inference</title>
-      <link>https://cicl.stanford.edu/publication/shin2023abstraction/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/shin2023abstraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teleology and generics</title>
-      <link>https://cicl.stanford.edu/publication/rose2023teleology/</link>
-      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/rose2023teleology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mental Jenga: A counterfactual simulation model of causal judgments about physical support</title>
-      <link>https://cicl.stanford.edu/publication/zhou2023jenga/</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/zhou2023jenga/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anticipating the risks and benefits of counterfactual world simulation models</title>
+      <link>https://cicl.stanford.edu/publication/kirfel2023anticipating/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/kirfel2023anticipating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off The Rails: Procedural Dilemma Generation for Moral Reasoning</title>
+      <link>https://cicl.stanford.edu/publication/franken2023rails/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/franken2023rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Contract AI: Aligning AI Assistants with Implicit Group Norms</title>
+      <link>https://cicl.stanford.edu/publication/franken2023social/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/franken2023social/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Realism of Visual, Auditory, and Haptic Cues in Phenomenal Causality</title>
@@ -18,6 +45,15 @@
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/chase2023realism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Social Reasoning in Language Models with Language Models</title>
+      <link>https://cicl.stanford.edu/publication/gandhi2023understanding/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gandhi2023understanding/</guid>
       <description></description>
     </item>
     
