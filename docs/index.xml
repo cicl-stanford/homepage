@@ -46,6 +46,15 @@
     </item>
     
     <item>
+      <title>MoCa: Measuring human-language model alignment on causal and moral judgment tasks</title>
+      <link>https://cicl.stanford.edu/publication/nie2023moca/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/nie2023moca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Probabilistic programs as a unifying language of thought</title>
       <link>https://cicl.stanford.edu/publication/goodman2023probabilistic/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
@@ -132,15 +141,6 @@
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/zhang2023llm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Semantics for Causing, Enabling, and Preventing Verbs Using Structural Causal Models</title>
-      <link>https://cicl.stanford.edu/publication/cao2023semantics/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/cao2023semantics/</guid>
       <description></description>
     </item>
     
