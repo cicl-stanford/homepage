@@ -54,6 +54,24 @@
     
     <url>
     
+      <loc>https://cicl.stanford.edu/tags/spotlight-at-neurips-workshop/</loc>
+      <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/tags/</loc>
+      <lastmod>2023-10-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://cicl.stanford.edu/publication_types/2/</loc>
       <lastmod>2023-10-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -147,16 +165,7 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/tags/</loc>
-      <lastmod>2023-06-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/tags/spotlight-at-neurips-2023/</loc>
+      <loc>https://cicl.stanford.edu/tags/spotlight-at-neurips-2023-datasets-and-benchmarks-track/</loc>
       <lastmod>2023-06-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

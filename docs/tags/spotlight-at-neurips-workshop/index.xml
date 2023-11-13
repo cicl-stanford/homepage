@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spotlight at NeurIPS Workshop on Causality in Cognition Lab</title>
+    <link>https://cicl.stanford.edu/tags/spotlight-at-neurips-workshop/</link>
+    <description>Recent content in Spotlight at NeurIPS Workshop on Causality in Cognition Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cicl.stanford.edu/tags/spotlight-at-neurips-workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Contract AI: Aligning AI Assistants with Implicit Group Norms</title>
+      <link>https://cicl.stanford.edu/publication/franken2023social/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/franken2023social/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

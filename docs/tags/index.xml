@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spotlight at NeurIPS Workshop</title>
+      <link>https://cicl.stanford.edu/tags/spotlight-at-neurips-workshop/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/tags/spotlight-at-neurips-workshop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Best Work-in-Progress Award</title>
@@ -22,11 +31,11 @@
     </item>
     
     <item>
-      <title>Spotlight at NeurIPS 2023</title>
-      <link>https://cicl.stanford.edu/tags/spotlight-at-neurips-2023/</link>
+      <title>Spotlight at NeurIPS 2023 Datasets and Benchmarks Track</title>
+      <link>https://cicl.stanford.edu/tags/spotlight-at-neurips-2023-datasets-and-benchmarks-track/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cicl.stanford.edu/tags/spotlight-at-neurips-2023/</guid>
+      <guid>https://cicl.stanford.edu/tags/spotlight-at-neurips-2023-datasets-and-benchmarks-track/</guid>
       <description></description>
     </item>
     
