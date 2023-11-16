@@ -16,15 +16,15 @@ abstract = "Human commonsense understanding of the physical and social world is 
 image_preview = ""
 selected = false
 projects = []
-#url_pdf = "papers/nie2023moca.pdf"
-url_preprint = ""
+url_pdf = "papers/nie2023moca.pdf"
+url_preprint = "https://arxiv.org/abs/2310.19677"
 url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/moca"}, {name = "Project website", url = "https://moca-llm.github.io/"}]
 math = true
 highlight = true
 [header]
