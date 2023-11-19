@@ -22,7 +22,7 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "posters/wu2023replacement-poster.pdf"
 url_source = ""
 url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/responsibility_replacement"}]
 math = true
