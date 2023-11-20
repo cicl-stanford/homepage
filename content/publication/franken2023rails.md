@@ -16,7 +16,7 @@ abstract = "As AI systems like language models are increasingly integrated into 
 image_preview = ""
 selected = false
 projects = []
-#url_pdf = "papers/franken2023rails.pdf"
+url_pdf = "papers/franken2023rails.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/procedural-evals-moral"},{name = "Project website", url = "https://sites.google.com/view/off-the-rails"}]
 math = true
 highlight = true
 [header]
