@@ -21,7 +21,7 @@ url_preprint = "https://psyarxiv.com/m2rcj/"
 url_code = ""
 url_dataset = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=_jhCXqqtmdA&ab_channel=CausalityinCognitionLab"
 url_poster = "posters/wu2023replacement-poster.pdf"
 url_source = ""
 url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/responsibility_replacement"}]
