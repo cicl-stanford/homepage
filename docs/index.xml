@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Beyond the here and now: Counterfactual simulation in causal cognition</title>
+      <link>https://cicl.stanford.edu/publication/gerstenberg2024beyond/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gerstenberg2024beyond/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anticipating the risks and benefits of counterfactual world simulation models</title>
@@ -132,15 +141,6 @@
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/nam2023show/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>You are what you&#39;re for: Essentialist categorization in large language models</title>
-      <link>https://cicl.stanford.edu/publication/zhang2023llm/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/zhang2023llm/</guid>
       <description></description>
     </item>
     
