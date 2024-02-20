@@ -160,6 +160,12 @@ weight = 3
     description = "I am interested in using different methods to explore social cognition, interpersonal interactions, and understanding the mind. I also enjoy reading, writing, and staying active."
 
 [[member]]
+    id = "Mishika Govil"
+    position = "Research Assistant"
+    email = "mishgov@stanford.edu"
+    description = "I’m an undergrad junior majoring in MS&E and Philosophy and minoring in CS. I’m interested in exploring how computational technologies differ from and relate to human decision-making processes. What drives me is learning how things work - whether it be in the context of pure math, computing, the physical universe, the human mind, economic structures, or anything else. Outside of work, I love reading, watching sitcoms, and playing ping pong, pickleball, badminton, and basketball! My favorite drink is a vanilla milkshake!"
+
+[[member]]
     id = "Alexa Tran"
     position = "Research Assistant"
     email = "alexatran@stanford.edu"
