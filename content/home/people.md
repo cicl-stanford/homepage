@@ -160,6 +160,12 @@ weight = 3
     description = "I am interested in using different methods to explore social cognition, interpersonal interactions, and understanding the mind. I also enjoy reading, writing, and staying active."
 
 [[member]]
+    id = "Alexa Tran"
+    position = "Research Assistant"
+    email = "alexatran@stanford.edu"
+    description = "I’m an undergraduate majoring in computer science, either on the AI or HCI track. I’m interested in using computational models to understand how people think about the world, and in my free time, I love going on long walks, playing golf, and trying new foods!"
+
+[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab Affiliate"
 	image = "xi_jia_zhou.jpg"
