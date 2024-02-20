@@ -160,6 +160,14 @@ weight = 3
     description = "I am interested in using different methods to explore social cognition, interpersonal interactions, and understanding the mind. I also enjoy reading, writing, and staying active."
 
 [[member]]
+    id = "Hannah Cha"
+    position = "Research Assistant"
+    email = "hcha417@stanford.edu"
+    description = "I am junior at Stanford majoring in Symbolic Systems with a minor in Art Practice and CSRE. I'm interested in minimizing algorithmic biases and harms and analyzing AI models in social contexts. I love making digital art, animations, and painting my own nails!"
+    website = "https://www.hannahcha.com/"
+    github = "hannahcha417"
+
+[[member]]
     id = "Mishika Govil"
     position = "Research Assistant"
     email = "mishgov@stanford.edu"
