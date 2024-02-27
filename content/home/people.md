@@ -132,19 +132,6 @@ weight = 3
     description = "I'm passionate with complex systems, human intellectuality, and world-building prospects. Majoring in computer science, I’m excited about AI and interdisciplinary research. Things I enjoy: poetry and guitar, hiking and dancing, and a sip of Earl Grey Tea."
 
 [[member]]
-    id = "Cindy Xin"
-    position = "Research Assistant"
-    email = "cindywxx@stanford.edu"
-    description = "I'm an undergraduate majoring in symbolic systems and philosophy. I am interested in epistemology, philosophy of mind, experimental philosophy, and learning more about how people reason. In my spare time, I enjoy knitting and writing poetry."
-
-[[member]]
-    id = "Ayesha Khawaja"
-    position = "Research Assistant"
-    email = "akhawaja@stanford.edu"
-    github = "ayeshakhawaja"
-    description = "I’m a senior at Stanford studying Symbolic Systems with a concentration in Artificial Intelligence. I’m interested in using computational methods to understand human and artificial cognition, with a focus on moral judgment and reasoning. Outside of school, I enjoy reading and watching soccer."
-
-[[member]]
     id = "Haoran Zhao"
     position = "Research Assistant"
     email = "hz454@drexel.edu"
@@ -259,6 +246,19 @@ weight = 3
     email = "kanishk.gandhi@stanford.edu"
     website = "http://kanishkgandhi.com/"
     description = "I am interested in reasoning and social cognition; how we can build machines that interact with, learn from and communicate with others."
+
+# [[member]]
+#     id = "Cindy Xin"
+#     position = "Research Assistant"
+#     email = "cindywxx@stanford.edu"
+#     description = "I'm an undergraduate majoring in symbolic systems and philosophy. I am interested in epistemology, philosophy of mind, experimental philosophy, and learning more about how people reason. In my spare time, I enjoy knitting and writing poetry."
+
+# [[member]]
+#     id = "Ayesha Khawaja"
+#     position = "Research Assistant"
+#     email = "akhawaja@stanford.edu"
+#     github = "ayeshakhawaja"
+#     description = "I’m a senior at Stanford studying Symbolic Systems with a concentration in Artificial Intelligence. I’m interested in using computational methods to understand human and artificial cognition, with a focus on moral judgment and reasoning. Outside of school, I enjoy reading and watching soccer."
 
 # [[member]]
 #     id = "Elyse Chase"
