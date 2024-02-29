@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/procedural-evals-moral"},{name = "Project website", url = "https://sites.google.com/view/off-the-rails"}]
+url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/moral-evals"},{name = "Project website", url = "https://sites.google.com/view/off-the-rails"}]
 math = true
 highlight = true
 [header]
