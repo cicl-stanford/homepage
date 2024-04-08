@@ -167,6 +167,12 @@ weight = 3
     description = "I’m an undergraduate majoring in computer science, either on the AI or HCI track. I’m interested in using computational models to understand how people think about the world, and in my free time, I love going on long walks, playing golf, and trying new foods!"
 
 [[member]]
+    id = "Phillip Miao"
+    position = "Research Assistant"
+    email = "pmiao@stanford.edu"
+    description = "I am an undergraduate student at Stanford University studying Computer Science. I am interested in using big data and computational tools to understand how we perceive the world. I am also interested in understanding how language models perform reasoning and thinking. I love playing board games, traveling, and having fun with friends."
+
+[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab Affiliate"
 	image = "xi_jia_zhou.jpg"
