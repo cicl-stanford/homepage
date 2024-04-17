@@ -3,8 +3,8 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
-      <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+      <loc>https://cicl.stanford.edu/publication_types/3/</loc>
+      <lastmod>2024-04-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +13,7 @@
     <url>
     
       <loc>https://cicl.stanford.edu/</loc>
-      <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+      <lastmod>2024-04-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -21,7 +21,24 @@
     
     <url>
     
+      <loc>https://cicl.stanford.edu/publication/franken2024rails/</loc>
+      <lastmod>2024-04-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://cicl.stanford.edu/publication_types/</loc>
+      <lastmod>2024-04-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
       <lastmod>2024-03-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -48,15 +65,6 @@
     
       <loc>https://cicl.stanford.edu/publication/prinzing2024purpose/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication_types/3/</loc>
-      <lastmod>2023-10-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

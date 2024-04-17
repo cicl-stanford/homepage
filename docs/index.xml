@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Procedural dilemma generation for evaluating moral reasoning in humans and language models</title>
+      <link>https://cicl.stanford.edu/publication/franken2024rails/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/franken2024rails/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>STaR-GATE: Teaching Language Models to Ask Clarifying Questions</title>
@@ -132,15 +141,6 @@
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/gerstenberg2023criticality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A computational model of responsibility judgments from counterfactual simulations and intention inferences</title>
-      <link>https://cicl.stanford.edu/publication/wu2023computational/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/wu2023computational/</guid>
       <description></description>
     </item>
     
