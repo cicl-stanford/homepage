@@ -1,12 +1,23 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Tobias Gerstenberg at 2024-04-17 14:34:18 -0700 
+%% Created for Tobias Gerstenberg at 2024-04-22 21:44:33 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@article{franken2024sami,
+	abstract = {When prompting a language model (LM), users frequently expect the model to adhere to a set of behavioral principles across diverse tasks, such as producing insightful content while avoiding harmful or biased language. Instilling such principles into a model can be resource-intensive and technically challenging, generally requiring human preference labels or examples. We introduce SAMI, a method for teaching a pretrained LM to follow behavioral principles that does not require any preference labels or demonstrations. SAMI is an iterative algorithm that finetunes a pretrained LM to increase the conditional mutual information between constitutions and self-generated responses given queries from a datasest. On single-turn dialogue and summarization, a SAMI-trained mistral-7b outperforms the initial pretrained model, with win rates between 66% and 77%. Strikingly, it also surpasses an instruction-finetuned baseline (mistral-7b-instruct) with win rates between 55% and 57% on single-turn dialogue. SAMI requires a "principle writer" model; to avoid dependence on stronger models, we further evaluate aligning a strong pretrained model (mixtral-8x7b) using constitutions written by a weak instruction-finetuned model (mistral-7b-instruct). The SAMI-trained mixtral-8x7b outperforms both the initial model and the instruction-finetuned model, achieving a 65% win rate on summarization. Our results indicate that a pretrained LM can learn to follow constitutions without using preference labels, demonstrations, or human oversight.},
+	author = {Fr{\"a}nken, Jan-Philipp and Zelikman, Eric and Rafailov, Rafael and Gandhi, Kanishk and Gerstenberg, Tobias and Goodman, Noah D.},
+	date-added = {2024-04-22 21:44:23 -0700},
+	date-modified = {2024-04-22 21:44:23 -0700},
+	journal = {arXiv},
+	title = {{Self-supervised alignment with mutual information: Learning to follow principles without preference labels}},
+	url = {http://arxiv.org/abs/2404.14313},
+	year = {2024},
+	bdsk-url-1 = {http://arxiv.org/abs/2404.14313}}
 
 @inproceedings{franken2024rails,
 	abstract = {As AI systems like language models are increasingly integrated into decision-making processes affecting people's lives, it's critical to ensure that these systems have sound moral reasoning. To test whether they do, we need to develop systematic evaluations. We provide a framework that uses a language model to translate causal graphs that capture key aspects of moral dilemmas into prompt templates. With this framework, we procedurally generated a large and diverse set of moral dilemmas---the OffTheRails benchmark---consisting of 50 scenarios and 400 unique test items. We collected moral permissibility and intention judgments from human participants for a subset of our items and compared these judgments to those from two language models (GPT-4 and Claude-2) across eight conditions. We find that moral dilemmas in which the harm is a necessary means (as compared to a side effect) resulted in lower permissibility and higher intention ratings for both participants and language models. The same pattern was observed for evitable versus inevitable harmful outcomes. However, there was no clear effect of whether the harm resulted from an agent's action versus from having omitted to act. We discuss limitations of our prompt generation pipeline and opportunities for improving scenarios to increase the strength of experimental effects.},

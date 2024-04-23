@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Self-supervised alignment with mutual information: Learning to follow principles without preference labels</title>
+      <link>https://cicl.stanford.edu/publication/franken2024sami/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/franken2024sami/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Procedural dilemma generation for evaluating moral reasoning in humans and language models</title>
@@ -132,15 +141,6 @@
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/gandhi2023understanding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Making a positive difference: Criticality in groups</title>
-      <link>https://cicl.stanford.edu/publication/gerstenberg2023criticality/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gerstenberg2023criticality/</guid>
       <description></description>
     </item>
     
