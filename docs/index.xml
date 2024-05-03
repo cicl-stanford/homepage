@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Biased causal strength judgments in humans and large language models</title>
+      <link>https://cicl.stanford.edu/publication/keshmirian2024biased/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/keshmirian2024biased/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-supervised alignment with mutual information: Learning to follow principles without preference labels</title>
@@ -37,7 +46,7 @@
     </item>
     
     <item>
-      <title>Beyond the here and now: Counterfactual simulation in causal cognition</title>
+      <title>Counterfactual simulation in causal cognition</title>
       <link>https://cicl.stanford.edu/publication/gerstenberg2024beyond/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
       
@@ -132,15 +141,6 @@
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/chase2023realism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Understanding Social Reasoning in Language Models with Language Models</title>
-      <link>https://cicl.stanford.edu/publication/gandhi2023understanding/</link>
-      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gandhi2023understanding/</guid>
       <description></description>
     </item>
     

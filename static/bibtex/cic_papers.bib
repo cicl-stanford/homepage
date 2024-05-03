@@ -1,12 +1,23 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Tobias Gerstenberg at 2024-04-22 21:44:33 -0700 
+%% Created for Tobias Gerstenberg at 2024-05-03 18:39:36 -0400 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@inproceedings{keshmirian2024biased,
+	abstract = {Causal reasoning is a critical aspect of both human cognition and artificial intelligence (AI), playing a prominent role in understanding the relationships between events. Causal Bayesian Networks (CBNs) have been instrumental in modeling such relationships, using directed, acyclic links between nodes in a network to depict probabilistic associations between variables. Deviations from these graphical models' edicts would result in biased judgments. This study explores one such bias in the causal judgments of humans and Large Language Models (LLMs) by examining two structures in CBNs: Canonical Chain (A→B→C) and Common Cause (A←B→C) networks. In these structures, once the intermediate variable (B) is known, the probability of the outcome (C) is normatively independent of the initial cause (A). However, studies have shown that humans often ignore this independence. We tested the mutually exclusive predictions of three theories that could account for this bias (N=300). Using hierarchical mixed-effect models, we found that humans tend to perceive causes in Chain structures as significantly stronger, providing support for only one of the hypotheses. This increase in perceived causal power might reflect a view of intermediate causes as more reflective of reliable mechanisms, which could, in turn, stem from our interactions with the world or the way we communicate causality to others. LLMs are primarily trained on language data. Therefore, examining whether they exhibit similar biases in causal reasoning can help us understand the origins of canonical Chain structures' perceived causal power while also shedding light on whether LLMs can abstract causal principles. To investigate this, we subjected three LLMs, GPT3.5-Turbo, GPT4, and Luminous Supreme Control, to the same queries as our human subjects, adjusting a key `temperature' hyperparameter. Our findings show that, particularly with higher temperatures (i.e., greater randomness), LLMs exhibit a similar boost in the perceived causal power of Chains, suggesting the bias is at least partly reflected in language use. Similar results across items suggest a degree of causal principle abstraction in the studied models. Implications for causal representation in humans and LLMs are discussed.},
+	author = {Anita Keshmirian and Moritz Willig and Babak Hemmatian and Ulrike Hahn and Kristian Kersting and Tobias Gerstenberg},
+	booktitle = {ICLR 2024 Workshop on Representational Alignment},
+	date-added = {2024-05-03 18:39:05 -0400},
+	date-modified = {2024-05-03 18:39:34 -0400},
+	title = {Biased Causal Strength Judgments in Humans and Large Language Models},
+	url = {https://openreview.net/forum?id=544P6YidFk},
+	year = {2024},
+	bdsk-url-1 = {https://openreview.net/forum?id=544P6YidFk}}
 
 @article{franken2024sami,
 	abstract = {When prompting a language model (LM), users frequently expect the model to adhere to a set of behavioral principles across diverse tasks, such as producing insightful content while avoiding harmful or biased language. Instilling such principles into a model can be resource-intensive and technically challenging, generally requiring human preference labels or examples. We introduce SAMI, a method for teaching a pretrained LM to follow behavioral principles that does not require any preference labels or demonstrations. SAMI is an iterative algorithm that finetunes a pretrained LM to increase the conditional mutual information between constitutions and self-generated responses given queries from a datasest. On single-turn dialogue and summarization, a SAMI-trained mistral-7b outperforms the initial pretrained model, with win rates between 66% and 77%. Strikingly, it also surpasses an instruction-finetuned baseline (mistral-7b-instruct) with win rates between 55% and 57% on single-turn dialogue. SAMI requires a "principle writer" model; to avoid dependence on stronger models, we further evaluate aligning a strong pretrained model (mixtral-8x7b) using constitutions written by a weak instruction-finetuned model (mistral-7b-instruct). The SAMI-trained mixtral-8x7b outperforms both the initial model and the instruction-finetuned model, achieving a 65% win rate on summarization. Our results indicate that a pretrained LM can learn to follow constitutions without using preference labels, demonstrations, or human oversight.},
