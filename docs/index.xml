@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Do as I explain: Explanations communicate optimal interventions</title>
+      <link>https://cicl.stanford.edu/publication/kirfel2024do/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/kirfel2024do/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Biased causal strength judgments in humans and large language models</title>
@@ -132,15 +141,6 @@
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/beller2023language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Realism of Visual, Auditory, and Haptic Cues in Phenomenal Causality</title>
-      <link>https://cicl.stanford.edu/publication/chase2023realism/</link>
-      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/chase2023realism/</guid>
       <description></description>
     </item>
     
