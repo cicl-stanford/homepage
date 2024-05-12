@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Towards a computational model of responsibility judgments in sequential human-AI collaboration</title>
+      <link>https://cicl.stanford.edu/publication/tsirtsis2024sequential/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/tsirtsis2024sequential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Without his cookies, he&#39;s just a monster: A counterfactual simulation model of social explanation</title>
+      <link>https://cicl.stanford.edu/publication/brockbank2024monster/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/brockbank2024monster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chain versus common cause: Biased causal strength judgments in humans and large language models</title>
+      <link>https://cicl.stanford.edu/publication/keshmirian2024chain/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/keshmirian2024chain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Do as I explain: Explanations communicate optimal interventions</title>

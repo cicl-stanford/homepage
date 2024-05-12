@@ -6,8 +6,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Towards a computational model of responsibility judgments in sequential human-AI collaboration</title>
+      <link>https://cicl.stanford.edu/publication/tsirtsis2024sequential/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/tsirtsis2024sequential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Without his cookies, he&#39;s just a monster: A counterfactual simulation model of social explanation</title>
+      <link>https://cicl.stanford.edu/publication/brockbank2024monster/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/brockbank2024monster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chain versus common cause: Biased causal strength judgments in humans and large language models</title>
+      <link>https://cicl.stanford.edu/publication/keshmirian2024chain/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/keshmirian2024chain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Do as I explain: Explanations communicate optimal interventions</title>
@@ -114,33 +141,6 @@
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/nie2023moca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic programs as a unifying language of thought</title>
-      <link>https://cicl.stanford.edu/publication/goodman2023probabilistic/</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/goodman2023probabilistic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Children use disagreement to infer what happened</title>
-      <link>https://cicl.stanford.edu/publication/amemiya2023disagreement/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/amemiya2023disagreement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A counterfactual simulation model of causal language</title>
-      <link>https://cicl.stanford.edu/publication/beller2023language/</link>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/beller2023language/</guid>
       <description></description>
     </item>
     
