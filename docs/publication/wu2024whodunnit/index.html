@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="How do essentialist beliefs about categories arise? We hypothesize that such beliefs are transmitted via language. We subject large language models (LLMs) to vignettes from the literature on essentialist categorization and find that they align well with people when the studies manipulated teleological information - information about what something is for. We examine whether in a classic test of essentialist categorization - the transformation task - LLMs prioritize teleological properties over information about what something looks like, or is made of. Experiments 1 and 2 find that telos and what something is made of matter more than appearance. Experiment 3 manipulates all three factors and finds that what something is for matters more than what it&#39;s made of. Overall, these studies suggest that language alone may be sufficient to give rise to essentialist beliefs, and that information about what something is for matters more.">
+  <meta name="description" content="Humans are remarkably adept at inferring the causes of events in their environment; doing so often requires incorporating information from multiple sensory modalities. For instance, if a car slows down in front of us, inferences about why they did so are rapidly revised if we also hear sirens in the distance. Here, we investigate the ability to reconstruct others&#39; actions and events from the past by integrating multimodal information. Participants were asked to infer which of two agents performed an action in a household setting given either visual evidence, auditory evidence, or both. We develop a computational model that makes inferences by generating multimodal simulations, and also evaluate our task on a large language model (GPT-4) and a large multimodal model (GPT-4V). We find that humans are relatively accurate overall and perform best when given multimodal evidence. GPT-4 and GPT-4V performance comes close overall, but is very weakly correlated with participants across individual trials. Meanwhile, the simulation model captures the pattern of human responses well. Multimodal event reconstruction represents a challenge for current AI systems, and frameworks that draw on the cognitive processes underlying people&#39;s ability to reconstruct events offer a promising avenue forward.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://cicl.stanford.edu/publication/zhang2023llm/">
+  <link rel="alternate" hreflang="en-us" href="https://cicl.stanford.edu/publication/wu2024whodunnit/">
 
   
 
@@ -98,7 +98,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://cicl.stanford.edu/publication/zhang2023llm/">
+  <link rel="canonical" href="https://cicl.stanford.edu/publication/wu2024whodunnit/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -106,21 +106,21 @@
   <meta property="twitter:creator" content="@tobigerstenberg">
   
   <meta property="og:site_name" content="Causality in Cognition Lab">
-  <meta property="og:url" content="https://cicl.stanford.edu/publication/zhang2023llm/">
-  <meta property="og:title" content="You are what you&#39;re for: Essentialist categorization in large language models | Causality in Cognition Lab">
-  <meta property="og:description" content="How do essentialist beliefs about categories arise? We hypothesize that such beliefs are transmitted via language. We subject large language models (LLMs) to vignettes from the literature on essentialist categorization and find that they align well with people when the studies manipulated teleological information - information about what something is for. We examine whether in a classic test of essentialist categorization - the transformation task - LLMs prioritize teleological properties over information about what something looks like, or is made of. Experiments 1 and 2 find that telos and what something is made of matter more than appearance. Experiment 3 manipulates all three factors and finds that what something is for matters more than what it&#39;s made of. Overall, these studies suggest that language alone may be sufficient to give rise to essentialist beliefs, and that information about what something is for matters more.">
+  <meta property="og:url" content="https://cicl.stanford.edu/publication/wu2024whodunnit/">
+  <meta property="og:title" content="Whodunnit? Inferring what happened from multimodal evidence | Causality in Cognition Lab">
+  <meta property="og:description" content="Humans are remarkably adept at inferring the causes of events in their environment; doing so often requires incorporating information from multiple sensory modalities. For instance, if a car slows down in front of us, inferences about why they did so are rapidly revised if we also hear sirens in the distance. Here, we investigate the ability to reconstruct others&#39; actions and events from the past by integrating multimodal information. Participants were asked to infer which of two agents performed an action in a household setting given either visual evidence, auditory evidence, or both. We develop a computational model that makes inferences by generating multimodal simulations, and also evaluate our task on a large language model (GPT-4) and a large multimodal model (GPT-4V). We find that humans are relatively accurate overall and perform best when given multimodal evidence. GPT-4 and GPT-4V performance comes close overall, but is very weakly correlated with participants across individual trials. Meanwhile, the simulation model captures the pattern of human responses well. Multimodal event reconstruction represents a challenge for current AI systems, and frameworks that draw on the cognitive processes underlying people&#39;s ability to reconstruct events offer a promising avenue forward.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2023-05-11T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2024-05-13T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2023-05-11T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2024-05-13T00:00:00&#43;00:00">
   
 
   
 
-  <title>You are what you&#39;re for: Essentialist categorization in large language models | Causality in Cognition Lab</title>
+  
+
+  <title>Whodunnit? Inferring what happened from multimodal evidence | Causality in Cognition Lab</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -236,10 +236,10 @@
 
 <div class="container">
   <div class="pub-title"> 
-    <h1 itemprop="name" class ="title-text">You are what you&#39;re for: Essentialist categorization in large language models</h1>
+    <h1 itemprop="name" class ="title-text">Whodunnit? Inferring what happened from multimodal evidence</h1>
     <p class="pub-authors" itemprop="author">
       
-      S. Zhang*, J. S. She*, T. Gerstenberg, D. Rose
+      S. A Wu*, E. Brockbank*, H. Cha, J. Fränken, E. Jin, Z. Huang, W. Liu, R. Zhang, J. Wu, T. Gerstenberg
       
     </p>
     <span class="pull-right">
@@ -252,7 +252,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">How do essentialist beliefs about categories arise? We hypothesize that such beliefs are transmitted via language. We subject large language models (LLMs) to vignettes from the literature on essentialist categorization and find that they align well with people when the studies manipulated teleological information - information about what something is for. We examine whether in a classic test of essentialist categorization - the transformation task - LLMs prioritize teleological properties over information about what something looks like, or is made of. Experiments 1 and 2 find that telos and what something is made of matter more than appearance. Experiment 3 manipulates all three factors and finds that what something is for matters more than what it&rsquo;s made of. Overall, these studies suggest that language alone may be sufficient to give rise to essentialist beliefs, and that information about what something is for matters more.</p>
+    <p class="pub-abstract" itemprop="text">Humans are remarkably adept at inferring the causes of events in their environment; doing so often requires incorporating information from multiple sensory modalities. For instance, if a car slows down in front of us, inferences about why they did so are rapidly revised if we also hear sirens in the distance. Here, we investigate the ability to reconstruct others&rsquo; actions and events from the past by integrating multimodal information. Participants were asked to infer which of two agents performed an action in a household setting given either visual evidence, auditory evidence, or both. We develop a computational model that makes inferences by generating multimodal simulations, and also evaluate our task on a large language model (GPT-4) and a large multimodal model (GPT-4V). We find that humans are relatively accurate overall and perform best when given multimodal evidence. GPT-4 and GPT-4V performance comes close overall, but is very weakly correlated with participants across individual trials. Meanwhile, the simulation model captures the pattern of human responses well. Multimodal event reconstruction represents a challenge for current AI systems, and frameworks that draw on the cognitive processes underlying people&rsquo;s ability to reconstruct events offer a promising avenue forward.</p>
     
 
     
@@ -283,7 +283,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Zhang S.*, She J. S.*, Gerstenberg T., Rose D. (2023). You are what you&rsquo;re for: Essentialist categorization in large language models. In <em>Proceedings of the 45th Annual Conference of the Cognitive Science Society</em>.</div>
+          <div class="col-xs-12 col-sm-9">Wu<em>, S. A., Brockbank</em>, E., Cha, H., Fränken, J., Jin, E., Huang, Z., Liu, W., Zhang, R., Wu, J., Gerstenberg, T. (2024). Whodunnit? Inferring what happened from multimodal evidence. In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society</em>.</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -296,7 +296,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            2023
+            2024
           </div>
         </div>
       </div>
@@ -315,12 +315,8 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://psyarxiv.com/ypw5r/" target="_blank" rel="noopener">
-  Preprint
-</a>
 
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://cicl.stanford.edu/papers/zhang2023llm.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://cicl.stanford.edu/papers/wu2024whodunnit.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -333,15 +329,11 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://cicl.stanford.edu/posters/zhang2023llm-poster.pdf" target="_blank" rel="noopener">
-  Poster
-</a>
 
 
 
 
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/cicl-stanford/essentialism_in_llms" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/cicl-stanford/whodunnit_multimodal_inference" target="_blank" rel="noopener">
   Github
 </a>
 
