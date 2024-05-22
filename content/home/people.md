@@ -27,15 +27,6 @@ weight = 3
 	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
 
 [[member]]
-	id = "Lara Kirfel"
-	position = "Postdoctoral Researcher"
-	email = "l.kirfel@stanford.edu"
-	github = "LaraKirfel"
-    scholar = "citations?user=uJkMLZwAAAAJ&hl=de"
-    website = "https://larakirfel.tumblr.com/"
-    description = "My research focuses on causal reasoning, moral cognition and counterfactual thinking with the occasional dip into philosophy. I like to drink strong black coffee."
-
-[[member]]
 	id = "Jan-Philipp Fränken"
 	position = "Postdoctoral Researcher"
     image = "jan-philipp_franken.jpg"
@@ -130,15 +121,6 @@ weight = 3
     position = "Research Assistant"
     email = "pxye@stanford.edu"
     description = "I'm passionate with complex systems, human intellectuality, and world-building prospects. Majoring in computer science, I’m excited about AI and interdisciplinary research. Things I enjoy: poetry and guitar, hiking and dancing, and a sip of Earl Grey Tea."
-
-[[member]]
-    id = "Haoran Zhao"
-    position = "Research Assistant"
-    email = "hz454@drexel.edu"
-    github = "haoranzhao419"
-    twitter = "HaoranZhaoHRZ"
-    website = "https://haoranzhao419.github.io/"
-    description = "I am interested in understanding how effectively language models can perform reasoning and comprehend commonsense and factual knowledge. Subsequently, with a better understanding of LLM’s cognitive abilities, I hope to build more cognitive-feasible and efficient language models at small scales. In my free time, I like running and sailing. I like lemonade."
 
 [[member]]
     id = "Sunny Yu"
@@ -493,8 +475,26 @@ weight = 3
 #     github = "ggaw25"
 #     description = "I’m interested in understanding how people make complex decisions through computational models. I am currently a sophomore studying Computer Science and Economics. I love all things sports and outdoors, and light-roasted black coffee."
 
+# [[member]]
+# id = "Lara Kirfel"
+# position = "Postdoctoral Researcher"
+# email = "l.kirfel@stanford.edu"
+# github = "LaraKirfel"
+# scholar = "citations?user=uJkMLZwAAAAJ&hl=de"
+# website = "https://larakirfel.tumblr.com/"
+# description = "My research focuses on causal reasoning, moral cognition and counterfactual thinking with the occasional dip into philosophy. I like to drink # strong black coffee."
+
+# [[member]]
+# id = "Haoran Zhao"
+# position = "Research Assistant"
+# email = "hz454@drexel.edu"
+# github = "haoranzhao419"
+# twitter = "HaoranZhaoHRZ"
+# website = "https://haoranzhao419.github.io/"
+# description = "I am interested in understanding how effectively language models can perform reasoning and comprehend commonsense and factual knowledge. Subsequently, with a better understanding of LLM’s cognitive abilities, I hope to build more cognitive-feasible and efficient language models at small scales. In my free time, I like running and sailing. I like lemonade."
+
 [[member]]
 id = "Alumni"
-description = "<ul><li> <a href='https://www.cmu.edu/dietrich/philosophy/people/masters/damini-kusum.html'>Damini Kusum</a> (research assistant): Now MSc student at Carnegie Mellon University. <li> <a href='https://josephouta.com/'>Joseph Outa</a> (research assistant): Now PhD student at Johns Hopkins University. </li><li> <a href='https://zach-davis.github.io/'>Zach Davis</a> (postdoc): Now research scientist at Facebook Reality Labs. </li> <li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (lab affiliate)</li> <li>Bryce Linford (research assistant): Now PhD student at UCLA.</li> <li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (research assistant): Now PhD student at UC Berkeley.</li> </ul>"
+description = "<ul><li> <a href='https://www.mpib-berlin.mpg.de/person/lara-kirfel/367762'>Lara Kirfel</a> (postdoc): Now Postdoctoral Fellow at the Center for Humans and Machines, MPI Berlin.<li> <a href='https://www.cmu.edu/dietrich/philosophy/people/masters/damini-kusum.html'>Damini Kusum</a> (research assistant): Now MSc student at Carnegie Mellon University. <li> <a href='https://josephouta.com/'>Joseph Outa</a> (research assistant): Now PhD student at Johns Hopkins University. </li><li> <a href='https://zach-davis.github.io/'>Zach Davis</a> (postdoc): Now research scientist at Facebook Reality Labs. </li> <li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (lab affiliate)</li> <li>Bryce Linford (research assistant): Now PhD student at UCLA.</li> <li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (research assistant): Now PhD student at UC Berkeley.</li> </ul>"
 
 +++
