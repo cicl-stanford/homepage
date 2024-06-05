@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Press: HAI News", url = "https://hai.stanford.edu/news/humans-use-counterfactuals-reason-about-causality-can-ai"}]
 math = true
 highlight = true
 [header]
