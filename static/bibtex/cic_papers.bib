@@ -1,12 +1,23 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Tobias Gerstenberg at 2024-06-07 21:28:33 -0700 
+%% Created for Tobias Gerstenberg at 2024-06-26 12:25:09 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@article{du2024robotic,
+	abstract = {When faced with a novel scenario, it can be hard to succeed on the first attempt. In these challenging situations, it is important to know how to retry quickly and meaningfully. Retrying behavior can emerge naturally in robots trained on diverse data, but such robot policies will typically only exhibit undirected retrying behavior and may not terminate a suboptimal approach before an unrecoverable mistake. We can improve these robot policies by instilling an explicit ability to try, evaluate, and retry a diverse range of strategies. We introduce Bellman-Guided Retrials, an algorithm that works on top of a base robot policy by monitoring the robot's progress, detecting when a change of plan is needed, and adapting the executed strategy until the robot succeeds. We start with a base policy trained on expert demonstrations of a variety of scenarios. Then, using the same expert demonstrations, we train a value function to estimate task completion. During test time, we use the value function to compare our expected rate of progress to our achieved rate of progress. If our current strategy fails to make progress at a reasonable rate, we recover the robot and sample a new strategy from the base policy while skewing it away from behaviors that have recently failed. We evaluate our method on simulated and real-world environments that contain a diverse suite of scenarios. We find that Bellman-Guided Retrials increases the average absolute success rates of base policies by more than 20% in simulation and 50% in real-world experiments, demonstrating a promising framework for instilling existing trained policies with explicit trial and error capabilities. For evaluation videos and other documentation, go to https://sites.google.com/view/to-err-robotic/home},
+	author = {Du, Maximilian and Khazatsky, Alexander and Gerstenberg, Tobias and Finn, Chelsea},
+	date-added = {2024-06-26 12:24:14 -0700},
+	date-modified = {2024-06-26 12:25:06 -0700},
+	journal = {arXiv},
+	title = {{To Err is Robotic: Rapid Value-Based Trial-and-Error during Deployment}},
+	url = {http://arxiv.org/abs/2406.15917},
+	year = {2024},
+	bdsk-url-1 = {http://arxiv.org/abs/2406.15917}}
 
 @inproceedings{wu2024resource,
 	abstract = {There is wide agreement that the mind has different mechanisms it can use to make moral judgments. But how does it decide which one to use when? Recent theoretical work has suggested that people select mechanisms of moral judgment in a way that is resource-rational --- that is, by rationally trading off effort against utility. For instance, people may follow general rules in low-stakes situations, but engage more computationally intensive mechanisms such as consequentialist or contractualist reasoning when the stakes are high. Here, we evaluate whether humans and large language models (LLMs) exhibit resource-rational moral reasoning in two moral dilemmas by manipulating the stakes of each scenario. As predicted, we found that the higher the stakes, the more people employed a more effortful mechanism over following a general rule. However, there was mixed evidence for similar resource-rational moral reasoning in the LLMs. Our results provide evidence that people's moral judgments reflect resource-rational cognitive constraints, and they highlight the opportunities for developing AI systems better aligned with human moral values.},

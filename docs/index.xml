@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>To Err is Robotic: Rapid Value-Based Trial-and-Error during Deployment</title>
+      <link>https://cicl.stanford.edu/publication/du2024robotic/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/du2024robotic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Counterfactual simulation in causal cognition</title>
@@ -132,15 +141,6 @@
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/kirfel2023anticipating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Off The Rails: Procedural Dilemma Generation for Moral Reasoning</title>
-      <link>https://cicl.stanford.edu/publication/franken2023rails/</link>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/franken2023rails/</guid>
       <description></description>
     </item>
     
