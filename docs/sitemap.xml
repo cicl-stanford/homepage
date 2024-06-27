@@ -3,8 +3,8 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
-      <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+      <loc>https://cicl.stanford.edu/publication_types/2/</loc>
+      <lastmod>2024-06-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +13,7 @@
     <url>
     
       <loc>https://cicl.stanford.edu/</loc>
-      <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+      <lastmod>2024-06-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -22,6 +22,120 @@
     <url>
     
       <loc>https://cicl.stanford.edu/publication_types/</loc>
+      <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/du2024robotic/</loc>
+      <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/gerstenberg2024counterfactual/</loc>
+      <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication_types/3/</loc>
+      <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/amemiya2024disagreement/</loc>
+      <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/wu2024whodunnit/</loc>
+      <lastmod>2024-05-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/tsirtsis2024sequential/</loc>
+      <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/brockbank2024monster/</loc>
+      <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/keshmirian2024chain/</loc>
+      <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/kirfel2024do/</loc>
+      <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/keshmirian2024biased/</loc>
+      <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/wu2024resource/</loc>
+      <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/franken2024sami/</loc>
+      <lastmod>2024-04-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication/franken2024rails/</loc>
+      <lastmod>2024-04-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication_types/1/</loc>
       <lastmod>2024-03-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -38,25 +152,8 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication/gerstenberg2024beyond/</loc>
-      <lastmod>2024-01-21T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://cicl.stanford.edu/publication/prinzing2024purpose/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication_types/3/</loc>
-      <lastmod>2023-10-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -105,15 +202,6 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication_types/2/</loc>
-      <lastmod>2023-10-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://cicl.stanford.edu/publication/wu2023replacement/</loc>
       <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     </url>
@@ -150,14 +238,6 @@
     
       <loc>https://cicl.stanford.edu/publication/goodman2023probabilistic/</loc>
       <lastmod>2023-10-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication/amemiya2023disagreement/</loc>
-      <lastmod>2023-09-09T00:00:00+00:00</lastmod>
     </url>
     
   

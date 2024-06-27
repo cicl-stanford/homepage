@@ -1,12 +1,115 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Tobias Gerstenberg at 2024-03-31 21:14:50 -0700 
+%% Created for Tobias Gerstenberg at 2024-06-26 12:25:09 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@article{du2024robotic,
+	abstract = {When faced with a novel scenario, it can be hard to succeed on the first attempt. In these challenging situations, it is important to know how to retry quickly and meaningfully. Retrying behavior can emerge naturally in robots trained on diverse data, but such robot policies will typically only exhibit undirected retrying behavior and may not terminate a suboptimal approach before an unrecoverable mistake. We can improve these robot policies by instilling an explicit ability to try, evaluate, and retry a diverse range of strategies. We introduce Bellman-Guided Retrials, an algorithm that works on top of a base robot policy by monitoring the robot's progress, detecting when a change of plan is needed, and adapting the executed strategy until the robot succeeds. We start with a base policy trained on expert demonstrations of a variety of scenarios. Then, using the same expert demonstrations, we train a value function to estimate task completion. During test time, we use the value function to compare our expected rate of progress to our achieved rate of progress. If our current strategy fails to make progress at a reasonable rate, we recover the robot and sample a new strategy from the base policy while skewing it away from behaviors that have recently failed. We evaluate our method on simulated and real-world environments that contain a diverse suite of scenarios. We find that Bellman-Guided Retrials increases the average absolute success rates of base policies by more than 20% in simulation and 50% in real-world experiments, demonstrating a promising framework for instilling existing trained policies with explicit trial and error capabilities. For evaluation videos and other documentation, go to https://sites.google.com/view/to-err-robotic/home},
+	author = {Du, Maximilian and Khazatsky, Alexander and Gerstenberg, Tobias and Finn, Chelsea},
+	date-added = {2024-06-26 12:24:14 -0700},
+	date-modified = {2024-06-26 12:25:06 -0700},
+	journal = {arXiv},
+	title = {{To Err is Robotic: Rapid Value-Based Trial-and-Error during Deployment}},
+	url = {http://arxiv.org/abs/2406.15917},
+	year = {2024},
+	bdsk-url-1 = {http://arxiv.org/abs/2406.15917}}
+
+@inproceedings{wu2024resource,
+	abstract = {There is wide agreement that the mind has different mechanisms it can use to make moral judgments. But how does it decide which one to use when? Recent theoretical work has suggested that people select mechanisms of moral judgment in a way that is resource-rational --- that is, by rationally trading off effort against utility. For instance, people may follow general rules in low-stakes situations, but engage more computationally intensive mechanisms such as consequentialist or contractualist reasoning when the stakes are high. Here, we evaluate whether humans and large language models (LLMs) exhibit resource-rational moral reasoning in two moral dilemmas by manipulating the stakes of each scenario. As predicted, we found that the higher the stakes, the more people employed a more effortful mechanism over following a general rule. However, there was mixed evidence for similar resource-rational moral reasoning in the LLMs. Our results provide evidence that people's moral judgments reflect resource-rational cognitive constraints, and they highlight the opportunities for developing AI systems better aligned with human moral values.},
+	author = {Sarah A. Wu and Xiang Ren and Tobias Gerstenberg and Yejin Choi and Sydney Levine},
+	booktitle = {{Proceedings of the 46th Annual Conference of the Cognitive Science Society}},
+	date-added = {2024-06-07 16:49:16 -0700},
+	date-modified = {2024-06-07 16:50:55 -0700},
+	editor = {Larissa K Samuelson and Stefan Frank and Mariya Toneva and Allyson Mackey and Eliot Hazeltine},
+	title = {Resource-rational moral judgment},
+	year = {2024}}
+
+@inproceedings{wu2024whodunnit,
+	abstract = {Humans are remarkably adept at inferring the causes of events in their environment; doing so often requires incorporating information from multiple sensory modalities. For instance, if a car slows down in front of us, inferences about why they did so are rapidly revised if we also hear sirens in the distance. Here, we investigate the ability to reconstruct others' actions and events from the past by integrating multimodal information. Participants were asked to infer which of two agents performed an action in a household setting given either visual evidence, auditory evidence, or both. We develop a computational model that makes inferences by generating multimodal simulations, and also evaluate our task on a large language model (GPT-4) and a large multimodal model (GPT-4V). We find that humans are relatively accurate overall and perform best when given multimodal evidence. GPT-4 and GPT-4V performance comes close overall, but is very weakly correlated with participants across individual trials. Meanwhile, the simulation model captures the pattern of human responses well. Multimodal event reconstruction represents a challenge for current AI systems, and frameworks that draw on the cognitive processes underlying people's ability to reconstruct events offer a promising avenue forward.},
+	author = {Wu, Sarah A and Brockbank, Erik and Cha, Hannah and Fr{\"a}nken, Jan-Philipp and Jin, Emily and Huang, Zhuoyi and Liu, Weiyu and Zhang, Ruohan and Wu, Jiajun and Gerstenberg, Tobias},
+	booktitle = {{Proceedings of the 46th Annual Conference of the Cognitive Science Society}},
+	date-added = {2024-05-13 09:25:14 +0200},
+	date-modified = {2024-05-13 09:25:14 +0200},
+	editor = {Larissa K Samuelson and Stefan Frank and Mariya Toneva and Allyson Mackey and Eliot Hazeltine},
+	title = {{Whodunnit? Inferring what happened from multimodal evidence}},
+	year = {2024}}
+
+@inproceedings{tsirtsis2024sequential,
+	abstract = {When a human and an AI agent collaborate to complete a task and something goes wrong, who is responsible? Prior work has developed theories to describe how people assign responsibility to individuals in teams. However, there has been little work studying the cognitive processes that underlie responsibility judgments in human-AI collaborations, especially for tasks comprising a sequence of interdependent actions. In this work, we take a step towards filling this gap. Using semiautonomous driving as a paradigm, we develop an environment that simulates stylized cases of human-AI collaboration using a generative model of agent behavior. We propose a model of responsibility that considers how unexpected an agent's action was, and what would have happened had they acted differently. We test the model's predictions empirically and find that in addition to action expectations and counterfactual considerations, participants' responsibility judgments are also affected by how much each agent actually contributed to the outcome.},
+	author = {Tsirtsis, Stratis and Gomez-Rodriguez, Manuel and Gerstenberg, Tobias},
+	booktitle = {{Proceedings of the 46th Annual Conference of the Cognitive Science Society}},
+	date-added = {2024-05-12 17:48:51 +0200},
+	date-modified = {2024-05-12 17:48:51 +0200},
+	editor = {Larissa K Samuelson and Stefan Frank and Mariya Toneva and Allyson Mackey and Eliot Hazeltine},
+	title = {{Towards a computational model of responsibility judgments in sequential human-AI collaboration}},
+	year = {2024}}
+
+@inproceedings{keshmirian2024chain,
+	abstract = {Causal reasoning is important for humans and artificial intelligence (AI). Causal Bayesian Networks (CBNs) model causal relationships using directed links between nodes in a network. Deviations from their edicts result in biased judgments. This study explores one such bias by examining two structures in CBNs: canonical Chain (A→C→B) and Common Cause (A←C→B) networks. In these structures, if C is known, the probability of the outcome (B) is normatively independent of the initial cause (A). But humans often ignore this independence. We tested mutually exclusive predictions of three theories that could account for this bias (N=300). Our results show that humans perceive causes in Chain structures as significantly stronger, supporting only one of the hypotheses. The increased perceived causal power might reflect a view of intermediate causes as more reflective of reliable mechanisms. The bias may stem either from our interventions in the world or how we talk about causality with others. LLMs are primarily trained on language data. Therefore, examining whether they exhibit similar biases can determine the extent to which language is the vehicle of such causal biases, with implications for whether LLMs can abstract causal principles. We therefore, subjected three LLMs, GPT3.5-Turbo, GPT4, and Luminous Supreme Control, to the same queries as our human subjects, adjusting a key `temperature' hyperparameter. We show that at greater randomness levels, LLMs exhibit a similar bias, suggesting it is supported by language use. The absence of item effects suggests a degree of causal principle abstraction in LLMs.},
+	author = {Keshmirian, Anita and Willig, Moritz and Hemmatian, Babak and Hahn, Ulrike and Kersting, Kristian and Gerstenberg, Tobias},
+	booktitle = {{Proceedings of the 46th Annual Conference of the Cognitive Science Society}},
+	date-added = {2024-05-12 17:47:58 +0200},
+	date-modified = {2024-06-07 21:28:31 -0700},
+	editor = {Larissa K Samuelson and Stefan Frank and Mariya Toneva and Allyson Mackey and Eliot Hazeltine},
+	title = {{Chain versus common cause: Biased causal strength judgments in humans and large language models}},
+	year = {2024}}
+
+@inproceedings{brockbank2024monster,
+	abstract = {Everyday reasoning about others involves accounting for why they act the way they do. With many explanations for someone's behavior, how do observers choose the best one? A large body of work in social psychology suggests that people's explanations rely heavily on traits rather than external factors. Recent results have called this into question, arguing that people balance traits, mental states, and situation to make sense of others' actions. How might they achieve this? In the current work, we hypothesize that people rely on counterfactual simulation to weigh different explanations for others' behavior. We propose a computational model of this process that makes concrete predictions about when people will prefer to explain events based on the actor's traits or their situation. We test the predictions of this model in an experimental paradigm in which trait and situation each guide behavior to varying degrees. Our model predicts people's causal judgments well overall but is less accurate for trait explanations than situational explanations. In a comparison with simpler causal heuristics, a majority of participants were better predicted by the counterfactual model. These results point the way toward a more comprehensive understanding of how social reasoning is performed within the context of domain-general causal inference.},
+	author = {Brockbank, Erik and and Yang, Justin and Govil, Mishika and Fan, Judith E and Gerstenberg, Tobias},
+	booktitle = {{Proceedings of the 46th Annual Conference of the Cognitive Science Society}},
+	date-added = {2024-05-12 17:46:35 +0200},
+	date-modified = {2024-05-14 10:59:35 +0200},
+	editor = {Larissa K Samuelson and Stefan Frank and Mariya Toneva and Allyson Mackey and Eliot Hazeltine},
+	title = {{Without his cookies, he's just a monster: A counterfactual simulation model of social explanation}},
+	year = {2024}}
+
+@inproceedings{kirfel2024do,
+	abstract = {People often select only a few events when explaining what happened. What drives people's explanation selection? Prior research argued that people's explanation choices are affected by event normality and causal structure. Here, we propose a new model of these existing findings and test its predictions in a novel experiment. The model predicts that speakers value accuracy and relevance. They choose explanations that are true, and that communicate useful information to the listener. We test the model's predictions empirically by manipulating what goals a listener has and what actions they can take. Across twelve experimental conditions, we find that our model accurately predicts that people like to choose explanations that communicate optimal interventions.},
+	author = {Kirfel, Lara and Harding, Jacqueline and Shin, Jeong and Xin, Cindy and Icard, Thomas and Gerstenberg, Tobias},
+	booktitle = {{Proceedings of the 46th Annual Conference of the Cognitive Science Society}},
+	date-added = {2024-05-09 09:05:13 -0700},
+	date-modified = {2024-05-09 09:10:57 -0700},
+	editor = {Larissa K Samuelson and Stefan Frank and Mariya Toneva and Allyson Mackey and Eliot Hazeltine},
+	title = {{Do as I explain: Explanations communicate optimal interventions}},
+	year = {2024}}
+
+@inproceedings{keshmirian2024biased,
+	abstract = {Causal reasoning is a critical aspect of both human cognition and artificial intelligence (AI), playing a prominent role in understanding the relationships between events. Causal Bayesian Networks (CBNs) have been instrumental in modeling such relationships, using directed, acyclic links between nodes in a network to depict probabilistic associations between variables. Deviations from these graphical models' edicts would result in biased judgments. This study explores one such bias in the causal judgments of humans and Large Language Models (LLMs) by examining two structures in CBNs: Canonical Chain (A→B→C) and Common Cause (A←B→C) networks. In these structures, once the intermediate variable (B) is known, the probability of the outcome (C) is normatively independent of the initial cause (A). However, studies have shown that humans often ignore this independence. We tested the mutually exclusive predictions of three theories that could account for this bias (N=300). Using hierarchical mixed-effect models, we found that humans tend to perceive causes in Chain structures as significantly stronger, providing support for only one of the hypotheses. This increase in perceived causal power might reflect a view of intermediate causes as more reflective of reliable mechanisms, which could, in turn, stem from our interactions with the world or the way we communicate causality to others. LLMs are primarily trained on language data. Therefore, examining whether they exhibit similar biases in causal reasoning can help us understand the origins of canonical Chain structures' perceived causal power while also shedding light on whether LLMs can abstract causal principles. To investigate this, we subjected three LLMs, GPT3.5-Turbo, GPT4, and Luminous Supreme Control, to the same queries as our human subjects, adjusting a key `temperature' hyperparameter. Our findings show that, particularly with higher temperatures (i.e., greater randomness), LLMs exhibit a similar boost in the perceived causal power of Chains, suggesting the bias is at least partly reflected in language use. Similar results across items suggest a degree of causal principle abstraction in the studied models. Implications for causal representation in humans and LLMs are discussed.},
+	author = {Anita Keshmirian and Moritz Willig and Babak Hemmatian and Ulrike Hahn and Kristian Kersting and Tobias Gerstenberg},
+	booktitle = {ICLR 2024 Workshop on Representational Alignment},
+	date-added = {2024-05-03 18:39:05 -0400},
+	date-modified = {2024-05-03 18:39:34 -0400},
+	title = {Biased Causal Strength Judgments in Humans and Large Language Models},
+	url = {https://openreview.net/forum?id=544P6YidFk},
+	year = {2024},
+	bdsk-url-1 = {https://openreview.net/forum?id=544P6YidFk}}
+
+@article{franken2024sami,
+	abstract = {When prompting a language model (LM), users frequently expect the model to adhere to a set of behavioral principles across diverse tasks, such as producing insightful content while avoiding harmful or biased language. Instilling such principles into a model can be resource-intensive and technically challenging, generally requiring human preference labels or examples. We introduce SAMI, a method for teaching a pretrained LM to follow behavioral principles that does not require any preference labels or demonstrations. SAMI is an iterative algorithm that finetunes a pretrained LM to increase the conditional mutual information between constitutions and self-generated responses given queries from a datasest. On single-turn dialogue and summarization, a SAMI-trained mistral-7b outperforms the initial pretrained model, with win rates between 66% and 77%. Strikingly, it also surpasses an instruction-finetuned baseline (mistral-7b-instruct) with win rates between 55% and 57% on single-turn dialogue. SAMI requires a "principle writer" model; to avoid dependence on stronger models, we further evaluate aligning a strong pretrained model (mixtral-8x7b) using constitutions written by a weak instruction-finetuned model (mistral-7b-instruct). The SAMI-trained mixtral-8x7b outperforms both the initial model and the instruction-finetuned model, achieving a 65% win rate on summarization. Our results indicate that a pretrained LM can learn to follow constitutions without using preference labels, demonstrations, or human oversight.},
+	author = {Fr{\"a}nken, Jan-Philipp and Zelikman, Eric and Rafailov, Rafael and Gandhi, Kanishk and Gerstenberg, Tobias and Goodman, Noah D.},
+	date-added = {2024-04-22 21:44:23 -0700},
+	date-modified = {2024-04-22 21:44:23 -0700},
+	journal = {arXiv},
+	title = {{Self-supervised alignment with mutual information: Learning to follow principles without preference labels}},
+	url = {http://arxiv.org/abs/2404.14313},
+	year = {2024},
+	bdsk-url-1 = {http://arxiv.org/abs/2404.14313}}
+
+@inproceedings{franken2024rails,
+	abstract = {As AI systems like language models are increasingly integrated into decision-making processes affecting people's lives, it's critical to ensure that these systems have sound moral reasoning. To test whether they do, we need to develop systematic evaluations. We provide a framework that uses a language model to translate causal graphs that capture key aspects of moral dilemmas into prompt templates. With this framework, we procedurally generated a large and diverse set of moral dilemmas---the OffTheRails benchmark---consisting of 50 scenarios and 400 unique test items. We collected moral permissibility and intention judgments from human participants for a subset of our items and compared these judgments to those from two language models (GPT-4 and Claude-2) across eight conditions. We find that moral dilemmas in which the harm is a necessary means (as compared to a side effect) resulted in lower permissibility and higher intention ratings for both participants and language models. The same pattern was observed for evitable versus inevitable harmful outcomes. However, there was no clear effect of whether the harm resulted from an agent's action versus from having omitted to act. We discuss limitations of our prompt generation pipeline and opportunities for improving scenarios to increase the strength of experimental effects.},
+	author = {Jan-Philipp Fr{\"a}nken and Kanishk Gandhi and Tori Qiu and Ayesha Khawaja and Noah D. Goodman and Tobias Gerstenberg},
+	booktitle = {{Proceedings of the 46th Annual Conference of the Cognitive Science Society}},
+	date-added = {2024-04-17 14:21:36 -0700},
+	date-modified = {2024-05-09 09:13:58 -0700},
+	editor = {Larissa K Samuelson and Stefan Frank and Mariya Toneva and Allyson Mackey and Eliot Hazeltine},
+	title = {Procedural dilemma generation for evaluating moral reasoning in humans and language models},
+	year = {2024}}
 
 @article{andukuri2024stargate,
 	abstract = {When prompting language models to complete a task, users often leave important aspects unsaid. While asking questions could resolve this ambiguity (GATE; Li et al., 2023), models often struggle to ask good questions. We explore a language model's ability to self-improve (STaR; Zelikman et al., 2022) by rewarding the model for generating useful questions---a simple method we dub STaR-GATE. We generate a synthetic dataset of 25,500 unique persona-task prompts to simulate conversations between a pretrained language model---the Questioner---and a Roleplayer whose preferences are unknown to the Questioner. By asking questions, the Questioner elicits preferences from the Roleplayer. The Questioner is iteratively finetuned on questions that increase the probability of high-quality responses to the task, which are generated by an Oracle with access to the Roleplayer's latent preferences. After two iterations of self-improvement, the Questioner asks better questions, allowing it to generate responses that are preferred over responses from the initial model on 72% of tasks. Our results indicate that teaching a language model to ask better questions leads to better personalized responses.},
@@ -51,13 +154,13 @@
 	year = {2024},
 	bdsk-url-1 = {https://osf.io/7enkr}}
 
-@article{gerstenberg2024beyond,
-	abstract = {How do people make causal judgments and assign responsibility? In this paper, I argue that counterfactual simulations are key. To simulate counterfactuals, we need three ingredients: a generative mental model of the world, the ability to perform interventions on that model, and the capacity to simulate the consequences of these interventions. The counterfactual simulation model (CSM) uses these ingredients to capture people's intuitive understanding of the physical and social world. In the physical domain, the CSM predicts people's causal judgments about dynamic collision events, complex situations that involve multiple causes, omissions as causes, and causes that sustain physical stability. In the social domain, the CSM predicts responsibility judgments in helping and hindering scenarios.},
+@article{gerstenberg2024counterfactual,
+	abstract = {How do people make causal judgments and assign responsibility? In this paper, I show that counterfactual simulations are key. To simulate counterfactuals, we need three ingredients: a generative mental model of the world, the ability to perform counterfactual interventions on that model, and the capacity to simulate the consequences of these interventions. The counterfactual simulation model (CSM) uses these ingredients to capture people's intuitive understanding of the physical and social world. In the physical domain, the CSM predicts people's causal judgments about dynamic collision events, complex situations that involve multiple causes, omissions as causes, and causes that sustain physical stability. In the social domain, the CSM predicts responsibility judgments in helping and hindering scenarios.},
 	author = {Tobias Gerstenberg},
 	date-added = {2024-01-21 16:57:04 -0800},
-	date-modified = {2024-01-21 16:57:43 -0800},
-	journal = {PsyArXiv},
-	title = {Beyond the here and now: Counterfactual simulation in causal cognition},
+	date-modified = {2024-05-15 11:10:14 +0200},
+	journal = {Trends in Cognitive Sciences},
+	title = {Counterfactual simulation in causal cognition},
 	url = {https://osf.io/preprints/psyarxiv/72scr},
 	year = {2024},
 	bdsk-url-1 = {https://osf.io/preprints/psyarxiv/72scr}}
@@ -108,15 +211,15 @@
 	title = {Probabilistic programs as a unifying language of thought},
 	year = {2023}}
 
-@article{amemiya2023disagreement,
-	abstract = {A challenge when figuring out what happened based on what others say is that they might disagree. Two preregistered experiments examined how children age 7 to 11 years use disagreement to make inferences about social events. Specifically, when there is no reason to question the reliability of either informant, can children use disagreement to infer that an ambiguous social event occurred? Experiment 1 (N = 52) found that children are indeed more likely to infer that an ambiguous social event occurred after learning that people disagreed (versus agreed) about what happened and that these inferences become stronger with age. Experiment 2 (N = 110) examined children's ability to predict that an ambiguous social event would cause disagreement and applied a computational model to examine the extent to which predictions explained their inferences. Children made the expected predictions and their inferences were consistent with the computational model, indicating that the ability to predict disagreement plays an important role for drawing inferences about what happened.},
+@article{amemiya2024disagreement,
+	abstract = {In a rapidly changing and diverse world, the ability to reason about conflicting perspectives is critical for effective communication, collaboration, and critical thinking. The current pre-registered experiments with children ages 7 to 11 years investigated the developmental foundations of this ability through a novel social reasoning paradigm and a computational approach. In the inference task, children were asked to figure out what happened based on whether two speakers agreed or disagreed in their interpretation. In the prediction task, children were provided information about what happened and asked to predict whether two speakers will agree or disagree. Together, these experiments assessed children's understanding that disagreement often results from ambiguity about what happened, and that ambiguity about what happened is often predictive of disagreement. Experiment 1 (N =52) showed that children are more likely to infer that an ambiguous utterance occurred after learning that people disagreed (versus agreed) about what happened and found that these inferences become stronger with age. Experiment 2 (N =110) similarly found age-related change in children's inferences and also showed that children could reason in the forward direction, predicting that an ambiguous utterance would lead to disagreement. A computational model indicated that although children's ability to predict when disagreements might arise may be critical for making the reverse inferences, it did not fully account for age-related change.},
 	author = {Jamie Amemiya and Gail D. Heyman and Tobias Gerstenberg},
 	date-added = {2023-09-09 11:57:43 -0700},
-	date-modified = {2023-10-10 11:27:30 -0700},
-	journal = {PsyArXiv},
+	date-modified = {2024-06-05 08:13:16 -0700},
+	journal = {Cognition},
 	title = {Children use disagreement to infer what happened},
 	url = {https://psyarxiv.com/y79sd/},
-	year = {2023},
+	year = {2024},
 	bdsk-url-1 = {https://psyarxiv.com/y79sd/}}
 
 @article{beller2023language,

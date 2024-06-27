@@ -6,8 +6,116 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>To Err is Robotic: Rapid Value-Based Trial-and-Error during Deployment</title>
+      <link>https://cicl.stanford.edu/publication/du2024robotic/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/du2024robotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual simulation in causal cognition</title>
+      <link>https://cicl.stanford.edu/publication/gerstenberg2024counterfactual/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/gerstenberg2024counterfactual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children use disagreement to infer what happened</title>
+      <link>https://cicl.stanford.edu/publication/amemiya2024disagreement/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/amemiya2024disagreement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whodunnit? Inferring what happened from multimodal evidence</title>
+      <link>https://cicl.stanford.edu/publication/wu2024whodunnit/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/wu2024whodunnit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a computational model of responsibility judgments in sequential human-AI collaboration</title>
+      <link>https://cicl.stanford.edu/publication/tsirtsis2024sequential/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/tsirtsis2024sequential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Without his cookies, he&#39;s just a monster: A counterfactual simulation model of social explanation</title>
+      <link>https://cicl.stanford.edu/publication/brockbank2024monster/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/brockbank2024monster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chain versus common cause: Biased causal strength judgments in humans and large language models</title>
+      <link>https://cicl.stanford.edu/publication/keshmirian2024chain/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/keshmirian2024chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do as I explain: Explanations communicate optimal interventions</title>
+      <link>https://cicl.stanford.edu/publication/kirfel2024do/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/kirfel2024do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased causal strength judgments in humans and large language models</title>
+      <link>https://cicl.stanford.edu/publication/keshmirian2024biased/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/keshmirian2024biased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource-rational moral judgment</title>
+      <link>https://cicl.stanford.edu/publication/wu2024resource/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/wu2024resource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised alignment with mutual information: Learning to follow principles without preference labels</title>
+      <link>https://cicl.stanford.edu/publication/franken2024sami/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/franken2024sami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procedural dilemma generation for evaluating moral reasoning in humans and language models</title>
+      <link>https://cicl.stanford.edu/publication/franken2024rails/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/franken2024rails/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>STaR-GATE: Teaching Language Models to Ask Clarifying Questions</title>
@@ -15,15 +123,6 @@
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/andukuri2024stargate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beyond the here and now: Counterfactual simulation in causal cognition</title>
-      <link>https://cicl.stanford.edu/publication/gerstenberg2024beyond/</link>
-      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gerstenberg2024beyond/</guid>
       <description></description>
     </item>
     
@@ -42,105 +141,6 @@
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/kirfel2023anticipating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Off The Rails: Procedural Dilemma Generation for Moral Reasoning</title>
-      <link>https://cicl.stanford.edu/publication/franken2023rails/</link>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/franken2023rails/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Contract AI: Aligning AI Assistants with Implicit Group Norms</title>
-      <link>https://cicl.stanford.edu/publication/franken2023social/</link>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/franken2023social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>If not me, then who? Responsibility and replacement</title>
-      <link>https://cicl.stanford.edu/publication/wu2023replacement/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/wu2023replacement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MoCa: Measuring human-language model alignment on causal and moral judgment tasks</title>
-      <link>https://cicl.stanford.edu/publication/nie2023moca/</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/nie2023moca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic programs as a unifying language of thought</title>
-      <link>https://cicl.stanford.edu/publication/goodman2023probabilistic/</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/goodman2023probabilistic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Children use disagreement to infer what happened</title>
-      <link>https://cicl.stanford.edu/publication/amemiya2023disagreement/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/amemiya2023disagreement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A counterfactual simulation model of causal language</title>
-      <link>https://cicl.stanford.edu/publication/beller2023language/</link>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/beller2023language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Realism of Visual, Auditory, and Haptic Cues in Phenomenal Causality</title>
-      <link>https://cicl.stanford.edu/publication/chase2023realism/</link>
-      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/chase2023realism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Understanding Social Reasoning in Language Models with Language Models</title>
-      <link>https://cicl.stanford.edu/publication/gandhi2023understanding/</link>
-      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gandhi2023understanding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Making a positive difference: Criticality in groups</title>
-      <link>https://cicl.stanford.edu/publication/gerstenberg2023criticality/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gerstenberg2023criticality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A computational model of responsibility judgments from counterfactual simulations and intention inferences</title>
-      <link>https://cicl.stanford.edu/publication/wu2023computational/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/wu2023computational/</guid>
       <description></description>
     </item>
     

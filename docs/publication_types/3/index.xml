@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Whodunnit? Inferring what happened from multimodal evidence</title>
+      <link>https://cicl.stanford.edu/publication/wu2024whodunnit/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/wu2024whodunnit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a computational model of responsibility judgments in sequential human-AI collaboration</title>
+      <link>https://cicl.stanford.edu/publication/tsirtsis2024sequential/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/tsirtsis2024sequential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Without his cookies, he&#39;s just a monster: A counterfactual simulation model of social explanation</title>
+      <link>https://cicl.stanford.edu/publication/brockbank2024monster/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/brockbank2024monster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chain versus common cause: Biased causal strength judgments in humans and large language models</title>
+      <link>https://cicl.stanford.edu/publication/keshmirian2024chain/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/keshmirian2024chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do as I explain: Explanations communicate optimal interventions</title>
+      <link>https://cicl.stanford.edu/publication/kirfel2024do/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/kirfel2024do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biased causal strength judgments in humans and large language models</title>
+      <link>https://cicl.stanford.edu/publication/keshmirian2024biased/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/keshmirian2024biased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource-rational moral judgment</title>
+      <link>https://cicl.stanford.edu/publication/wu2024resource/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/wu2024resource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procedural dilemma generation for evaluating moral reasoning in humans and language models</title>
+      <link>https://cicl.stanford.edu/publication/franken2024rails/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/franken2024rails/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anticipating the risks and benefits of counterfactual world simulation models</title>

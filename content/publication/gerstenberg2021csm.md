@@ -26,7 +26,8 @@ url_poster = ""
 url_source = ""
 url_custom = [{name = "Link", url = "https://psycnet.apa.org/record/2021-52648-001"},
 {name = "Github", url = "https://github.com/cicl-stanford/csm"},
-{name = "OSF", url = "https://osf.io/75j8q"}]
+{name = "OSF", url = "https://osf.io/75j8q"},
+{name = "Press: HAI News", url = "https://hai.stanford.edu/news/modeling-how-people-make-causal-judgments"}]
 math = true
 highlight = true
 [header]
