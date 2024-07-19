@@ -83,6 +83,15 @@ weight = 3
 	description = "I am interested in leveraging behavioral experiments and computational modeling to understand how we represent the world around us, how we simulate alternative worlds, and how we use these simulations to make inferences. In my undergraduate, I studied cognitive science and mathematics. I like to drink milk."
 
 [[member]]
+	id = "Yang Xiang"
+	position = "Visiting Student"
+	email = "yyx@g.harvard.edu"
+	github = "yyyxiang"
+    twitter = "yyyxiang"
+    scholar = "citations?user=otxsJugAAAAJ"
+	description = "I'm a PhD student in the Computational Cognitive Neuroscience Lab at Harvard University. My research centers around understanding the cognitive foundations of collaboration. More specifically, I study how we make inferences about ourselves and others, and how we leverage those inferences to improve collaboration, focusing on our intuitive theories of competence and effort. I like (a good) matcha latte."
+
+[[member]]
     id = "Addison Jadwin"
     position = "Research Assistant"
     email = "ajadwin@stanford.edu"
@@ -234,6 +243,12 @@ weight = 3
     email = "kanishk.gandhi@stanford.edu"
     website = "http://kanishkgandhi.com/"
     description = "I am interested in reasoning and social cognition; how we can build machines that interact with, learn from and communicate with others."
+
+[[member]]
+    id = "Chuqi Hu"
+    position = "Lab Affiliate"
+    email = "chuqihu@stanford.edu"
+    description = "I am a Symbolic Systems master’s student. I am interested in social cognition, self/identity, and learning. In my free time, I enjoy singing, playing tennis, and spending time in nature!"
 
 # [[member]]
 #     id = "Cindy Xin"
