@@ -22,7 +22,7 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = "posters/keshmirian2024biased.pdf"
+url_poster = "posters/keshmirian2024biased-poster.pdf"
 url_source = ""
 #url_custom = [{name = "Github", url = ""}]
 math = true

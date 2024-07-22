@@ -22,7 +22,7 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "posters/franken2024rails-poster.pdf"
 url_source = ""
 url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/moral-evals/tree/main"}]
 math = true
