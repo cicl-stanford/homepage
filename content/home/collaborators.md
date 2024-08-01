@@ -92,7 +92,14 @@ weight = 5
 	image = "michael_bernstein.jpeg"
 	position = "Stanford"
 	link = "https://hci.stanford.edu/msb/"
-	show = true	
+	show = true
+
+[[collaborator]]
+	id = "Judy Fan"
+	image = "judy_fan.jpg"
+	position = "Stanford"
+	link = "https://cogtoolslab.github.io/"
+	show = true
 
 [[collaborator]]
 	id = "Ro'i Zultan"
@@ -134,7 +141,7 @@ weight = 5
 	image = "joseph_halpern.jpg"
 	position = "Cornell"
 	link = "https://www.cs.cornell.edu/home/halpern/"
-	show = false
+	show = true
 
 [[collaborator]]
 	id = "Ilker Yildirim"
@@ -148,7 +155,7 @@ weight = 5
 	image = "jonathan_kominsky.jpg"
 	position = "Central European University"
 	link = "http://www.jfkominsky.com/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Jonathan Phillips"
@@ -190,7 +197,7 @@ weight = 5
 	image = "ralf_mayrhofer.jpeg"
 	position = "Göttingen"
 	link = "https://www.psych.uni-goettingen.de/mayrhofer"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Sam Gershman"

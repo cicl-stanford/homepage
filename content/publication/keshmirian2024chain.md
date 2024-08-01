@@ -22,7 +22,7 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "posters/keshmirian2024chain-poster.pdf"
 url_source = ""
 url_custom = [{name = "OSF", url = "https://osf.io/qaydt/?view_only=c9695fd480874ba9bf15cc6199dc4338"}]
 math = true

@@ -120,18 +120,6 @@ weight = 3
     description = "I’m a dutiful questioner and an adroit researcher. I have a background in education and second language acquisition. I’m interested in how language affects social category development as well as perceived characteristics of individual social group members. I am also interested in the psychological and sociological disciplines that interact with each other and how the information I’ve learned from both perspectives are related together. So far at Stanford, I’m working on a couple of projects on causal judgements and shape bias. Ultimately, I’m planning to become a human factors researcher or UX research scientist. I love to do high intensity workouts followed by vanilla sweet cream cold brew coffee, or maybe coffee first!"
 
 [[member]]
-    id = "Sam Kwok"
-    position = "Research Assistant"
-    email = "samkwok@stanford.edu"
-    description = "I am an undergraduate sophomore currently studying Symbolic Systems. I'm interested in making AI more ethical and learning about different computational models that people use to solve real-world problems. Outside of that, I enjoy playing trombone and piano, and like playing basketball and frisbee with my friends."
-
-[[member]]
-    id = "Patrick Ye"
-    position = "Research Assistant"
-    email = "pxye@stanford.edu"
-    description = "I'm passionate with complex systems, human intellectuality, and world-building prospects. Majoring in computer science, I’m excited about AI and interdisciplinary research. Things I enjoy: poetry and guitar, hiking and dancing, and a sip of Earl Grey Tea."
-
-[[member]]
     id = "Sunny Yu"
     position = "Research Assistant"
     email = "syu03@stanford.edu"
@@ -249,6 +237,19 @@ weight = 3
     position = "Lab Affiliate"
     email = "chuqihu@stanford.edu"
     description = "I am a Symbolic Systems master’s student. I am interested in social cognition, self/identity, and learning. In my free time, I enjoy singing, playing tennis, and spending time in nature!"
+
+
+# [[member]]
+#     id = "Patrick Ye"
+#     position = "Research Assistant"
+#     email = "pxye@stanford.edu"
+#     description = "I'm passionate with complex systems, human intellectuality, and world-building prospects. Majoring in computer science, I’m excited about AI and interdisciplinary research. Things I enjoy: poetry and guitar, hiking and dancing, and a sip of Earl Grey Tea."
+
+# [[member]]
+# id = "Sam Kwok"
+# position = "Research Assistant"
+# email = "samkwok@stanford.edu"
+# description = "I am an undergraduate sophomore currently studying Symbolic Systems. I'm interested in making AI more ethical and learning about different computational models that people use to solve real-world problems. Outside of that, I enjoy playing trombone and piano, and like playing basketball and frisbee with my friends."
 
 # [[member]]
 #     id = "Cindy Xin"
