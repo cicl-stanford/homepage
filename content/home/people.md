@@ -61,7 +61,7 @@ weight = 3
 	position = "Graduate Student"
 	email = "davdrose@stanford.edu"
 	scholar = "citations?user=-hAqrvwAAAAJ&hl=en"
-	website = "https://philpeople.org/profiles/david-rose"
+	website = "https://davdrose.github.io/"
 	description = "My research is mainly focused on how a teleological view of causation features in our view of composition, persistence and essence.  Here is a picture of me thinking about the essence of pizza and wondering whether nacho pizza is a kind of pizza."
 
 [[member]]
