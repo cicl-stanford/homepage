@@ -83,6 +83,13 @@ weight = 3
 	description = "I am interested in leveraging behavioral experiments and computational modeling to understand how we represent the world around us, how we simulate alternative worlds, and how we use these simulations to make inferences. In my undergraduate, I studied cognitive science and mathematics. I like to drink milk."
 
 [[member]]
+    id = "Verona Teo"
+    position = "Predoctoral Researcher"
+    email = "veronateo@stanford.edu"
+    twitter = "verona_teo"
+    description = "I’m interested in computational and behavioral models of cognition, including social, moral, and causal reasoning. I did my undergraduate studies in data science and philosophy. I like coffee."
+
+[[member]]
 	id = "Yang Xiang"
 	position = "Visiting Student"
 	email = "yyx@g.harvard.edu"
