@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>To Err is Robotic: Rapid Value-Based Trial-and-Error during Deployment</title>
-      <link>https://cicl.stanford.edu/publication/du2024robotic/</link>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/du2024robotic/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Counterfactual simulation in causal cognition</title>
@@ -36,15 +27,6 @@
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/amemiya2024disagreement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-supervised alignment with mutual information: Learning to follow principles without preference labels</title>
-      <link>https://cicl.stanford.edu/publication/franken2024sami/</link>
-      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/franken2024sami/</guid>
       <description></description>
     </item>
     

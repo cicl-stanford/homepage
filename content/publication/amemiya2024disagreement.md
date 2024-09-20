@@ -24,7 +24,10 @@ url_slides = ""
 url_video = ""
 url_poster = "posters/amemiya2023disagreement-poster.pdf"
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/children_disagree"}]
+url_custom = [{name = "Link", url = "https://www.sciencedirect.com/science/article/pii/S0010027724001227"},
+{name = "Github", url = "https://github.com/cicl-stanford/children_disagree"},
+{name = "Press: Psypost", url = "https://www.psypost.org/childrens-ability-to-detect-ambiguity-in-disagreements-sharpens-between-ages-7-and-11/"}
+]
 math = true
 highlight = true
 [header]
