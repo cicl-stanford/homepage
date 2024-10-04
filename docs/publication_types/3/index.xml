@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MARPLE: A Benchmark for Long-Horizon Inference</title>
+      <link>https://cicl.stanford.edu/publication/jin2024marple/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/jin2024marple/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Whodunnit? Inferring what happened from multimodal evidence</title>
@@ -72,6 +81,15 @@
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/wu2024resource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised alignment with mutual information: Learning to follow principles without preference labels</title>
+      <link>https://cicl.stanford.edu/publication/franken2024sami/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/franken2024sami/</guid>
       <description></description>
     </item>
     

@@ -1,12 +1,23 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Tobias Gerstenberg at 2024-09-20 15:09:53 -0700 
+%% Created for Tobias Gerstenberg at 2024-10-04 08:51:52 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@article{jin2024marple,
+	abstract = {Reconstructing past events requires reasoning across long time horizons. To figure out what happened, we need to use our prior knowledge about the world and human behavior and draw inferences from various sources of evidence including visual, language, and auditory cues. We introduce MARPLE, a benchmark for evaluating long-horizon inference capabilities using multi-modal evidence. Our benchmark features agents interacting with simulated households, supporting vision, language, and auditory stimuli, as well as procedurally generated environments and agent behaviors. Inspired by classic ``whodunit'' stories, we ask AI models and human participants to infer which agent caused a change in the environment based on a step-by-step replay of what actually happened. The goal is to correctly identify the culprit as early as possible. Our findings show that human participants outperform both traditional Monte Carlo simulation methods and an LLM baseline (GPT-4) on this task. Compared to humans, traditional inference models are less robust and performant, while GPT-4 has difficulty comprehending environmental changes. We analyze what factors influence inference performance and ablate different modes of evidence, finding that all modes are valuable for performance. Overall, our experiments demonstrate that the long-horizon, multimodal inference tasks in our benchmark present a challenge to current models. Project website: https: //marple-benchmark.github.io/.},
+	annote = {Comment: NeurIPS 2024. First two authors contributed equally. Project page: https://marple-benchmark.github.io/},
+	author = {Jin, Emily and Huang, Zhuoyi and Fr{\"a}nken, Jan-Philipp and Liu, Weiyu and Cha, Hannah and Brockbank, Erik and Wu, Sarah and Zhang, Ruohan and Wu, Jiajun and Gerstenberg, Tobias},
+	date-added = {2024-10-04 08:51:51 -0700},
+	date-modified = {2024-10-04 08:51:51 -0700},
+	journal = {arXiv},
+	note = {http://arxiv.org/abs/2410.01926},
+	title = {{MARPLE: A Benchmark for Long-Horizon Inference}},
+	year = {2024}}
 
 @article{gandhi2024affective,
 	abstract = {Understanding emotions is fundamental to human interaction and experience. Humans easily infer emotions from situations or facial expressions, situations from emotions, and do a variety of other affective cognition. How adept is modern AI at these inferences? We introduce an evaluation framework for testing affective cognition in foundation models. Starting from psychological theory, we generate 1,280 diverse scenarios exploring relationships between appraisals, emotions, expressions, and outcomes. We evaluate the abilities of foundation models (GPT-4, Claude-3, Gemini-1.5-Pro) and humans (N = 567) across carefully selected conditions. Our results show foundation models tend to agree with human intuitions, matching or exceeding interparticipant agreement. In some conditions, models are ``superhuman'' -- they better predict modal human judgements than the average human. All models benefit from chain-of-thought reasoning. This suggests foundation models have acquired a human-like understanding of emotions and their influence on beliefs and behavior.},

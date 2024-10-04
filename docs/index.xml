@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MARPLE: A Benchmark for Long-Horizon Inference</title>
+      <link>https://cicl.stanford.edu/publication/jin2024marple/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/jin2024marple/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Causation, Meaning, and Communication</title>
@@ -132,15 +141,6 @@
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/franken2024rails/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STaR-GATE: Teaching Language Models to Ask Clarifying Questions</title>
-      <link>https://cicl.stanford.edu/publication/andukuri2024stargate/</link>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/andukuri2024stargate/</guid>
       <description></description>
     </item>
     
