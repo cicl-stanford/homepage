@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "Self-supervised alignment with mutual information: Learning to follow principles without preference labels"
-date = "2024-04-22"
+date = "2024-10-08"
 authors = ["J. Fränken","E. Zelikman","R. Rafailov","K. Gandhi","T. Gerstenberg","N. D. Goodman"]
 publication_types = ["3"]
 publication_short = "_Advances in Neural Information Processing Systems_"
