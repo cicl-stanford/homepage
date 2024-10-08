@@ -70,7 +70,7 @@ weight = 3
 	email = "sarahawu@stanford.edu"
 	github = "sarahawu"
     website = "https://sarahawu.github.io/"
-	description = "I’m interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
+	description = "I'm interested in computational models of social cognition, including aspects of social learning, inference, and judgment. I received undergraduate degrees in brain/cognitive sciences and applied math. I like to drink boba."
 
 [[member]]
 	id = "Justin Yang"
@@ -87,16 +87,7 @@ weight = 3
     position = "Predoctoral Researcher"
     email = "veronateo@stanford.edu"
     twitter = "verona_teo"
-    description = "I’m interested in computational and behavioral models of cognition, including social, moral, and causal reasoning. I did my undergraduate studies in data science and philosophy. I like coffee."
-
-[[member]]
-	id = "Yang Xiang"
-	position = "Visiting Student"
-	email = "yyx@g.harvard.edu"
-	github = "yyyxiang"
-    twitter = "yyyxiang"
-    scholar = "citations?user=otxsJugAAAAJ"
-	description = "I'm a PhD student in the Computational Cognitive Neuroscience Lab at Harvard University. My research centers around understanding the cognitive foundations of collaboration. More specifically, I study how we make inferences about ourselves and others, and how we leverage those inferences to improve collaboration, focusing on our intuitive theories of competence and effort. I like (a good) matcha latte."
+    description = "I'm interested in computational and behavioral models of cognition, including social, moral, and causal reasoning. I did my undergraduate studies in data science and philosophy. I like coffee."
 
 [[member]]
     id = "Addison Jadwin"
@@ -124,7 +115,7 @@ weight = 3
     id = "Siying Zhang"
     position = "Research Assistant"
     email = "syzhang6@stanford.edu"
-    description = "I’m a dutiful questioner and an adroit researcher. I have a background in education and second language acquisition. I’m interested in how language affects social category development as well as perceived characteristics of individual social group members. I am also interested in the psychological and sociological disciplines that interact with each other and how the information I’ve learned from both perspectives are related together. So far at Stanford, I’m working on a couple of projects on causal judgements and shape bias. Ultimately, I’m planning to become a human factors researcher or UX research scientist. I love to do high intensity workouts followed by vanilla sweet cream cold brew coffee, or maybe coffee first!"
+    description = "I'm a dutiful questioner and an adroit researcher. I have a background in education and second language acquisition. I'm interested in how language affects social category development as well as perceived characteristics of individual social group members. I am also interested in the psychological and sociological disciplines that interact with each other and how the information I've learned from both perspectives are related together. So far at Stanford, I'm working on a couple of projects on causal judgements and shape bias. Ultimately, I'm planning to become a human factors researcher or UX research scientist. I love to do high intensity workouts followed by vanilla sweet cream cold brew coffee, or maybe coffee first!"
 
 [[member]]
     id = "Sunny Yu"
@@ -144,13 +135,13 @@ weight = 3
     id = "Mishika Govil"
     position = "Research Assistant"
     email = "mishgov@stanford.edu"
-    description = "I’m an undergrad junior majoring in MS&E and Philosophy and minoring in CS. I’m interested in exploring how computational technologies differ from and relate to human decision-making processes. What drives me is learning how things work - whether it be in the context of pure math, computing, the physical universe, the human mind, economic structures, or anything else. Outside of work, I love reading, watching sitcoms, and playing ping pong, pickleball, badminton, and basketball! My favorite drink is a vanilla milkshake!"
+    description = "I'm an undergrad junior majoring in MS&E and Philosophy and minoring in CS. I'm interested in exploring how computational technologies differ from and relate to human decision-making processes. What drives me is learning how things work - whether it be in the context of pure math, computing, the physical universe, the human mind, economic structures, or anything else. Outside of work, I love reading, watching sitcoms, and playing ping pong, pickleball, badminton, and basketball! My favorite drink is a vanilla milkshake!"
 
 [[member]]
     id = "Alexa Tran"
     position = "Research Assistant"
     email = "alexatran@stanford.edu"
-    description = "I’m an undergraduate majoring in computer science, either on the AI or HCI track. I’m interested in using computational models to understand how people think about the world, and in my free time, I love going on long walks, playing golf, and trying new foods!"
+    description = "I'm an undergraduate majoring in computer science, either on the AI or HCI track. I'm interested in using computational models to understand how people think about the world, and in my free time, I love going on long walks, playing golf, and trying new foods!"
 
 [[member]]
     id = "Phillip Miao"
@@ -175,23 +166,6 @@ weight = 3
     github = "adamhuang11111"
     website = "https://sites.google.com/view/jiaqihuang"
     description = "I did my undergraduate in physics and mathematics. I am interested in computational models of causal reasoning, and how they support intuitive physical predictions. I am also interested in cognitive biases that shape how we perceive real physical world. I like to play and watch soccer."
-
-[[member]]
-	id = "Andrew Nam"
-	position = "Lab Affiliate"
-	email = "ajhnam@stanford.edu"
-	github = "andrewnam"
-	cv = "andrew_nam.pdf"
-	description = "I'm a PhD student in the [PDP lab](https://web.stanford.edu/group/pdplab/index.html). My research is on computational cognitive modeling, that is, identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
-
-[[member]]
-    id = "Allen Nie"
-    position = "Lab Affiliate"
-    email = "anie@stanford.edu"
-    twitter = "Allen_A_N"
-    scholar = "citations?hl=en&user=r90OelAAAAAJ"
-    website = "http://anie.me/"
-    description = "I’m a Computer Science PhD student focusing on Artificial Intelligence. I’m interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
 
 [[member]]
     id = "Helena Vasconcelos"
@@ -243,14 +217,41 @@ weight = 3
     id = "Chuqi Hu"
     position = "Lab Affiliate"
     email = "chuqihu@stanford.edu"
-    description = "I am a Symbolic Systems master’s student. I am interested in social cognition, self/identity, and learning. In my free time, I enjoy singing, playing tennis, and spending time in nature!"
+    description = "I am a Symbolic Systems master's student. I am interested in social cognition, self/identity, and learning. In my free time, I enjoy singing, playing tennis, and spending time in nature!"
+
+# [[member]]
+# id = "Andrew Nam"
+# position = "Lab Affiliate"
+# email = "ajhnam@stanford.edu"
+# github = "andrewnam"
+# cv = "andrew_nam.pdf"
+# description = "I'm a PhD student in the [PDP lab](https://web.stanford.edu/group/pdplab/index.html). My research is on computational cognitive modeling, that is, identifying psychological constructs and understanding their mechanisms through computer models such as neural networks. In particular, I am interested in logical and mathematical reasoning which are essential cognitive faculties for inference, problem solving, and decision making."
+
+# [[member]]
+# id = "Allen Nie"
+# position = "Lab Affiliate"
+# email = "anie@stanford.edu"
+# twitter = "Allen_A_N"
+# scholar = "citations?hl=en&user=r90OelAAAAAJ"
+# website = "http://anie.me/"
+# description = "I'm a Computer Science PhD student focusing on Artificial Intelligence. I'm interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
+
+
+# [[member]]
+# id = "Yang Xiang"
+# position = "Visiting Student"
+# email = "yyx@g.harvard.edu"
+# github = "yyyxiang"
+# twitter = "yyyxiang"
+# scholar = "citations?user=otxsJugAAAAJ"
+# description = "I'm a PhD student in the Computational Cognitive Neuroscience Lab at Harvard University. My research centers around understanding the cognitive foundations of collaboration. More specifically, I study how we make inferences about ourselves and others, and how we leverage those inferences to improve collaboration, focusing on our intuitive theories of competence and effort. I like (a good) matcha latte."
 
 
 # [[member]]
 #     id = "Patrick Ye"
 #     position = "Research Assistant"
 #     email = "pxye@stanford.edu"
-#     description = "I'm passionate with complex systems, human intellectuality, and world-building prospects. Majoring in computer science, I’m excited about AI and interdisciplinary research. Things I enjoy: poetry and guitar, hiking and dancing, and a sip of Earl Grey Tea."
+#     description = "I'm passionate with complex systems, human intellectuality, and world-building prospects. Majoring in computer science, I'm excited about AI and interdisciplinary research. Things I enjoy: poetry and guitar, hiking and dancing, and a sip of Earl Grey Tea."
 
 # [[member]]
 # id = "Sam Kwok"
@@ -269,7 +270,7 @@ weight = 3
 #     position = "Research Assistant"
 #     email = "akhawaja@stanford.edu"
 #     github = "ayeshakhawaja"
-#     description = "I’m a senior at Stanford studying Symbolic Systems with a concentration in Artificial Intelligence. I’m interested in using computational methods to understand human and artificial cognition, with a focus on moral judgment and reasoning. Outside of school, I enjoy reading and watching soccer."
+#     description = "I'm a senior at Stanford studying Symbolic Systems with a concentration in Artificial Intelligence. I'm interested in using computational methods to understand human and artificial cognition, with a focus on moral judgment and reasoning. Outside of school, I enjoy reading and watching soccer."
 
 # [[member]]
 #     id = "Elyse Chase"
@@ -323,7 +324,7 @@ weight = 3
 #    position = "Research Assistant"
 #    email = "jyshin@stanford.edu"
 #    github = "jshinnn"
-#    description = "I’m an undergraduate studying Symbolic Systems & Asian American Studies. I’m interested in how people interact and communicate with each other, and how we use the power of computational models and technology to help us answer questions in these fields. Exploring how our identities (race, gender, culture, etc) may impact such interactions is something that deeply interests me, as well. I love hiking, shopping for earrings, and stress-baking, and my top three drinks would have to be matcha, black coffee, and kombucha."
+#    description = "I'm an undergraduate studying Symbolic Systems & Asian American Studies. I'm interested in how people interact and communicate with each other, and how we use the power of computational models and technology to help us answer questions in these fields. Exploring how our identities (race, gender, culture, etc) may impact such interactions is something that deeply interests me, as well. I love hiking, shopping for earrings, and stress-baking, and my top three drinks would have to be matcha, black coffee, and kombucha."
 
 
 # [[member]]
@@ -412,7 +413,7 @@ weight = 3
 # id = "Sloan Charles"
 # position = "Research Assistant"
 # email = "sloanc24@stanford.edu"
-# description = "I am a sophomore at Stanford planning to major in Psychology and minor in Creative Writing and/or African and African American Studies. I am working on a developmental project focused on children’s cognition, and I hope to work more with children in the future. I love eating soup dumplings and crispy tofu!"
+# description = "I am a sophomore at Stanford planning to major in Psychology and minor in Creative Writing and/or African and African American Studies. I am working on a developmental project focused on children's cognition, and I hope to work more with children in the future. I love eating soup dumplings and crispy tofu!"
 
 # [[member]]
 # id = "Ross Kempner"
@@ -455,7 +456,7 @@ weight = 3
 #     github = "elisakreiss"
 #     #scholar = ""
 #     #website = "http://elisakreiss.com/"
-#     description = "I’m a Linguistics PhD student and member of the [ALPS lab](http://alpslab.stanford.edu/). I'm interested in cognitive and computational approaches towards understanding language production and comprehension. I received my undergraduate degree in Cognitive Science. I also like to eat cake."
+#     description = "I'm a Linguistics PhD student and member of the [ALPS lab](http://alpslab.stanford.edu/). I'm interested in cognitive and computational approaches towards understanding language production and comprehension. I received my undergraduate degree in Cognitive Science. I also like to eat cake."
 
 # [[member]]
 #     id = "Yingchen Xu"
@@ -482,7 +483,7 @@ weight = 3
 #    position = "Research Assistant"
 #    email = "jshe@haverford.edu"
 #    github = "selena-she"
-#    description = "I’m a rising senior and a Stanford CSLI summer intern! I’m interested in how humans rapidly and cooperatively extract information in the form of language. What are the cognitive and neural basis of these abilities? Can we try to represent/simulate them with computational models? Currently, I use a combination of NLP techniques and behavioral experiments to see how humans and machines deal with concepts, categorization, and lexical/event semantics. In the long term, I want to learn to use text data and neuroimaging to answer these cognitive questions in a meaningful way."
+#    description = "I'm a rising senior and a Stanford CSLI summer intern! I'm interested in how humans rapidly and cooperatively extract information in the form of language. What are the cognitive and neural basis of these abilities? Can we try to represent/simulate them with computational models? Currently, I use a combination of NLP techniques and behavioral experiments to see how humans and machines deal with concepts, categorization, and lexical/event semantics. In the long term, I want to learn to use text data and neuroimaging to answer these cognitive questions in a meaningful way."
 
 # [[member]]
 # id = "Damini Kusum"
@@ -496,7 +497,7 @@ weight = 3
 #     position = "Research Assistant"
 #     email = "ggaw25@stanford.edu"
 #     github = "ggaw25"
-#     description = "I’m interested in understanding how people make complex decisions through computational models. I am currently a sophomore studying Computer Science and Economics. I love all things sports and outdoors, and light-roasted black coffee."
+#     description = "I'm interested in understanding how people make complex decisions through computational models. I am currently a sophomore studying Computer Science and Economics. I love all things sports and outdoors, and light-roasted black coffee."
 
 # [[member]]
 # id = "Lara Kirfel"
@@ -514,7 +515,7 @@ weight = 3
 # github = "haoranzhao419"
 # twitter = "HaoranZhaoHRZ"
 # website = "https://haoranzhao419.github.io/"
-# description = "I am interested in understanding how effectively language models can perform reasoning and comprehend commonsense and factual knowledge. Subsequently, with a better understanding of LLM’s cognitive abilities, I hope to build more cognitive-feasible and efficient language models at small scales. In my free time, I like running and sailing. I like lemonade."
+# description = "I am interested in understanding how effectively language models can perform reasoning and comprehend commonsense and factual knowledge. Subsequently, with a better understanding of LLM's cognitive abilities, I hope to build more cognitive-feasible and efficient language models at small scales. In my free time, I like running and sailing. I like lemonade."
 
 [[member]]
 id = "Alumni"
