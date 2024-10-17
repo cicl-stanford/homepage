@@ -48,6 +48,13 @@ weight = 3
     description = "My research focuses on how people construct predictive internal models of those around them. I say yes to coffee unequivocally."
 
 [[member]]
+    id = "Xinyi Lu"
+    position = "Postdoctoral Researcher"
+    email = "xinyilu@stanford.edu"
+    website = "https://xinyilu.net/"
+    description = "I'm broadly interested in memory and metacognition — how we remember things, how we think we remember things, and how we form beliefs and make judgments. I like bubble tea."
+
+[[member]]
 	id = "Ari Beller"
 	position = "Graduate Student"
 	email = "aribeller@gmail.com"
