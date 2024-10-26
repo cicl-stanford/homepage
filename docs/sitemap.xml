@@ -3,8 +3,8 @@
     
     <url>
     
-      <loc>https://cicl.stanford.edu/publication_types/3/</loc>
-      <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+      <loc>https://cicl.stanford.edu/publication_types/2/</loc>
+      <lastmod>2024-10-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -13,7 +13,7 @@
     <url>
     
       <loc>https://cicl.stanford.edu/</loc>
-      <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+      <lastmod>2024-10-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -21,7 +21,24 @@
     
     <url>
     
+      <loc>https://cicl.stanford.edu/publication/prinzing2024purpose/</loc>
+      <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://cicl.stanford.edu/publication_types/</loc>
+      <lastmod>2024-10-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://cicl.stanford.edu/publication_types/3/</loc>
       <lastmod>2024-10-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -73,15 +90,6 @@
     
       <loc>https://cicl.stanford.edu/publication/du2024robotic/</loc>
       <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication_types/2/</loc>
-      <lastmod>2024-05-15T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -170,14 +178,6 @@
     
       <loc>https://cicl.stanford.edu/publication/andukuri2024stargate/</loc>
       <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://cicl.stanford.edu/publication/prinzing2024purpose/</loc>
-      <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
