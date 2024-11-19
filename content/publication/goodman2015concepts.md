@@ -22,7 +22,7 @@ abstract= "Knowledge organizes our understanding of the world, determining what 
 
 # Links (optional).
 url_pdf = "papers/goodman2015concepts.pdf"
-url_preprint = ""
+url_preprint = "https://osf.io/preprints/psyarxiv/t2dy4"
 url_code = ""
 url_dataset = ""
 url_project = ""
