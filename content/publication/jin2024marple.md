@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Project website", url = "https://marple-benchmark.github.io/"}]
+url_custom = [{name = "Github", url = "https://github.com/marple-benchmark/marple"}, {name = "Project website", url = "https://marple-benchmark.github.io/"}]
 math = true
 highlight = true
 [header]
