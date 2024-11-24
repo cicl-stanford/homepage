@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A signaling theory of self-handicapping</title>
+      <link>https://cicl.stanford.edu/publication/xiang2024handicapping/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/xiang2024handicapping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Imagining and building wise machines: The centrality of AI metacognition</title>
@@ -132,15 +141,6 @@
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/kirfel2024do/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biased causal strength judgments in humans and large language models</title>
-      <link>https://cicl.stanford.edu/publication/keshmirian2024biased/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/keshmirian2024biased/</guid>
       <description></description>
     </item>
     

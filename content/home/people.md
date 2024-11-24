@@ -19,23 +19,13 @@ weight = 3
 	id = "Tobias Gerstenberg"
 	position = "Principal Investigator"
 	email = "gerstenberg@stanford.edu"
-	twitter = "tobigerstenberg"
+    twitter = "tobigerstenberg"
+# bluesky = "tobigerstenberg.bsky.social"
 	github = "tobiasgerstenberg"
 	scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
 	cv = "tobias_gerstenberg.pdf"
 	website = "tobias_gerstenberg"
 	description = "I am interested in how people hold others responsible, how these judgments are grounded in causal representations of the world, and supported by counterfactual simulations. I also like to drink tea."
-
-[[member]]
-	id = "Jan-Philipp Fränken"
-	position = "Postdoctoral Researcher"
-    image = "jan-philipp_franken.jpg"
-# because special characters have trouble rendering on OS X
-	email = "janphilipp.franken@gmail.com"
-	github = "janphilippfranken"
-    scholar = "citations?user=s2omqQcAAAAJ&hl=en"
-    website = "https://janphilippfranken.github.io/"
-    description = "I'm interested in representation learning, causal inference, and theory of mind reasoning. I currently work on [MARPLE](https://hai.stanford.edu/2022-hoffman-yee-grant-recipients): Explaining what happened through multimodal simulation. I like to drink hot chocolate."
 
 [[member]]
 	id = "Erik Brockbank"
@@ -97,12 +87,6 @@ weight = 3
     description = "I'm interested in computational and behavioral models of cognition, including social, moral, and causal reasoning. I did my undergraduate studies in data science and philosophy. I like coffee."
 
 [[member]]
-    id = "Addison Jadwin"
-    position = "Research Assistant"
-    email = "ajadwin@stanford.edu"
-    description = "I'm a junior at Stanford majoring in symbolic systems. I'm interested in understanding cognition through computational models. Outside of this I enjoy playing viola and taking care of my fish and corals!"
-
-[[member]]
     id = "Ricky Ma"
     position = "Research Assistant"
     email = "ricky.ma@alumni.ubc.ca"
@@ -117,12 +101,6 @@ weight = 3
     email = "shrutisr@stanford.edu"
     github = "shruti-sridhar"
     description = "I am a sophomore at Stanford looking to major in Computer Science on the AI track. I am interested in using computational models to explore causality in social settings. Outside of that, I enjoy dancing and amateur vegan baking."
-
-[[member]]
-    id = "Siying Zhang"
-    position = "Research Assistant"
-    email = "syzhang6@stanford.edu"
-    description = "I'm a dutiful questioner and an adroit researcher. I have a background in education and second language acquisition. I'm interested in how language affects social category development as well as perceived characteristics of individual social group members. I am also interested in the psychological and sociological disciplines that interact with each other and how the information I've learned from both perspectives are related together. So far at Stanford, I'm working on a couple of projects on causal judgements and shape bias. Ultimately, I'm planning to become a human factors researcher or UX research scientist. I love to do high intensity workouts followed by vanilla sweet cream cold brew coffee, or maybe coffee first!"
 
 [[member]]
     id = "Sunny Yu"
@@ -524,8 +502,31 @@ weight = 3
 # website = "https://haoranzhao419.github.io/"
 # description = "I am interested in understanding how effectively language models can perform reasoning and comprehend commonsense and factual knowledge. Subsequently, with a better understanding of LLM's cognitive abilities, I hope to build more cognitive-feasible and efficient language models at small scales. In my free time, I like running and sailing. I like lemonade."
 
+# [[member]]
+# id = "Jan-Philipp Fränken"
+# position = "Postdoctoral Researcher"
+# image = "jan-philipp_franken.jpg"
+# # because special characters have trouble rendering on OS X
+# email = "janphilipp.franken@gmail.com"
+# github = "janphilippfranken"
+# scholar = "citations?user=s2omqQcAAAAJ&hl=en"
+# website = "https://janphilippfranken.github.io/"
+# description = "I'm interested in representation learning, causal inference, and theory of mind reasoning. I currently work on [MARPLE](https://hai.stanford.edu/2022-hoffman-yee-grant-recipients): Explaining what happened through multimodal simulation. I like to drink hot chocolate."
+
+# [[member]]
+# id = "Siying Zhang"
+# position = "Research Assistant"
+# email = "syzhang6@stanford.edu"
+# description = "I'm a dutiful questioner and an adroit researcher. I have a background in education and second language acquisition. I'm interested in how language affects social category development as well as perceived characteristics of individual social group members. I am also interested in the psychological and sociological disciplines that interact with each other and how the information I've learned from both perspectives are related together. So far at Stanford, I'm working on a couple of projects on causal judgements and shape bias. Ultimately, I'm planning to become a human factors researcher or UX research scientist. I love to do high intensity workouts followed by vanilla sweet cream cold brew coffee, or maybe coffee first!"
+
+# [[member]]
+# id = "Addison Jadwin"
+# position = "Research Assistant"
+# email = "ajadwin@stanford.edu"
+# description = "I'm a junior at Stanford majoring in symbolic systems. I'm interested in understanding cognition through computational models. Outside of this I enjoy playing viola and taking care of my fish and corals!"
+
 [[member]]
 id = "Alumni"
-description = "<ul><li> <a href='https://www.mpib-berlin.mpg.de/person/lara-kirfel/367762'>Lara Kirfel</a> (postdoc): Now Postdoctoral Fellow at the Center for Humans and Machines, MPI Berlin.<li> <a href='https://www.cmu.edu/dietrich/philosophy/people/masters/damini-kusum.html'>Damini Kusum</a> (research assistant): Now MSc student at Carnegie Mellon University. <li> <a href='https://josephouta.com/'>Joseph Outa</a> (research assistant): Now PhD student at Johns Hopkins University. </li><li> <a href='https://zach-davis.github.io/'>Zach Davis</a> (postdoc): Now research scientist at Facebook Reality Labs. </li> <li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (lab affiliate)</li> <li>Bryce Linford (research assistant): Now PhD student at UCLA.</li> <li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (research assistant): Now PhD student at UC Berkeley.</li> </ul>"
+description = "<ul><li> <a href='https://janphilippfranken.github.io/'>Jan-Philipp Fränken</a> (postdoc): Next step 👣 Research Scientist at Google Deepmind, London.<li> <a href='https://www.siyingzhg.com/'>Siying Zhang</a> (research assistant): Next step 👣 PhD student at University of Washington.<li> <a href='https://www.mpib-berlin.mpg.de/person/lara-kirfel/367762'>Lara Kirfel</a> (postdoc): Next step 👣 Postdoctoral Fellow at the Center for Humans and Machines, MPI Berlin.<li> <a href='https://www.cmu.edu/dietrich/philosophy/people/masters/damini-kusum.html'>Damini Kusum</a> (research assistant): Next step 👣 MSc student at Carnegie Mellon University. <li> <a href='https://josephouta.com/'>Joseph Outa</a> (research assistant): Next step 👣 PhD student at Johns Hopkins University. </li><li> <a href='https://zach-davis.github.io/'>Zach Davis</a> (postdoc): Next step 👣 Research scientist at Facebook Reality Labs. </li> <li><a href='https://www.linkedin.com/in/erin-bennett-a1a9623a'>Erin Bennett</a> (lab affiliate)</li> <li>Bryce Linford (research assistant): Next step 👣 PhD student at UCLA.</li> <li><a href='https://scholar.google.com/citations?user=R2Ji5Z8AAAAJ&hl=en'>Antonia Langenhoff</a> (research assistant): Next step 👣 PhD student at UC Berkeley.</li> </ul>"
 
 +++
