@@ -20,7 +20,7 @@ weight = 3
 	position = "Principal Investigator"
 	email = "gerstenberg@stanford.edu"
     twitter = "tobigerstenberg"
-# bluesky = "tobigerstenberg.bsky.social"
+    bluesky = "tobigerstenberg.bsky.social"
 	github = "tobiasgerstenberg"
 	scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
 	cv = "tobias_gerstenberg.pdf"
