@@ -8,26 +8,37 @@
   <div class='personal-container'>
     <div class='personal-image-container'><img class= 'personal-image' src="../../img/members/{{.Params.image}}" alt="Drawing" />
       <div class='social-links'>
-{{if .Params.twitter}}
+      {{if .Params.twitter}}
         <a href="https://twitter.com/{{.Params.twitter}}" title="Twitter" target="_blank">
-    <i class="fab fa-twitter big-icon"></i>
-    </a> {{end}} {{if .Params.github}}
+        <i class="fab fa-twitter big-icon"></i>
+        </a>
+      {{end}}
+      {{if .Params.bluesky}}
+        <a href="https://bsky.app/profile/{{.Params.bluesky}}" title="Bluesky" target="_blank">
+        <i class="fa-brands fa-bluesky"></i>
+        </a>
+      {{end}}
+      {{if .Params.github}}
         <a href="https://github.com/{{.Params.github}}" title="Github" target="_blank">
-    <i class="fab fa-github big-icon"></i>   
-    </a> {{end}} {{if .Params.scholar}}
+        <i class="fab fa-github big-icon"></i>
+        </a>
+      {{end}}
+      {{if .Params.scholar}}
         <a href="https://scholar.google.com/{{.Params.scholar}}" title="Google Scholar" target="_blank">
-    <i class="ai ai-google-scholar big-icon"></i>
-    </a> {{end}} 
-        {{if .Params.email}}
+        <i class="ai ai-google-scholar big-icon"></i>
+        </a>
+      {{end}} 
+      {{if .Params.email}}
         <a href="mailto:{{.Params.email}}" title="E-Mail" target="_top">
-    <i class="fa fa-envelope big-icon"></i>
-    </a> {{end}} 
-    {{if .Params.cv}}
+        <i class="fa fa-envelope big-icon"></i>
+        </a>
+      {{end}} 
+      {{if .Params.cv}}
         <a href="../../cv/{{.Params.cv}}" title="CV" target="_blank">
-    <!-- <i class="fa fa-file-text-o big-icon"></i> -->
-    <span class = 'cv big-icon'>CV</span> 
-    </a> {{end}}
-        <span class="stretch"></span>
+        <span class = 'cv big-icon'>CV</span>
+        </a>
+      {{end}}
+      <span class="stretch"></span>
       </div>
     </div>
     <div class='personal-description'>
