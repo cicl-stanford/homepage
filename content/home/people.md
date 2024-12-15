@@ -19,7 +19,7 @@ weight = 3
 	id = "Tobias Gerstenberg"
 	position = "Principal Investigator"
 	email = "gerstenberg@stanford.edu"
-    twitter = "tobigerstenberg"
+#     twitter = "tobigerstenberg"
     bluesky = "tobigerstenberg.bsky.social"
 	github = "tobiasgerstenberg"
 	scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
@@ -84,6 +84,14 @@ weight = 3
     position = "Master's Student"
     email = "chuqihu@stanford.edu"
     description = "I am a Symbolic Systems master's student. I am interested in social cognition, self/identity, and learning. In my free time, I enjoy singing, playing tennis, and spending time in nature!"
+
+[[member]]
+    id = "Neha Balamurugan"
+    position = "Master's Student"
+    email = "nbalamur@stanford.edu"
+    github = "nehabalamurugan"
+    website = "https://nehabalamurugan.github.io/"
+    description = "I am curious about how human causal reasoning and perception can inform the development of robust and interpretable AI systems. I am particularly drawn to computer vision, exploring how machines can reason about and interpret visual data with human-like understanding."
 
 [[member]]
     id = "Verona Teo"
