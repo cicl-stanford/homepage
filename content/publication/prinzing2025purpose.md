@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "From Artifacts to Human Lives: Investigating the Domain-Generality of Judgments about Purposes"
-date = "2024-10-26"
+date = "2025-01-14"
 authors = ["M. Prinzing","D. Rose","S. Zhang","E. Tu","A. Concha","M. Rea","J. Schaffer","T. Gerstenberg","J. Knobe"]
 publication_types = ["2"]
 publication_short = "_Journal of Experimental Psychology: General_"
@@ -16,7 +16,7 @@ abstract = "People attribute purposes in both mundane and profound ways—such a
 image_preview = ""
 selected = false
 projects = []
-url_pdf = "papers/prinzing2024purpose.pdf"
+url_pdf = "papers/prinzing2025purpose.pdf"
 url_preprint = "https://osf.io/7enkr"
 url_code = ""
 url_dataset = "https://osf.io/uj7vf/"
