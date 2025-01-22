@@ -8,7 +8,7 @@
 
 title = "A signaling theory of self-handicapping"
 date = "2024-11-24"
-authors = ["Y. Xiang","S. J Gershman","T. Gerstenberg"]
+authors = ["Y. Xiang","S. J. Gershman","T. Gerstenberg"]
 publication_types = ["1"]
 publication_short = "_PsyArXiv_"
 publication = "Xiang, Y., Gershman*, S. J., Gerstenberg*, T. (2024). A signaling theory of self-handicapping. _PsyArXiv_."
