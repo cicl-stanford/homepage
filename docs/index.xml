@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cause and burn in development</title>
+      <link>https://cicl.stanford.edu/publication/rose2025cause/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/rose2025cause/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Causation, Meaning, and Communication</title>
@@ -132,15 +141,6 @@
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/brockbank2024monster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chain versus common cause: Biased causal strength judgments in humans and large language models</title>
-      <link>https://cicl.stanford.edu/publication/keshmirian2024chain/</link>
-      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/keshmirian2024chain/</guid>
       <description></description>
     </item>
     
