@@ -80,6 +80,14 @@ weight = 3
 	description = "I am interested in leveraging behavioral experiments and computational modeling to understand how we represent the world around us, how we simulate alternative worlds, and how we use these simulations to make inferences. In my undergraduate, I studied cognitive science and mathematics. I like to drink milk."
 
 [[member]]
+    id = "Hanqi Zhou"
+    position = "Visiting Student"
+    email = "hanqi.zhou@uni-tuebingen.de"
+    twitter = "hanqizh"
+    bluesky = "hanqizhou.bsky.social"
+    description = "I am interested in human resource rationality—how we select internal representations to compress the noisy external world, how these representations guide our learning and exploration. Fueled by an unreasonable amount of coffee."
+
+[[member]]
     id = "Chuqi Hu"
     position = "Master's Student"
     email = "chuqihu@stanford.edu"
