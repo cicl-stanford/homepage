@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>When AI meets counterfactuals: The ethical implications of counterfactual world simulation models</title>
+      <link>https://cicl.stanford.edu/publication/kirfel2025when/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/kirfel2025when/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cause and burn in development</title>
@@ -132,15 +141,6 @@
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/tsirtsis2024sequential/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Without his cookies, he&#39;s just a monster: A counterfactual simulation model of social explanation</title>
-      <link>https://cicl.stanford.edu/publication/brockbank2024monster/</link>
-      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/brockbank2024monster/</guid>
       <description></description>
     </item>
     
