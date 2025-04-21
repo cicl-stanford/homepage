@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/causal_language"}]
+url_custom = [{name = "Link", url = "https://psycnet.apa.org/record/2026-07419-001"},{name = "Github", url = "https://github.com/cicl-stanford/causal_language"}]
 math = true
 highlight = true
 [header]
