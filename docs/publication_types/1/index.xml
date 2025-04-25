@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Looking back to plan ahead: Causal judgments as a sampling approximation for action effectiveness</title>
+      <link>https://cicl.stanford.edu/publication/morris2025looking/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/morris2025looking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cause and burn in development</title>
@@ -72,15 +81,6 @@
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/srivastava2022imitation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Judgments of actual causation approximate the effectiveness of interventions</title>
-      <link>https://cicl.stanford.edu/publication/morris2018effective/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/morris2018effective/</guid>
       <description></description>
     </item>
     
