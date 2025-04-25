@@ -8,7 +8,7 @@
 
 title = "Inference from social evaluation"
 date = "2025-01-19"
-authors = ["Z. J. Davis","K. R Allen","M. Kleiman-Weiner","J. Jara-Ettinger","T. Gerstenberg"]
+authors = ["Z. J. Davis","K. R. Allen","M. Kleiman-Weiner","J. Jara-Ettinger","T. Gerstenberg"]
 publication_types = ["2"]
 publication_short = "_Journal of Personality and Social Psychology_"
 publication = "Davis, Z. J., Allen, K. R., Kleiman-Weiner, M., Jara-Ettinger, J., Gerstenberg, T. (2025). Inference from social evaluation. In _Journal of Personality and Social Psychology_."
