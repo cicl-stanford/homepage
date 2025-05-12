@@ -7,10 +7,91 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cause and fault in development</title>
+      <link>https://cicl.stanford.edu/publication/rose2025fault/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/rose2025fault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generics revisited: Analyzing generalizations in children&#39;s books and caregivers&#39; speech</title>
+      <link>https://cicl.stanford.edu/publication/yu2025generics/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/yu2025generics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do we get to know someone? Diagnostic questions for inferring personal traits</title>
+      <link>https://cicl.stanford.edu/publication/brockbank2025deep/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/brockbank2025deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language models assign responsibility based on actual rather than counterfactual contributions</title>
+      <link>https://cicl.stanford.edu/publication/xiang2025how/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/xiang2025how/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from `what might have been&#39;: A Bayesian model of learning from regret</title>
+      <link>https://cicl.stanford.edu/publication/petrova2025regret/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/petrova2025regret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to plan from observed and counterfactual experiences</title>
+      <link>https://cicl.stanford.edu/publication/yang2025learning/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/yang2025learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leave a trace: Recursive reasoning about deceptive behavior</title>
+      <link>https://cicl.stanford.edu/publication/teo2025leave/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/teo2025leave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking others for granted: Balancing personal and presentational goals in action selection</title>
+      <link>https://cicl.stanford.edu/publication/btesh2025taking/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/btesh2025taking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a formal pragmatics of explanation</title>
+      <link>https://cicl.stanford.edu/publication/harding2025toward/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/harding2025toward/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-supervised alignment with mutual information: Learning to follow principles without preference labels</title>

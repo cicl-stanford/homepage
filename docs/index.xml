@@ -6,8 +6,89 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cause and fault in development</title>
+      <link>https://cicl.stanford.edu/publication/rose2025fault/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/rose2025fault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generics revisited: Analyzing generalizations in children&#39;s books and caregivers&#39; speech</title>
+      <link>https://cicl.stanford.edu/publication/yu2025generics/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/yu2025generics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do we get to know someone? Diagnostic questions for inferring personal traits</title>
+      <link>https://cicl.stanford.edu/publication/brockbank2025deep/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/brockbank2025deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language models assign responsibility based on actual rather than counterfactual contributions</title>
+      <link>https://cicl.stanford.edu/publication/xiang2025how/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/xiang2025how/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from `what might have been&#39;: A Bayesian model of learning from regret</title>
+      <link>https://cicl.stanford.edu/publication/petrova2025regret/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/petrova2025regret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to plan from observed and counterfactual experiences</title>
+      <link>https://cicl.stanford.edu/publication/yang2025learning/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/yang2025learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leave a trace: Recursive reasoning about deceptive behavior</title>
+      <link>https://cicl.stanford.edu/publication/teo2025leave/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/teo2025leave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking others for granted: Balancing personal and presentational goals in action selection</title>
+      <link>https://cicl.stanford.edu/publication/btesh2025taking/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/btesh2025taking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a formal pragmatics of explanation</title>
+      <link>https://cicl.stanford.edu/publication/harding2025toward/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/harding2025toward/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Communication-First Account of Explanation</title>
@@ -60,87 +141,6 @@
       <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/davis2025inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From Artifacts to Human Lives: Investigating the Domain-Generality of Judgments about Purposes</title>
-      <link>https://cicl.stanford.edu/publication/prinzing2025purpose/</link>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/prinzing2025purpose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A signaling theory of self-handicapping</title>
-      <link>https://cicl.stanford.edu/publication/xiang2024handicapping/</link>
-      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/xiang2024handicapping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Imagining and building wise machines: The centrality of AI metacognition</title>
-      <link>https://cicl.stanford.edu/publication/johnson2024wise/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/johnson2024wise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-supervised alignment with mutual information: Learning to follow principles without preference labels</title>
-      <link>https://cicl.stanford.edu/publication/franken2024sami/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/franken2024sami/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MARPLE: A Benchmark for Long-Horizon Inference</title>
-      <link>https://cicl.stanford.edu/publication/jin2024marple/</link>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/jin2024marple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human-like Affective Cognition in Foundation Models</title>
-      <link>https://cicl.stanford.edu/publication/gandhi2024affective/</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gandhi2024affective/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>To Err is Robotic: Rapid Value-Based Trial-and-Error during Deployment</title>
-      <link>https://cicl.stanford.edu/publication/du2024robotic/</link>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/du2024robotic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Counterfactual simulation in causal cognition</title>
-      <link>https://cicl.stanford.edu/publication/gerstenberg2024counterfactual/</link>
-      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/gerstenberg2024counterfactual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Children use disagreement to infer what happened</title>
-      <link>https://cicl.stanford.edu/publication/amemiya2024disagreement/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/amemiya2024disagreement/</guid>
       <description></description>
     </item>
     
