@@ -94,6 +94,14 @@ weight = 3
     description = "I am curious about how human causal reasoning and perception can inform the development of robust and interpretable AI systems. I am particularly drawn to computer vision, exploring how machines can reason about and interpret visual data with human-like understanding."
 
 [[member]]
+    id = "Yiheng Yao"
+    position = "Master's Student"
+    email = "yaoyh@stanford.edu"
+    github = "devYaoYH"
+    linkedin = "yiheng-yao-0ba43569"
+    description = "I'm curious about how people can understand each other, and how we confirm that understanding through predictions, explanations, and collaborative action. Recently I'm interested in how psychology can inform better ways of interacting with AI agents! Coffee flows through my veins."
+
+[[member]]
     id = "Verona Teo"
     position = "Predoctoral Researcher"
     email = "veronateo@stanford.edu"
