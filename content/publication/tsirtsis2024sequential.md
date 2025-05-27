@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/responsibility_sequential"}]
+url_custom = [{name = "Link", url = "https://escholarship.org/content/qt5h1742zk/qt5h1742zk.pdf"}, {name = "Github", url = "https://github.com/cicl-stanford/responsibility_sequential"}]
 math = true
 highlight = true
 [header]

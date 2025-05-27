@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = "posters/wu2024whodunnit-poster.pdf"
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/whodunnit_multimodal_inference"}]
+url_custom = [{name = "Link", url = "https://escholarship.org/content/qt1nq5p6m8/qt1nq5p6m8.pdf"}, {name = "Github", url = "https://github.com/cicl-stanford/whodunnit_multimodal_inference"}]
 math = true
 highlight = true
 [header]
