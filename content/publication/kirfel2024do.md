@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/explanation_intervention"}]
+url_custom = [{name = "Link", url = "https://escholarship.org/content/qt7w09v5vk/qt7w09v5vk_noSplash_07c1fc759fe0ac20956b027911669115.pdf"},{name = "Github", url = "https://github.com/cicl-stanford/explanation_intervention"}]
 math = true
 highlight = true
 [header]
