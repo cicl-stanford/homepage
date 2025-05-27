@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = "posters/wu2024resource-poster.pdf"
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Link", url = "https://escholarship.org/content/qt4jg1t212/qt4jg1t212.pdf"}]
 math = true
 highlight = true
 [header]

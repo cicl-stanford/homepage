@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = "posters/keshmirian2024chain-poster.pdf"
 url_source = ""
-url_custom = [{name = "OSF", url = "https://osf.io/qaydt/?view_only=c9695fd480874ba9bf15cc6199dc4338"}]
+url_custom = [{name = "Link", url = "https://escholarship.org/content/qt2w45f1bv/qt2w45f1bv.pdf"},{name = "OSF", url = "https://osf.io/qaydt/?view_only=c9695fd480874ba9bf15cc6199dc4338"}]
 math = true
 highlight = true
 [header]

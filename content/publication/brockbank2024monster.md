@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = "posters/brockbank2024monster-poster.pdf"
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/action_abstraction_cogsci2024"}]
+url_custom = [{name = "Link", url = "https://escholarship.org/content/qt6b53q6mc/qt6b53q6mc.pdf"},{name = "Github", url = "https://github.com/cicl-stanford/action_abstraction_cogsci2024"}]
 math = true
 highlight = true
 [header]
