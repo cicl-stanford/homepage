@@ -15,7 +15,7 @@ publication = "Smith K. A., Hamrick J. B., Sanborn A. N., Battaglia P. W., Gerst
 image_preview = ""
 selected = false
 projects = []
-#url_pdf = "papers/smith2024probabilistic.pdf"
+url_pdf = "papers/smith2024probabilistic.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -23,7 +23,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Link", url = "https://mitpress.ublish.com/book/bayesian-models-of-cognition-reverse-engineering-the-mind"}]
 math = true
 highlight = true
 [header]
