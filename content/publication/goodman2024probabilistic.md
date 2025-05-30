@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Link", url = "https://escholarship.org/content/qt1nq5p6m8/qt1nq5p6m8.pdf"}]
+url_custom = [{name = "Link", url = "https://mitpress.ublish.com/book/bayesian-models-of-cognition-reverse-engineering-the-mind"}]
 math = true
 highlight = true
 [header]
