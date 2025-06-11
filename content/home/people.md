@@ -109,14 +109,6 @@ weight = 3
     description = "I'm interested in computational and behavioral models of cognition, including social, moral, and causal reasoning. I did my undergraduate studies in data science and philosophy. I like coffee."
 
 [[member]]
-    id = "Hanqi Zhou"
-    position = "Visiting Student"
-    email = "hanqi.zhou@uni-tuebingen.de"
-    twitter = "hanqizh"
-    bluesky = "hanqizhou.bsky.social"
-    description = "I am interested in human resource rationality—how we select internal representations to compress the noisy external world, how these representations guide our learning and exploration. Fueled by an unreasonable amount of coffee."
-
-[[member]]
     id = "Britt Besch"
     position = "Visiting Student"
     email = "britt.besch@t-online.de"
@@ -146,30 +138,10 @@ weight = 3
     description = "I am interested in using different methods to explore social cognition, interpersonal interactions, and understanding the mind. I also enjoy reading, writing, and staying active."
 
 [[member]]
-    id = "Hannah Cha"
-    position = "Research Assistant"
-    email = "hcha417@stanford.edu"
-    description = "I am junior at Stanford majoring in Symbolic Systems with a minor in Art Practice and CSRE. I'm interested in minimizing algorithmic biases and harms and analyzing AI models in social contexts. I love making digital art, animations, and painting my own nails!"
-    website = "https://www.hannahcha.com/"
-    github = "hannahcha417"
-
-[[member]]
     id = "Mishika Govil"
     position = "Research Assistant"
     email = "mishgov@stanford.edu"
     description = "I'm an undergrad junior majoring in MS&E and Philosophy and minoring in CS. I'm interested in exploring how computational technologies differ from and relate to human decision-making processes. What drives me is learning how things work - whether it be in the context of pure math, computing, the physical universe, the human mind, economic structures, or anything else. Outside of work, I love reading, watching sitcoms, and playing ping pong, pickleball, badminton, and basketball! My favorite drink is a vanilla milkshake!"
-
-[[member]]
-    id = "Alexa Tran"
-    position = "Research Assistant"
-    email = "alexatran@stanford.edu"
-    description = "I'm an undergraduate majoring in computer science, either on the AI or HCI track. I'm interested in using computational models to understand how people think about the world, and in my free time, I love going on long walks, playing golf, and trying new foods!"
-
-[[member]]
-    id = "Phillip Miao"
-    position = "Research Assistant"
-    email = "pmiao@stanford.edu"
-    description = "I am an undergraduate student at Stanford University studying Computer Science. I am interested in using big data and computational tools to understand how we perceive the world. I am also interested in understanding how language models perform reasoning and thinking. I love playing board games, traveling, and having fun with friends."
 
 [[member]]
 	id = "Xi Jia (Laura) Zhou"
@@ -234,6 +206,34 @@ weight = 3
     email = "kanishk.gandhi@stanford.edu"
     website = "http://kanishkgandhi.com/"
     description = "I am interested in reasoning and social cognition; how we can build machines that interact with, learn from and communicate with others."
+
+# [[member]]
+# id = "Hanqi Zhou"
+# position = "Visiting Student"
+# email = "hanqi.zhou@uni-tuebingen.de"
+# twitter = "hanqizh"
+# bluesky = "hanqizhou.bsky.social"
+# description = "I am interested in human resource rationality—how we select internal representations to compress the noisy external world, how these representations guide our learning and exploration. Fueled by an unreasonable amount of coffee."
+
+# [[member]]
+# id = "Hannah Cha"
+# position = "Research Assistant"
+# email = "hcha417@stanford.edu"
+# description = "I am junior at Stanford majoring in Symbolic Systems with a minor in Art Practice and CSRE. I'm interested in minimizing algorithmic biases and harms and analyzing AI models in social contexts. I love making digital art, animations, and painting my own nails!"
+# website = "https://www.hannahcha.com/"
+# github = "hannahcha417"
+
+# [[member]]
+# id = "Alexa Tran"
+# position = "Research Assistant"
+# email = "alexatran@stanford.edu"
+# description = "I'm an undergraduate majoring in computer science, either on the AI or HCI track. I'm interested in using computational models to understand how people think about the world, and in my free time, I love going on long walks, playing golf, and trying new foods!"
+
+# [[member]]
+# id = "Phillip Miao"
+# position = "Research Assistant"
+# email = "pmiao@stanford.edu"
+# description = "I am an undergraduate student at Stanford University studying Computer Science. I am interested in using big data and computational tools to understand how we perceive the world. I am also interested in understanding how language models perform reasoning and thinking. I love playing board games, traveling, and having fun with friends."
 
 # [[member]]
 # id = "Andrew Nam"
