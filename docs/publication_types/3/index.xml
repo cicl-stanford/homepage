@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Understanding human limits in pattern recognition: A computational model of sequential reasoning in rock, paper, scissors</title>
+      <link>https://cicl.stanford.edu/publication/cross2025understanding/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/cross2025understanding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Causal-PIK: Causality-based physical reasoning with a physics-informed kernel</title>

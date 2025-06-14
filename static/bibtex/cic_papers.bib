@@ -1,12 +1,21 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Tobias Gerstenberg at 2025-05-29 20:47:46 -0700 
+%% Created for Tobias Gerstenberg at 2025-06-13 22:05:01 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@article{cross2025understanding,
+	abstract = {How do we predict others from patterns in their behavior and what are the computational constraints that limit this ability? We investigate these questions by modeling human behavior over repeated games of rock, paper, scissors from Brockbank \& Vul (2024). Against algorithmic opponents that varied in strategic sophistication, people readily exploit simple transition patterns (e.g., consistently playing rock after paper) but struggle to detect more complex sequential dependencies. To understand the cognitive mechanisms underlying these abilities and their limitations, we deploy Hypothetical Minds (HM), a large language model-based agent that generates and tests hypotheses about opponent strategies, as a cognitive model of this behavior (Cross et al., 2024). We show that when applied to the same experimental conditions, HM closely mirrors human performance patterns, succeeding and failing in similar ways. To better understand the source of HM's failures and whether people might face similar cognitive bottlenecks in this context, we performed a series of ablations and augmentations targeting different components of the system. When provided with natural language descriptions of the opponents' strategies, HM successfully exploited 6/7 bot opponents with win rates {\textgreater}80\% suggesting that accurate hypothesis generation is the primary cognitive bottleneck in this task. Further, by systematically manipulating the model's hypotheses through pedagogically-inspired interventions, we find that the model substantially updates its causal understanding of opponent behavior, revealing how model-based analyses can produce testable hypotheses about human cognition.},
+	author = {Cross, Logan and Brockbank, Erik and Gerstenberg, Tobias and Fan, Judith E and Yamins, Daniel L K and Haber, Nick},
+	date-added = {2025-06-13 22:04:47 -0700},
+	date-modified = {2025-06-13 22:04:50 -0700},
+	journal = {Computational Cognitive Neuroscience},
+	title = {{Understanding human limits in pattern recognition: A computational model of sequential reasoning in rock, paper, scissors}},
+	year = {2025}}
 
 @inproceedings{pares-morlans2025pik,
 	abstract = {Tasks that involve complex interactions between objects with unknown dynamics make planning before execution difficult. These tasks require agents to iteratively improve their actions after actively exploring causes and effects in the environment. For these type of tasks, we propose Causal-PIK, a method that leverages Bayesian optimization to reason about causal interactions via a Physics-Informed Kernel to help guide efficient search for the best next action. Experimental results on Virtual Tools and PHYRE physical reasoning benchmarks show that Causal-PIK outperforms state-of-the-art results, requiring fewer actions to reach the goal. We also compare CausalPIK to human studies, including results from a new user study we conducted on the PHYRE benchmark. We find that Causal-PIK remains competitive on tasks that are very challenging, even for human problem-solvers.},
