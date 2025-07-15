@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cause and burn in development</title>
+      <link>https://cicl.stanford.edu/publication/rose2025cause/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/rose2025cause/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A framework for blaming willful ignorance</title>
@@ -132,15 +141,6 @@
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/morris2025looking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>When AI meets counterfactuals: The ethical implications of counterfactual world simulation models</title>
-      <link>https://cicl.stanford.edu/publication/kirfel2025when/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/kirfel2025when/</guid>
       <description></description>
     </item>
     
