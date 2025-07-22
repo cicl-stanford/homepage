@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models</title>
+      <link>https://cicl.stanford.edu/publication/wong2025modeling/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/wong2025modeling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cause and burn in development</title>
@@ -132,15 +141,6 @@
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/harding2025communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Looking back to plan ahead: Causal judgments as a sampling approximation for action effectiveness</title>
-      <link>https://cicl.stanford.edu/publication/morris2025looking/</link>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/morris2025looking/</guid>
       <description></description>
     </item>
     
