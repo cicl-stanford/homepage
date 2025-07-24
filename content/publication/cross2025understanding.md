@@ -8,7 +8,7 @@
 
 title = "Understanding human limits in pattern recognition: A computational model of sequential reasoning in rock, paper, scissors"
 date = "2025-06-13"
-authors = ["L. Cross","E. Brockbank","T. Gerstenberg","J. E Fan","D. L K Yamins","N. Haber"]
+authors = ["L. Cross","E. Brockbank","T. Gerstenberg","J. E Fan","D. L. K. Yamins","N. Haber"]
 publication_types = ["3"]
 publication_short = "_Computational Cognitive Neuroscience_"
 publication = "Cross, L., Brockbank, E., Gerstenberg, T., Fan, J. E., Yamins, D. L. K., Haber, N. (2025). Understanding human limits in pattern recognition: A computational model of sequential reasoning in rock, paper, scissors. In _Computational Cognitive Neuroscience_."
