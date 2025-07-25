@@ -6,7 +6,7 @@
 # 4 -> 'Book chapter',
 # 5 -> 'Thesis'
 
-title = "Learning from `what might have been': A Bayesian model of learning from regret"
+title = "Learning from 'what might have been': A Bayesian model of learning from regret"
 date = "2025-05-12"
 authors = ["K. Petrova","J. Gross","T. Gerstenberg"]
 publication_types = ["3"]
