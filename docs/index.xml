@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cause and burn in development</title>
+      <link>https://cicl.stanford.edu/publication/rose2025cause/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/rose2025cause/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models</title>
@@ -15,15 +24,6 @@
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/wong2025modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cause and burn in development</title>
-      <link>https://cicl.stanford.edu/publication/rose2025cause/</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/rose2025cause/</guid>
       <description></description>
     </item>
     
