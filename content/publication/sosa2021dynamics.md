@@ -8,10 +8,10 @@
 
 title = "Moral dynamics: Grounding moral judgment in intuitive physics and intuitive psychology"
 date = "2021-08-24"
-authors = ["F. A Sosa","T. D Ullman","J. B Tenenbaum","S. J Gershman","T. Gerstenberg"]
+authors = ["F. A Sosa","T. D. Ullman","J. B. Tenenbaum","S. J. Gershman","T. Gerstenberg"]
 publication_types = ["2"]
 publication_short = "_Cognition_"
-publication = "F. A Sosa, T. D Ullman, J. B Tenenbaum, S. J Gershman & T. Gerstenberg (2021). Moral dynamics: Grounding moral judgment in intuitive physics and intuitive psychology. _Cognition_, 217, 104890."
+publication = "F. A Sosa, T. D. Ullman, J. B. Tenenbaum, S. J. Gershman & T. Gerstenberg (2021). Moral dynamics: Grounding moral judgment in intuitive physics and intuitive psychology. _Cognition_, 217, 104890."
 abstract = "When holding others morally responsible, we care about what they did, and what they thought. Traditionally, research in moral psychology has relied on vignette studies, in which a protagonist's actions and thoughts are explicitly communicated. While this research has revealed what variables are important for moral judgment, such as actions and intentions, it is limited in providing a more detailed understanding of exactly how these variables affect moral judgment. Using dynamic visual stimuli that allow for a more fine-grained experimental control, recent studies have proposed a direct mapping from visual features to moral judgments. We embrace the use of visual stimuli in moral psychology, but question the plausibility of a feature-based theory of moral judgment. We propose that the connection from visual features to moral judgments is mediated by an inference about what the observed action reveals about the agent's mental states, and what causal role the agent's action played in bringing about the outcome. We present a computational model that formalizes moral judgments of agents in visual scenes as computations over an intuitive theory of physics combined with an intuitive theory of mind. We test the model's quantitative predictions in three experiments across a wide variety of dynamic interactions between agent and patient."
 image_preview = ""
 selected = false

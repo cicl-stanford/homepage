@@ -79,7 +79,7 @@
                 {{ range .Pages.ByParam "status" }}
 
 				<!-- Only list papers in which T. Gerstenberg is a co-author -->
-				{{if in .Params.authors "T. Gerstenberg"}}
+				{{ if or (in .Params.authors "T. Gerstenberg") (in .Params.authors "T. Gerstenberg\\*") }}
 
 				<div class='grid-sizer col-md-12 isotope-item pubtype-{{ delimit .Params.publication_types " pubtype-" }} year-{{ .Date.Format "2006"}} author-{{ $.Scratch.Get "author" }}'>
 					{{ if eq $.Params.list_format 1 }}

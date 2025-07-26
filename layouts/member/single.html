@@ -70,9 +70,24 @@
       <!-- <h2>Publications</h2>  -->
       {{ if and (.Params.publication_type) (ne .Params.publication_type "-1") }} 
       {{ $.Scratch.Set "recent_pubs" (where (where $.Site.RegularPages "Type" "publication") ".Params.publication_types" "intersect" (slice .Params.publication_type)) }} 
-      {{ else }} {{ $.Scratch.Set "recent_pubs" (where $.Site.RegularPages "Type" "publication") }} 
+      {{ else }} 
+      {{ $.Scratch.Set "recent_pubs" (where $.Site.RegularPages "Type" "publication") }} 
       {{ end }} 
-      {{ $recent_pubs := $.Scratch.Get "recent_pubs" }} {{range $recent_pubs.ByParam "status" }}{{if in .Params.authors $page.Params.publication_name}}{{ partial "publication_li_apa" . }}{{ end }}{{ end }}
+      {{ $recent_pubs := $.Scratch.Get "recent_pubs" }}
+      {{range $recent_pubs.ByParam "status" }}
+        {{ $hasAuthor := false }}
+        {{ range .Params.authors }}
+          {{ $currentAuthor := . }}
+          {{ range $page.Params.publication_name }}
+            {{ if eq $currentAuthor . }}
+              {{ $hasAuthor = true }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        {{ if $hasAuthor }}
+          {{ partial "publication_li_apa" . }}
+        {{ end }}
+      {{ end }}
     </div>
 </div>
 {{ partial "footer_container.html" . }} {{ partial "footer.html" . }}
