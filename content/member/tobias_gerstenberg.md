@@ -68,6 +68,8 @@ __Office__: Room 302, [Building 420](https://goo.gl/maps/mBbkXZfiSR42)
 
 ## Teaching
 
+- Winter 2024/25: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
+- Fall, Winter, and Spring 2024/25: [Advanced Research (PSYCH 198)](https://psych198.stanford.edu)
 - Winter 2023/24: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
 - Winter and Spring 2023/24: [Advanced Research (PSYCH 198)](https://psych198.stanford.edu)
 - Winter 2021/22: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
