@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A signaling theory of self-handicapping</title>
+      <link>https://cicl.stanford.edu/publication/xiang2025handicapping/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/xiang2025handicapping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cause and burn in development</title>
@@ -132,15 +141,6 @@
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/harding2025toward/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Communication-First Account of Explanation</title>
-      <link>https://cicl.stanford.edu/publication/harding2025communication/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/harding2025communication/</guid>
       <description></description>
     </item>
     

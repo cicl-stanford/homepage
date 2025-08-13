@@ -16,7 +16,7 @@ description = "I am interested in computational approaches to understanding cogn
 # Filter by publication type.
 # -1: Any
 publication_type = "-1"
-publication_name = "A. Beller"
+publication_name = ["A. Beller"]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
