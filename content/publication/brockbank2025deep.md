@@ -22,9 +22,9 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "posters/brockbank2025deep-poster.pdf"
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/erik-brockbank/deep_conversations_cogsci2025"}]
+url_custom = [{name = "Video", url = "https://youtu.be/qiPcMWQaO9c"},{name = "Github", url = "https://github.com/erik-brockbank/deep_conversations_cogsci2025"}]
 math = true
 highlight = true
 [header]

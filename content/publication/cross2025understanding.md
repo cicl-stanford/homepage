@@ -17,14 +17,14 @@ image_preview = ""
 selected = false
 projects = []
 url_pdf = "papers/cross2025understanding.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/2508.06503"
 url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "posters/cross2025understanding-poster.pdf"
 url_source = ""
-url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/2508.06503"}]
+# url_custom = [{name = "arXiv", url = ""}]
 math = true
 highlight = true
 [header]
