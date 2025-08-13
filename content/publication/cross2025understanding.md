@@ -24,10 +24,11 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/2508.06503"}]
 math = true
 highlight = true
 [header]
 # image = "publications/cross2025understanding.png"
 caption = ""
 +++
+
