@@ -22,9 +22,9 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "posters/teo2025leave-poster.pdf"
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/recursive_deception"}]
+url_custom = [{name = "Video", url = "https://youtu.be/ynKcgOdmlYc"}, {name = "Github", url = "https://github.com/cicl-stanford/recursive_deception"}]
 math = true
 highlight = true
 [header]
