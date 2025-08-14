@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Causality in Cognition Lab</title>
+    <link>https://cicl.stanford.edu/publication_types/6/</link>
+    <description>Recent content in 6 on Causality in Cognition Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cicl.stanford.edu/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Good explanations fit prior knowledge</title>
+      <link>https://cicl.stanford.edu/publication/hartshorne2025good/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/hartshorne2025good/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spot the ball: Inferring hidden information from human behavioral cues</title>
+      <link>https://cicl.stanford.edu/publication/balamurugan2025spot/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/balamurugan2025spot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Young children use mental simulation to reason about their performance</title>
+      <link>https://cicl.stanford.edu/publication/zhu2025young/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/zhu2025young/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

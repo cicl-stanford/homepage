@@ -139,7 +139,8 @@ defaultContentLanguageInSubdir = false
 		'Journal',  # 2
 		'Conference Proceedings',  # 3
 		'Book chapter',  # 4
-		'Thesis'  # 5
+		'Thesis',  # 5
+		'Abstract'  # 6
 	]
 
 	# Configuration of talk pages.
