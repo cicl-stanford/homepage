@@ -22,9 +22,9 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "posters/yu2025generics-poster.pdf"
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/sunnyych/Children_Speech_Books"}]
+url_custom = [{name = "Video", url = "https://youtu.be/q9qJCCHzQSs"},{name = "Github", url = "https://github.com/sunnyych/Children_Speech_Books"}]
 math = true
 highlight = true
 [header]

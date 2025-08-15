@@ -68,18 +68,11 @@ __Office__: Room 302, [Building 420](https://goo.gl/maps/mBbkXZfiSR42)
 
 ## Teaching
 
-- Winter 2024/25: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
-- Fall, Winter, and Spring 2024/25: [Advanced Research (PSYCH 198)](https://psych198.stanford.edu)
-- Winter 2023/24: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
-- Winter and Spring 2023/24: [Advanced Research (PSYCH 198)](https://psych198.stanford.edu)
-- Winter 2021/22: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
-- Fall, Winter, and Spring 2021/22: [Advanced Research (PSYCH 198)](https://psych198.stanford.edu)
-- Winter 2020/21: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
+- 2018 to now (Winter quarter): [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
+- 2021 to now: [Advanced Research (PSYCH 198)](https://psych198.stanford.edu)
 - Fall 2020/21: [Experimental Methods (PSYCH 251)](https://explorecourses.stanford.edu/search;jsessionid=1vwlzj7h09e9lzakcp1adv6d?q=PSYCH+251%3a+Experimental+Methods&view=catalog&filter-coursestatus-Active=on&academicYear=20202021)
 - Fall 2020/21: [What makes a good explanation? Psychological and philosophical perspectives (PSYCH 293)](https://psych293.github.io/)
 - Spring 2019/20: [Research Methods in Cognition and Development (PSYCH 187)](https://psychology.stanford.edu/courses/2019-2020-psych-187)
-- Winter 2019/20: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
-- Winter 2018/19: [Statistical Methods for Behavioral and Social Sciences (PSYCH 252)](https://psych252.github.io/)
 - Spring 2018/19: [Causal Cognition (PSYCH 291)](https://tobiasgerstenberg.github.io/causal_cognition/)
 
 ## Publications
