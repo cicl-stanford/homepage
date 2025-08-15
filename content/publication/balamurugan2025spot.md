@@ -21,9 +21,9 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-#url_poster = "papers/balamurugan2025spot-poster.pdf"
+url_poster = "posters/balamurugan2025spot-poster.pdf"
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Video", url = "https://youtu.be/GHC9yIaMsLU"}]
 math = true
 highlight = true
 [header]
