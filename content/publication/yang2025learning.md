@@ -22,9 +22,9 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "posters/yang2025learning-poster.pdf"
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/counterfactual_learning_cogsci2025"}]
+url_custom = [{name = "Video", url = "https://youtu.be/7E_JZcE1k5E"},{name = "Github", url = "https://github.com/cicl-stanford/counterfactual_learning_cogsci2025"}]
 math = true
 highlight = true
 [header]
