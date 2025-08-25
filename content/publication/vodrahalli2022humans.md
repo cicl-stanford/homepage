@@ -6,7 +6,7 @@
 # 4 -> 'Book chapter',
 # 5 -> 'Thesis'
 
-title = "Do humans trust advice more if it comes from AI? an analysis of human-AI interactions"
+title = "Do humans trust advice more if it comes from AI? An analysis of human-AI interactions"
 date = "2022-01-01"
 authors = ["K. Vodrahalli","R. Daneshjou","T. Gerstenberg","J. Zou"]
 publication_types = ["3"]
