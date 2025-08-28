@@ -6,7 +6,7 @@
 # 4 -> 'Book chapter',
 # 5 -> 'Thesis'
 
-title = "Who caused it to break? Who broke it? How children map causal verbs to different causes across development"
+title = "Broke or caused to break: How children map causal verbs to different causes across development"
 date = "2025-07-25"
 authors = ["D. Rose","S. Zhang","S. Nichols","E. Markman","T. Gerstenberg"]
 publication_types = ["2"]
