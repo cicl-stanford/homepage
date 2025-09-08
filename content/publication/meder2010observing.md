@@ -7,12 +7,12 @@
 # 4 -> 'Book chapter',
 # 5 -> 'Thesis'
 
-title = "Observing and Intervening: Rational and Heuristic Models of Causal Decision Making"
+title = "Observing and intervening: Rational and heuristic models of causal decision making"
 date = "2010-01-01"
 authors = ["B. Meder","T. Gerstenberg","Y. Hagmayer","M. R. Waldmann"]
 publication_types = ["2"]
 publication_short = "_Open Psychology Journal_"
-publication = "Meder, B., Gerstenberg, T., Hagmayer, Y., & Waldmann, M. R. (2010). Observing and Intervening: Rational and Heuristic Models of Causal Decision Making. _Open Psychology Journal_, 3, 119-135. "
+publication = "Meder, B., Gerstenberg, T., Hagmayer, Y., & Waldmann, M. R. (2010). Observing and intervening: Rational and heuristic models of causal decision making. _Open Psychology Journal_, 3, 119-135. "
 image_preview = ""
 selected = false
 projects = []

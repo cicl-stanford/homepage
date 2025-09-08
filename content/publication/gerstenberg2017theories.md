@@ -7,12 +7,12 @@
 # 4 -> 'Book chapter',
 # 5 -> 'Thesis'
 
-title = "Intuitive Theories"
+title = "Intuitive theories"
 date = "2017-01-01"
 authors = ["T. Gerstenberg","J. B. Tenenbaum"]
 publication_types = ["4"]
 publication_short = "_Oxford Handbook of Causal Reasoning_"
-publication = "Gerstenberg, T. & Tenenbaum, J. B. (2017). Intuitive Theories. In _Oxford Handbook of Causal Reasoning_ (pp. 515-548). Oxford University Press."
+publication = "Gerstenberg, T. & Tenenbaum, J. B. (2017). Intuitive theories. In _Oxford Handbook of Causal Reasoning_ (pp. 515-548). Oxford University Press."
 image_preview = ""
 selected = false
 projects = []
