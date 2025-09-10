@@ -116,6 +116,16 @@ weight = 3
     description = "I am broadly interested in understanding and modeling human-human and human-computer-interaction and its underlying cognitive principles. I enjoy running, hiking, baking, and good conversations over a cup of coffee."
 
 [[member]]
+    id = "José Luiz Nunes"
+    position = "Visiting Student"
+    image = "jose_luiz_nunes.jpg"
+    email = "jlnunes@stanford.edu"
+    github = "joseluizn"
+    bluesky = "joseluiz.bsky.social"
+	scholar = "citations?user=8V-ZZZEAAAAJ&hl=en"
+    description = "I'm interested in ethics in AI development, how AI models express moral values and judgements (regarding the reflection of designers choices), and political repercussions of AI. I received my undergraduate in law, MsC in computer science also are of my ongoing PhD. I love drinking and making coffee, taekwondo poomsae and surfing. Have enjoyed hiking CA."
+
+[[member]]
     id = "Ricky Ma"
     position = "Research Assistant"
     email = "ricky.ma@alumni.ubc.ca"
@@ -194,18 +204,18 @@ weight = 3
     description = "I am a PhD Student in the [Stanford Social Learning Lab](http://sll.stanford.edu/). My research interests focus on the representations and motivations that guide learning and play early in life. I like to eat tacos and drink coffee."
 
 [[member]]
-    id = "Ruohan Zhang"
-    position = "Lab Affiliate"
-    email = "zharu@stanford.edu"
-    website = "https://ai.stanford.edu/~zharu/"
-    description = "I am a postdoctoral researcher at [Stanford Vision and Learning Lab](http://svl.stanford.edu/), as well as a [Wu Tsai Human Performance Alliance](https://humanperformancealliance.org/) Fellow. I work on robotics, human-robot interaction, brain-machine interface, cognitive science, and neuroscience. My research focus is human-centered artificial intelligence: Understanding human intelligence for developing biologically-inspired AI algorithms, as well as making AIs more compatible with humans."
-
-[[member]]
     id = "Kanishk Gandhi"
     position = "Lab Affiliate"
     email = "kanishk.gandhi@stanford.edu"
     website = "http://kanishkgandhi.com/"
     description = "I am interested in reasoning and social cognition; how we can build machines that interact with, learn from and communicate with others."
+
+# [[member]]
+#     id = "Ruohan Zhang"
+#     position = "Lab Affiliate"
+#     email = "zharu@stanford.edu"
+#     website = "https://ai.stanford.edu/~zharu/"
+#     description = "I am a postdoctoral researcher at [Stanford Vision and Learning Lab](http://svl.stanford.edu/), as well as a [Wu Tsai Human Performance Alliance](https://humanperformancealliance.org/) Fellow. I work on robotics, human-robot interaction, brain-machine interface, cognitive science, and neuroscience. My research focus is human-centered artificial intelligence: Understanding human intelligence for developing biologically-inspired AI algorithms, as well as making AIs more compatible with humans."
 
 # [[member]]
 # id = "Hanqi Zhou"
