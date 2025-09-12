@@ -9,7 +9,7 @@
 title = "Multimodal inference through mental simulation"
 date = "2025-09-12"
 year = "2025"
-authors = ["A. Beller","Y. Xu","M. Siegel","S. Grant","A. Brown","J. B Tenenbaum","S. W Linderman","T. Gerstenberg"]
+authors = ["A. Beller","Y. Xu","M. Siegel","S. Grant","A. Brown","J. B. Tenenbaum","S. W. Linderman","T. Gerstenberg"]
 publication_types = ["1"]
 publication_short = "_PsyArXiv_"
 publication = "Beller, A., Xu, Y., Siegel, M., Grant, S., Brown, A., Tenenbaum, J. B., Linderman, S. W., Gerstenberg, T. (2025). Multimodal inference through mental simulation. _PsyArXiv_"
