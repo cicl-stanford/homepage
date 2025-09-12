@@ -25,7 +25,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Link", url = "https://link.springer.com/article/10.1007/s43681-025-00718-4"}]
 math = true
 highlight = true
 [header]
