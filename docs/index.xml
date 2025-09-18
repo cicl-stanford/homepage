@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A signaling theory of self-handicapping</title>
+      <link>https://cicl.stanford.edu/publication/xiang2025handicapping/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/xiang2025handicapping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multimodal inference through mental simulation</title>
@@ -15,15 +24,6 @@
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/beller2025multimodal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A signaling theory of self-handicapping</title>
-      <link>https://cicl.stanford.edu/publication/xiang2025handicapping/</link>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/xiang2025handicapping/</guid>
       <description></description>
     </item>
     

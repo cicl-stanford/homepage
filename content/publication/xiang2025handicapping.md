@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "A signaling theory of self-handicapping"
-date = "2025-08-12"
+date = "2025-09-18"
 authors = ["Y. Xiang","S. J. Gershman\\*","T. Gerstenberg\\*"]
 publication_types = ["2"]
 publication_short = "_Cognition_"
@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/yyyxiang/self-handicapping"}]
+url_custom = [{name = "Link", url = "https://www.sciencedirect.com/science/article/pii/S0010027725002288"},{name = "Github", url = "https://github.com/yyyxiang/self-handicapping"}]
 math = true
 highlight = true
 [header]
