@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/marple-benchmark/marple"}, {name = "Project website", url = "https://marple-benchmark.github.io/"}]
+url_custom = [{name = "Link", url = "https://proceedings.neurips.cc/paper_files/paper/2024/hash/c4c6b9642f3d1c2bf036bb9575f7b5bf-Abstract-Datasets_and_Benchmarks_Track.html"}, {name = "Github", url = "https://github.com/marple-benchmark/marple"}, {name = "Project website", url = "https://marple-benchmark.github.io/"}]
 math = true
 highlight = true
 [header]
