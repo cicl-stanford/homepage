@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Actual or counterfactual? Asymmetric responsibility attributions in language models</title>
+      <link>https://cicl.stanford.edu/publication/xiang2025actual/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/xiang2025actual/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A signaling theory of self-handicapping</title>
@@ -132,15 +141,6 @@
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/teo2025leave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Taking others for granted: Balancing personal and presentational goals in action selection</title>
-      <link>https://cicl.stanford.edu/publication/btesh2025taking/</link>
-      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/btesh2025taking/</guid>
       <description></description>
     </item>
     
