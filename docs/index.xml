@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Sun, 28 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Probing counterfactual thought without counterfactual language</title>
+      <link>https://cicl.stanford.edu/publication/rose2025probing/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/rose2025probing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Actual or counterfactual? Asymmetric responsibility attributions in language models</title>
@@ -132,15 +141,6 @@
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/yang2025learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leave a trace: Recursive reasoning about deceptive behavior</title>
-      <link>https://cicl.stanford.edu/publication/teo2025leave/</link>
-      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/teo2025leave/</guid>
       <description></description>
     </item>
     
