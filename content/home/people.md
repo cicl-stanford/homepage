@@ -109,13 +109,6 @@ weight = 3
     description = "I'm interested in computational and behavioral models of cognition, including social, moral, and causal reasoning. I did my undergraduate studies in data science and philosophy. I like coffee."
 
 [[member]]
-    id = "Britt Besch"
-    position = "Visiting Student"
-    email = "britt.besch@t-online.de"
-    linkedin = "britt-besch"
-    description = "I am broadly interested in understanding and modeling human-human and human-computer-interaction and its underlying cognitive principles. I enjoy running, hiking, baking, and good conversations over a cup of coffee."
-
-[[member]]
     id = "José Luiz Nunes"
     position = "Visiting Student"
     image = "jose_luiz_nunes.jpg"
@@ -148,12 +141,6 @@ weight = 3
     description = "I am interested in using different methods to explore social cognition, interpersonal interactions, and understanding the mind. I also enjoy reading, writing, and staying active."
 
 [[member]]
-    id = "Mishika Govil"
-    position = "Research Assistant"
-    email = "mishgov@stanford.edu"
-    description = "I'm an undergrad junior majoring in MS&E and Philosophy and minoring in CS. I'm interested in exploring how computational technologies differ from and relate to human decision-making processes. What drives me is learning how things work - whether it be in the context of pure math, computing, the physical universe, the human mind, economic structures, or anything else. Outside of work, I love reading, watching sitcoms, and playing ping pong, pickleball, badminton, and basketball! My favorite drink is a vanilla milkshake!"
-
-[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab Affiliate"
 	image = "xi_jia_zhou.jpg"
@@ -162,21 +149,6 @@ weight = 3
 	github = "lauraxijia"
 	website = "https://xijiazho.people.stanford.edu/"
 	description = "I am currently a PhD candidate in Nick Haber's [Autonomous Agents Lab](https://www.autonomousagents.stanford.edu/). I double-majored in cognitive neuroscience and computer sciences from Minerva School. I am interested in how causal representations form our understandings in both the physical world and the social world. In my spare time, I enjoy learning electronics and observing squirrels."
-
-[[member]]
-    id = "Adam Huang"
-    position = "Lab Affiliate"
-    email = "jiaqiadamhuang@gmail.com"
-    github = "adamhuang11111"
-    website = "https://sites.google.com/view/jiaqihuang"
-    description = "I did my undergraduate in physics and mathematics. I am interested in computational models of causal reasoning, and how they support intuitive physical predictions. I am also interested in cognitive biases that shape how we perceive real physical world. I like to play and watch soccer."
-
-[[member]]
-    id = "Helena Vasconcelos"
-    position = "Lab Affiliate"
-    email = "helenav@cs.stanford.edu"
-    website = "https://helenavasc.com/"
-    description = "I am interested in how people interact with explainable AI agents, as well as how we can teach models to reason and explain. I am also working with Michael Bernstein's and Ranjay Krishna's groups. I love to eat Brazilian foods!"
 
 [[member]]
     id = "Ben Prystawski"
@@ -209,6 +181,36 @@ weight = 3
     email = "kanishk.gandhi@stanford.edu"
     website = "http://kanishkgandhi.com/"
     description = "I am interested in reasoning and social cognition; how we can build machines that interact with, learn from and communicate with others."
+
+
+# [[member]]
+#     id = "Mishika Govil"
+#     position = "Research Assistant"
+#     email = "mishgov@stanford.edu"
+#     description = "I'm an undergrad junior majoring in MS&E and Philosophy and minoring in CS. I'm interested in exploring how computational technologies differ from and relate to human decision-making processes. What drives me is learning how things work - whether it be in the context of pure math, computing, the physical universe, the human mind, economic structures, or anything else. Outside of work, I love reading, watching sitcoms, and playing ping pong, pickleball, badminton, and basketball! My favorite drink is a vanilla milkshake!"
+
+# [[member]]
+#     id = "Adam Huang"
+#     position = "Lab Affiliate"
+#     email = "jiaqiadamhuang@gmail.com"
+#     github = "adamhuang11111"
+#     website = "https://sites.google.com/view/jiaqihuang"
+#     description = "I did my undergraduate in physics and mathematics. I am interested in computational models of causal reasoning, and how they support intuitive physical predictions. I am also interested in cognitive biases that shape how we perceive real physical world. I like to play and watch soccer."
+
+# [[member]]
+#     id = "Helena Vasconcelos"
+#     position = "Lab Affiliate"
+#     email = "helenav@cs.stanford.edu"
+#     website = "https://helenavasc.com/"
+#     description = "I am interested in how people interact with explainable AI agents, as well as how we can teach models to reason and explain. I am also working with Michael Bernstein's and Ranjay Krishna's groups. I love to eat Brazilian foods!"
+
+# [[member]]
+#     id = "Britt Besch"
+#     position = "Visiting Student"
+#     email = "britt.besch@t-online.de"
+#     linkedin = "britt-besch"
+#     description = "I am broadly interested in understanding and modeling human-human and human-computer-interaction and its underlying cognitive principles. I enjoy running, hiking, baking, and good conversations over a cup of coffee."
+
 
 # [[member]]
 #     id = "Ruohan Zhang"

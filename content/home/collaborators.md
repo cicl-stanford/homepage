@@ -188,8 +188,8 @@ weight = 5
 [[collaborator]]
 	id = "Max Kleiman-Weiner"
 	image = "max_kleiman-weiner.jpg"
-	position = "MIT"
-	link = "http://www.mit.edu/~maxkw/"
+	position = "Washington"
+	link = "https://faculty.washington.edu/maxkw/"
 	show = true
 
 [[collaborator]]
