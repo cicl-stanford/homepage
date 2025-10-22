@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Constructing causal stories: How mental models shape memory, prediction, and generalization</title>
+      <link>https://cicl.stanford.edu/publication/shin2025constructing/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/shin2025constructing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Probing counterfactual thinking without counterfactual language</title>
@@ -132,15 +141,6 @@
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/petrova2025regret/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning to plan from observed and counterfactual experiences</title>
-      <link>https://cicl.stanford.edu/publication/yang2025learning/</link>
-      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/yang2025learning/</guid>
       <description></description>
     </item>
     

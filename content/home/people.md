@@ -19,7 +19,6 @@ weight = 3
 	id = "Tobias Gerstenberg"
 	position = "Principal Investigator"
 	email = "gerstenberg@stanford.edu"
-#     twitter = "tobigerstenberg"
     bluesky = "tobigerstenberg.bsky.social"
 	github = "tobiasgerstenberg"
 	scholar = "citations?user=d0TfP8EAAAAJ&hl=en&oi=ao"
@@ -43,15 +42,6 @@ weight = 3
     email = "xinyilu@stanford.edu"
     website = "https://xinyilu.net/"
     description = "I'm broadly interested in memory and metacognition — how we remember things, how we think we remember things, and how we form beliefs and make judgments. I like bubble tea."
-
-[[member]]
-	id = "Ari Beller"
-	position = "Graduate Student"
-	email = "aribeller@gmail.com"
-	github = "aribeller"
-	cv = "ari_beller.pdf"
-	website = "ari_beller"
-	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
 
 [[member]]
 	id = "David Rose"
@@ -181,6 +171,16 @@ weight = 3
     email = "kanishk.gandhi@stanford.edu"
     website = "http://kanishkgandhi.com/"
     description = "I am interested in reasoning and social cognition; how we can build machines that interact with, learn from and communicate with others."
+
+
+# [[member]]
+# 	id = "Ari Beller"
+# 	position = "Graduate Student"
+# 	email = "aribeller@gmail.com"
+# 	github = "aribeller"
+# 	cv = "ari_beller.pdf"
+# 	website = "ari_beller"
+# 	description = "I did my undergraduate study in philosophy and my graduate study in computer science. I'm interested in work that integrates the methods and questions of these disciplines to understand the mind. I like to drink water."
 
 
 # [[member]]
@@ -567,6 +567,7 @@ weight = 3
 # position = "Research Assistant"
 # email = "ajadwin@stanford.edu"
 # description = "I'm a junior at Stanford majoring in symbolic systems. I'm interested in understanding cognition through computational models. Outside of this I enjoy playing viola and taking care of my fish and corals!"
+
 
 [[member]]
 id = "Alumni"
