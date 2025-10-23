@@ -172,6 +172,22 @@ weight = 3
     website = "http://kanishkgandhi.com/"
     description = "I am interested in reasoning and social cognition; how we can build machines that interact with, learn from and communicate with others."
 
+[[member]]
+    id = "Ke Fang"
+    position = "Lab Affiliate"
+    email = "fangke@stanford.edu"
+    website = "https://kefangpsych.github.io/"
+    bluesky = "kefang.bsky.social"
+    scholar = "citations?hl=en&user=ptD89lQAAAAJ"
+    description = "I'm interested in computational approaches to understanding how distributed individual minds give rise to emergent collective behaviors—such as cooperation, social norms, and polarization. I drink hot coffee even in the middle of summer."
+
+[[member]]
+    id = "Can Konuk"
+    position = "Lab Affiliate"
+    email = "konuk@stanford.edu"
+    website = "https://konukcan.github.io/konukcan/"
+    description = "I study how people explain events and how causal representations support understanding. A lot of my research focuses on causal selection judgments, whereby people single out the causes of an event that they deem particularly relevant for explaining an outcome. I look both at how people concoct such explanations; each time with a view to get insights into causal cognition."
+
 
 # [[member]]
 # 	id = "Ari Beller"
