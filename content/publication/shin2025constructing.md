@@ -8,7 +8,7 @@
 
 title = "Constructing causal stories: How mental models shape memory, prediction, and generalization"
 date = "2025-10-22"
-authors = ["S. Shin","C. Hu","P. S Muhle-Karbe","T. Gerstenberg"]
+authors = ["S. Shin","C. Hu","P. S. Muhle-Karbe","T. Gerstenberg"]
 publication_types = ["1"]
 publication_short = "_PsyArXiv_"
 publication = "Shin, S., Hu, C., Muhle-Karbe, P. S., Gerstenberg, T. (2025). Constructing causal stories: How mental models shape memory, prediction, and generalization. _PsyArXiv_"
