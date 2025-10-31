@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spot the ball: A benchmark for visual social inference</title>
+      <link>https://cicl.stanford.edu/publication/balamurugan2025ball/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/balamurugan2025ball/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Constructing causal stories: How mental models shape memory, prediction, and generalization</title>
@@ -132,15 +141,6 @@
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/xiang2025how/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning from &#39;what might have been&#39;: A Bayesian model of learning from regret</title>
-      <link>https://cicl.stanford.edu/publication/petrova2025regret/</link>
-      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/petrova2025regret/</guid>
       <description></description>
     </item>
     
