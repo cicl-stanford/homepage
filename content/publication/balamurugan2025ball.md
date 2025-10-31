@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/nehabalamurugan/spot-the-ball-benchmark"}]
+url_custom = [{name = "Github", url = "https://github.com/nehabalamurugan/spot-the-ball-benchmark"}, {name = "Project website", url = "https://nehabalamurugan.com/spot-the-ball-benchmark/"}]
 math = true
 highlight = true
 [header]
