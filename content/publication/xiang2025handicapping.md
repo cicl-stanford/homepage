@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Link", url = "https://www.sciencedirect.com/science/article/pii/S0010027725002288"},{name = "Github", url = "https://github.com/yyyxiang/self-handicapping"}]
+url_custom = [{name = "Link", url = "https://www.sciencedirect.com/science/article/pii/S0010027725002288"},{name = "Github", url = "https://github.com/yyyxiang/self-handicapping"},{name = "Press: Harvard Gazette", url = "https://news.harvard.edu/gazette/story/2025/12/cracking-the-code-of-why-when-some-choose-to-self-handicap/"}]
 math = true
 highlight = true
 [header]
