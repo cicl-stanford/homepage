@@ -7,7 +7,7 @@
 # 5 -> 'Thesis'
 
 title = "How children map causal verbs to different causes across development"
-date = "2025-07-25"
+date = "2025-12-05"
 authors = ["D. Rose","S. Zhang","S. Nichols","E. Markman","T. Gerstenberg"]
 publication_types = ["2"]
 publication_short = "_Nature Human Behaviour_"
@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/davdrose/cause_burn_development"}]
+url_custom = [{name = "Link", url = "https://www.nature.com/articles/s41562-025-02345-9"},{name = "Github", url = "https://github.com/davdrose/cause_burn_development"}]
 math = true
 highlight = true
 [header]
