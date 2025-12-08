@@ -24,7 +24,7 @@ url_slides = ""
 url_video = "https://www.youtube.com/watch?v=_jhCXqqtmdA&ab_channel=CausalityinCognitionLab"
 url_poster = "posters/wu2023replacement-poster.pdf"
 url_source = ""
-url_custom = [{name = "Github", url = "https://github.com/cicl-stanford/responsibility_replacement"}]
+url_custom = [{name = "Link", url = "https://www.sciencedirect.com/science/article/pii/S0010027723002809"}, {name = "Github", url = "https://github.com/cicl-stanford/responsibility_replacement"}]
 math = true
 highlight = true
 [header]
