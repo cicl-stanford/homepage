@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Imagining and building wise machines: The centrality of AI metacognition</title>
+      <link>https://cicl.stanford.edu/publication/johnson2026wise/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/johnson2026wise/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How children map causal verbs to different causes across development</title>
@@ -132,15 +141,6 @@
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/brockbank2025deep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Language models assign responsibility based on actual rather than counterfactual contributions</title>
-      <link>https://cicl.stanford.edu/publication/xiang2025how/</link>
-      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/xiang2025how/</guid>
       <description></description>
     </item>
     
