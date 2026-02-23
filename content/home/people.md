@@ -109,6 +109,16 @@ weight = 3
     description = "I'm interested in ethics in AI development, how AI models express moral values and judgements (regarding the reflection of designers choices), and political repercussions of AI. I received my undergraduate in law, MsC in computer science also are of my ongoing PhD. I love drinking and making coffee, taekwondo poomsae and surfing. Have enjoyed hiking CA."
 
 [[member]]
+    id = "Luca Schulze Buschoff"
+    position = "Visiting Student"
+    email = "luca.schulze-buschoff@helmholtz-munich.de"
+    twitter = "lucaschubu"
+    scholar = "citations?user=K0uLclsAAAAJ&hl=de"
+    cv = "luca_schulze_buschoff.pdf"
+    website = "https://lsbuschoff.github.io/"
+    description = "I'm a PhD student working with Eric Schulz in Munich and visiting the Causality in Cognition Lab. I'm interested in visual cognition in humans and machines. In past projects, I've applied methods from psychology to better understand how modern vision models perceive and interpret the world."
+
+[[member]]
     id = "Ricky Ma"
     position = "Research Assistant"
     email = "ricky.ma@alumni.ubc.ca"
