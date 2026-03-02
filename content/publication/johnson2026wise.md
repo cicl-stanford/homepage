@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Link", url = "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(26)00002-1"}]
 math = true
 highlight = true
 [header]
