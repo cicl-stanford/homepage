@@ -118,6 +118,16 @@ weight = 3
     website = "https://lsbuschoff.github.io/"
     description = "I'm a PhD student working with Eric Schulz in Munich and visiting the Causality in Cognition Lab. I'm interested in visual cognition in humans and machines. In past projects, I've applied methods from psychology to better understand how modern vision models perceive and interpret the world."
 
+
+[[member]]
+    id = "María Victoria Carro"
+    position = "Visiting Student"
+    image = "maria_victoria_carro.jpg"
+    email = "victoriacarrouba@gmail.com"
+    scholar = "citations?user=Ndc4M3YAAAAJ&hl=es"
+    linkedin = "maria-victoria-carro-2409821b6/?locale=en"
+    description = "I am interested in how humans and AI systems reason about causation and responsibility, with a  focus on legal contexts."
+
 [[member]]
     id = "Ricky Ma"
     position = "Research Assistant"
