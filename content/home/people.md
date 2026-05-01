@@ -99,27 +99,6 @@ weight = 3
     description = "I'm interested in computational and behavioral models of cognition, including social, moral, and causal reasoning. I did my undergraduate studies in data science and philosophy. I like coffee."
 
 [[member]]
-    id = "José Luiz Nunes"
-    position = "Visiting Student"
-    image = "jose_luiz_nunes.jpg"
-    email = "jlnunes@stanford.edu"
-    github = "joseluizn"
-    bluesky = "joseluiz.bsky.social"
-	scholar = "citations?user=8V-ZZZEAAAAJ&hl=en"
-    description = "I'm interested in ethics in AI development, how AI models express moral values and judgements (regarding the reflection of designers choices), and political repercussions of AI. I received my undergraduate in law, MsC in computer science also are of my ongoing PhD. I love drinking and making coffee, taekwondo poomsae and surfing. Have enjoyed hiking CA."
-
-[[member]]
-    id = "Luca Schulze Buschoff"
-    position = "Visiting Student"
-    email = "luca.schulze-buschoff@helmholtz-munich.de"
-    twitter = "lucaschubu"
-    scholar = "citations?user=K0uLclsAAAAJ&hl=de"
-    cv = "luca_schulze_buschoff.pdf"
-    website = "https://lsbuschoff.github.io/"
-    description = "I'm a PhD student working with Eric Schulz in Munich and visiting the Causality in Cognition Lab. I'm interested in visual cognition in humans and machines. In past projects, I've applied methods from psychology to better understand how modern vision models perceive and interpret the world."
-
-
-[[member]]
     id = "María Victoria Carro"
     position = "Visiting Student"
     image = "maria_victoria_carro.jpg"
@@ -143,12 +122,6 @@ weight = 3
     email = "shrutisr@stanford.edu"
     github = "shruti-sridhar"
     description = "I am a sophomore at Stanford looking to major in Computer Science on the AI track. I am interested in using computational models to explore causality in social settings. Outside of that, I enjoy dancing and amateur vegan baking."
-
-[[member]]
-    id = "Sunny Yu"
-    position = "Research Assistant"
-    email = "syu03@stanford.edu"
-    description = "I am interested in using different methods to explore social cognition, interpersonal interactions, and understanding the mind. I also enjoy reading, writing, and staying active."
 
 [[member]]
 	id = "Xi Jia (Laura) Zhou"
@@ -184,13 +157,6 @@ weight = 3
     email = "pgzhu@stanford.edu"
     twitter = "petergzhu"
     description = "I am a PhD Student in the [Stanford Social Learning Lab](http://sll.stanford.edu/). My research interests focus on the representations and motivations that guide learning and play early in life. I like to eat tacos and drink coffee."
-
-[[member]]
-    id = "Kanishk Gandhi"
-    position = "Lab Affiliate"
-    email = "kanishk.gandhi@stanford.edu"
-    website = "http://kanishkgandhi.com/"
-    description = "I am interested in reasoning and social cognition; how we can build machines that interact with, learn from and communicate with others."
 
 [[member]]
     id = "Ke Fang"
@@ -604,6 +570,38 @@ weight = 3
 # email = "ajadwin@stanford.edu"
 # description = "I'm a junior at Stanford majoring in symbolic systems. I'm interested in understanding cognition through computational models. Outside of this I enjoy playing viola and taking care of my fish and corals!"
 
+# [[member]]
+# id = "José Luiz Nunes"
+# position = "Visiting Student"
+# image = "jose_luiz_nunes.jpg"
+# email = "jlnunes@stanford.edu"
+# github = "joseluizn"
+# bluesky = "joseluiz.bsky.social"
+# scholar = "citations?user=8V-ZZZEAAAAJ&hl=en"
+# description = "I'm interested in ethics in AI development, how AI models express moral values and judgements (regarding the reflection of designers choices), and political repercussions of AI. I received my undergraduate in law, MsC in computer science also are of my ongoing PhD. I love drinking and making coffee, taekwondo poomsae and surfing. Have enjoyed hiking CA."
+
+# [[member]]
+# id = "Luca Schulze Buschoff"
+# position = "Visiting Student"
+# email = "luca.schulze-buschoff@helmholtz-munich.de"
+# twitter = "lucaschubu"
+# scholar = "citations?user=K0uLclsAAAAJ&hl=de"
+# cv = "luca_schulze_buschoff.pdf"
+# website = "https://lsbuschoff.github.io/"
+# description = "I'm a PhD student working with Eric Schulz in Munich and visiting the Causality in Cognition Lab. I'm interested in visual cognition in humans and machines. In past projects, I've applied methods from psychology to better understand how modern vision models perceive and interpret the world."
+
+# [[member]]
+# id = "Sunny Yu"
+# position = "Research Assistant"
+# email = "syu03@stanford.edu"
+# description = "I am interested in using different methods to explore social cognition, interpersonal interactions, and understanding the mind. I also enjoy reading, writing, and staying active."
+
+# [[member]]
+# id = "Kanishk Gandhi"
+# position = "Lab Affiliate"
+# email = "kanishk.gandhi@stanford.edu"
+# website = "http://kanishkgandhi.com/"
+# description = "I am interested in reasoning and social cognition; how we can build machines that interact with, learn from and communicate with others."
 
 [[member]]
 id = "Alumni"
