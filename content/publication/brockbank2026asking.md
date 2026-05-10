@@ -8,7 +8,7 @@
 
 title = "Asking the right questions? What people learn about strangers in conversation"
 date = "2026-05-09"
-authors = ["E. Brockbank","N. Dee","M. O'Keeffe","W. Mahaphanit","T. Gerstenberg","J. E Fan","R. D Hawkins"]
+authors = ["E. Brockbank","N. Dee","M. O'Keeffe","W. Mahaphanit","T. Gerstenberg","J. E. Fan","R. D. Hawkins"]
 publication_types = ["3"]
 publication_short = "_Proceedings of the 48th Annual Conference of the Cognitive Science Society_"
 publication = "Brockbank, E., Dee, N., O'Keeffe, M., Mahaphanit, W., Gerstenberg, T., Fan, J. E., Hawkins, R. D. (2026). Asking the right questions? What people learn about strangers in conversation. _Proceedings of the 48th Annual Conference of the Cognitive Science Society_, 2026."

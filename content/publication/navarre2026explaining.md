@@ -8,7 +8,7 @@
 
 title = "Explaining order effects in counterfactual reasoning"
 date = "2026-05-09"
-authors = ["N. Navarre","T. Quillien","D. Lassiter","T. Gerstenberg","N. R Bramley"]
+authors = ["N. Navarre","T. Quillien","D. Lassiter","T. Gerstenberg","N. R. Bramley"]
 publication_types = ["3"]
 publication_short = "_Proceedings of the 48th Annual Conference of the Cognitive Science Society_"
 publication = "Navarre, N., Quillien, T., Lassiter, D., Gerstenberg, T., Bramley, N. R. (2026). Explaining order effects in counterfactual reasoning. _Proceedings of the 48th Annual Conference of the Cognitive Science Society_, 2026."

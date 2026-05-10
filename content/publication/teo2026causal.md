@@ -8,7 +8,7 @@
 
 title = "Causal language about social interactions"
 date = "2026-05-09"
-authors = ["V. Teo","C. Augusta Bergey","T. Gerstenberg"]
+authors = ["V. Teo","C. A. Bergey","T. Gerstenberg"]
 publication_types = ["3"]
 publication_short = "_Proceedings of the 48th Annual Conference of the Cognitive Science Society_"
 publication = "Teo, V., Bergey, C. A., Gerstenberg, T. (2026). Causal language about social interactions. _Proceedings of the 48th Annual Conference of the Cognitive Science Society_, 2026."

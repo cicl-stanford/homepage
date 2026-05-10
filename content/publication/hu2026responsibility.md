@@ -8,7 +8,7 @@
 
 title = "Responsibility for influencing others"
 date = "2026-05-09"
-authors = ["C. Hu","T. Gerstenberg","S. A Wu"]
+authors = ["C. Hu","T. Gerstenberg","S. A. Wu"]
 publication_types = ["3"]
 publication_short = "_Proceedings of the 48th Annual Conference of the Cognitive Science Society_"
 publication = "Hu, C., Gerstenberg, T., Wu, S. A. (2026). Responsibility for influencing others.  _Proceedings of the 48th Annual Conference of the Cognitive Science Society_, 2026."

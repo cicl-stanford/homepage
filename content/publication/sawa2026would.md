@@ -8,7 +8,7 @@
 
 title = "``I would not have done that'': Outcome knowledge distorts memory for decisions made minutes ago"
 date = "2026-05-09"
-authors = ["K. Sawa","C. Zoe Cremer","T. Gerstenberg","S. Manohar","M. Mazor"]
+authors = ["K. Sawa","C. Z. Cremer","T. Gerstenberg","S. Manohar","M. Mazor"]
 publication_types = ["3"]
 publication_short = "_Proceedings of the 48th Annual Conference of the Cognitive Science Society_"
 publication = "Sawa, K., Cremer, C. Z., Gerstenberg, T., Manohar, S., Mazor, M. (2026). ``I would not have done that'': Outcome knowledge distorts memory for decisions made minutes ago. _Proceedings of the 48th Annual Conference of the Cognitive Science Society_, 2026."

@@ -8,7 +8,7 @@
 
 title = "Effective explanations support planning under uncertainty"
 date = "2026-05-09"
-authors = ["H. Zhou","B. Besch","C. M Wu","T. Gerstenberg"]
+authors = ["H. Zhou","B. Besch","C. M. Wu","T. Gerstenberg"]
 publication_types = ["3"]
 publication_short = "_Proceedings of the 48th Annual Conference of the Cognitive Science Society_"
 publication = "Zhou, H., Besch, B., Wu, C. M., Gerstenberg, T. (2026). Effective explanations support planning under uncertainty. _Proceedings of the 48th Annual Conference of the Cognitive Science Society_, 2026."
