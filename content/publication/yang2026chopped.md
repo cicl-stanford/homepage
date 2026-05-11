@@ -8,7 +8,7 @@
 
 title = "From chopped to cooked: Design and inference in physical environments"
 date = "2026-05-09"
-authors = ["J. Yang","L. Wong","J. E Fan","T. Gerstenberg"]
+authors = ["J. Yang","L. Wong","J. E. Fan","T. Gerstenberg"]
 publication_types = ["3"]
 publication_short = "_Proceedings of the 48th Annual Conference of the Cognitive Science Society_"
 publication = "Yang, J., Wong, L., Fan, J. E., Gerstenberg, T. (2026). From chopped to cooked: Design and inference in physical environments. _Proceedings of the 48th Annual Conference of the Cognitive Science Society_, 2026."

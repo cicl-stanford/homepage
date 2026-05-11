@@ -6,12 +6,12 @@
 # 4 -> 'Book chapter',
 # 5 -> 'Thesis'
 
-title = "``I would not have done that'': Outcome knowledge distorts memory for decisions made minutes ago"
+title = "'I would not have done that': Outcome knowledge distorts memory for decisions made minutes ago"
 date = "2026-05-09"
 authors = ["K. Sawa","C. Z. Cremer","T. Gerstenberg","S. Manohar","M. Mazor"]
 publication_types = ["3"]
 publication_short = "_Proceedings of the 48th Annual Conference of the Cognitive Science Society_"
-publication = "Sawa, K., Cremer, C. Z., Gerstenberg, T., Manohar, S., Mazor, M. (2026). ``I would not have done that'': Outcome knowledge distorts memory for decisions made minutes ago. _Proceedings of the 48th Annual Conference of the Cognitive Science Society_, 2026."
+publication = "Sawa, K., Cremer, C. Z., Gerstenberg, T., Manohar, S., Mazor, M. (2026). 'I would not have done that': Outcome knowledge distorts memory for decisions made minutes ago. _Proceedings of the 48th Annual Conference of the Cognitive Science Society_, 2026."
 abstract = "Remembering one's past decisions is critical for learning from delayed feedback and maintaining an accurate self-model. Across two gamified experimental paradigms and three experiments (total N = 500), we find that a selective forgetting of unsuccessful guesses operates within minutes, that it evades introspection, and that it affects confidence ratings in memory judgments. Analysis of memory errors reveals that, in reconstructing their past decisions, people integrate what they remember deciding, what they believe they would have decided, and what they would decide now if asked to make the same decision again."
 image_preview = ""
 selected = false
