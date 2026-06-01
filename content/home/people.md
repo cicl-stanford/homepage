@@ -92,6 +92,13 @@ weight = 3
     description = "I'm curious about how people can understand each other, and how we confirm that understanding through predictions, explanations, and collaborative action. Recently I'm interested in how psychology can inform better ways of interacting with AI agents! Coffee flows through my veins."
 
 [[member]]
+    id = "Zhenze Zhang"
+    position = "Master's Student"
+    email = "zhenzez@stanford.edu"
+    github = "zhenzezhang"
+    description = "I am interested in using computational modeling to understand how people reason about the world, how they collaborate and communicate with others, and how they form judgments about other minds or intelligent systems. I'm super addicted to black tea."
+
+[[member]]
     id = "Verona Teo"
     position = "Predoctoral Researcher"
     email = "veronateo@stanford.edu"
