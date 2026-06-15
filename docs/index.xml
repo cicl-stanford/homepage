@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AI Assistants Overassist</title>
+      <link>https://cicl.stanford.edu/publication/teo2026assistants/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/teo2026assistants/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>&#39;I would not have done that&#39;: Outcome knowledge distorts memory for decisions made minutes ago</title>
@@ -132,15 +141,6 @@
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/wu2026helping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Imagining and building wise machines: The centrality of AI metacognition</title>
-      <link>https://cicl.stanford.edu/publication/johnson2026wise/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/johnson2026wise/</guid>
       <description></description>
     </item>
     
