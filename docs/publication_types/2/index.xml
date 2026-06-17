@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cicl.stanford.edu/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Seeing, hearing, and feeling causation</title>
+      <link>https://cicl.stanford.edu/publication/chase2026seeing/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/chase2026seeing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Imagining and building wise machines: The centrality of AI metacognition</title>
