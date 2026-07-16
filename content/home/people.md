@@ -44,6 +44,16 @@ weight = 3
     description = "I'm broadly interested in memory and metacognition — how we remember things, how we think we remember things, and how we form beliefs and make judgments. I like bubble tea."
 
 [[member]]
+    id = "Yang Xiang"
+    position = "Postdoctoral Researcher"
+    email = "yyyxiang@stanford.edu"
+    github = "yyyxiang"
+    bluesky = "yangxiang.bsky.social"
+    scholar = "citations?user=ItgcL6gAAAAJ"
+    website = "https://yyyxiang.github.io/"
+    description = "My research asks how people build richly structured intuitive theories and use them to plan and make decisions. I like iced matcha."
+
+[[member]]
 	id = "David Rose"
 	position = "Graduate Student"
 	email = "davdrose@stanford.edu"
@@ -104,15 +114,6 @@ weight = 3
     email = "veronateo@stanford.edu"
     twitter = "verona_teo"
     description = "I'm interested in computational and behavioral models of cognition, including social, moral, and causal reasoning. I did my undergraduate studies in data science and philosophy. I like coffee."
-
-[[member]]
-    id = "María Victoria Carro"
-    position = "Visiting Student"
-    image = "maria_victoria_carro.jpg"
-    email = "victoriacarrouba@gmail.com"
-    scholar = "citations?user=Ndc4M3YAAAAJ&hl=es"
-    linkedin = "maria-victoria-carro-2409821b6/?locale=en"
-    description = "I am interested in how humans and AI systems reason about causation and responsibility, with a  focus on legal contexts."
 
 [[member]]
     id = "Ricky Ma"
@@ -181,6 +182,15 @@ weight = 3
     website = "https://konukcan.github.io/konukcan/"
     description = "I study how people explain events and how causal representations support understanding. A lot of my research focuses on causal selection judgments, whereby people single out the causes of an event that they deem particularly relevant for explaining an outcome. I look both at how people concoct such explanations; each time with a view to get insights into causal cognition."
 
+
+# [[member]]
+#     id = "María Victoria Carro"
+#     position = "Visiting Student"
+#     image = "maria_victoria_carro.jpg"
+#     email = "victoriacarrouba@gmail.com"
+#     scholar = "citations?user=Ndc4M3YAAAAJ&hl=es"
+#     linkedin = "maria-victoria-carro-2409821b6/?locale=en"
+#     description = "I am interested in how humans and AI systems reason about causation and responsibility, with a  focus on legal contexts."
 
 # [[member]]
 # 	id = "Ari Beller"
@@ -272,16 +282,6 @@ weight = 3
 # scholar = "citations?hl=en&user=r90OelAAAAAJ"
 # website = "http://anie.me/"
 # description = "I'm a Computer Science PhD student focusing on Artificial Intelligence. I'm interested in allowing AI systems to have causal reasoning capabilities. I received my master of science in Symbolic Systems. I like to solve puzzles in my spare time."
-
-
-# [[member]]
-# id = "Yang Xiang"
-# position = "Visiting Student"
-# email = "yyx@g.harvard.edu"
-# github = "yyyxiang"
-# twitter = "yyyxiang"
-# scholar = "citations?user=otxsJugAAAAJ"
-# description = "I'm a PhD student in the Computational Cognitive Neuroscience Lab at Harvard University. My research centers around understanding the cognitive foundations of collaboration. More specifically, I study how we make inferences about ourselves and others, and how we leverage those inferences to improve collaboration, focusing on our intuitive theories of competence and effort. I like (a good) matcha latte."
 
 
 # [[member]]
