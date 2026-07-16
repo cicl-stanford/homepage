@@ -9,7 +9,7 @@
 title = "A communication-first account of explanation"
 date = "2026-06-26"
 authors = ["J. Harding","T. Gerstenberg","T. Icard"]
-publication_types = ["1"]
+publication_types = ["2"]
 publication_short = "_Noûs_"
 publication = "Harding J., Gerstenberg T., Icard T. (2026). A communication-first account of explanation. _Noûs_."
 abstract = "This paper develops a formal account of causal explanation, grounded in a theory of conversational pragmatics, and inspired by the interventionist idea that explanation is about asking and answering what-if-things-had-been-different questions. We illustrate the fruitfulness of the account, relative to previous accounts, by showing that widely recognized 'explanatory virtues' emerge naturally, as do subtle empirical patterns concerning the impact of norms on causal judgments. This shows the value of a 'communication-first' approach to explanation: getting clear on explanation's communicative dimension is an important prerequisite for philosophical work on explanation. The result is a simple but powerful framework for incorporating insights from the cognitive sciences into philosophical work on explanation, which will be useful for philosophers or cognitive scientists interested in explanation."
@@ -24,7 +24,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#url_custom = [{name = "Github", url = ""}]
+url_custom = [{name = "Link", url = "https://onlinelibrary.wiley.com/doi/10.1111/nous.70053"}]
 math = true
 highlight = true
 [header]
