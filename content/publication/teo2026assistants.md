@@ -8,7 +8,7 @@
 
 title = "AI assistants overassist"
 date = "2026-06-15"
-authors = ["V. Teo","R. Jain","T. Gerstenberg","M. Kleiman-Weiner"]
+authors = ["V. Teo\\*","R. Jain\\*","T. Gerstenberg","M. Kleiman-Weiner"]
 publication_types = ["1"]
 publication_short = "_arXiv_"
 publication = "Teo V., Jain R., Gerstenberg T., Kleiman-Weiner M. (2026). AI assistants overassist. _arXiv_."
