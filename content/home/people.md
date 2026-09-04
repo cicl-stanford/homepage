@@ -10,8 +10,6 @@ date = "2017-11-18"
 title = "People"
 subtitle = "... who are doing the work"
 
-# We are also looking for [**undergraduate research assistants**](news/undergraduate_assistant/) to work with us in the Fall quarter. If you are interested in applying to be an RA take a look at the link above.
-
 # Order that this section will appear in.
 weight = 3
 
@@ -116,6 +114,12 @@ weight = 3
     bluesky = "kefang.bsky.social"
     scholar = "citations?hl=en&user=ptD89lQAAAAJ"
     description = "I'm interested in computational approaches to understanding how distributed individual minds give rise to emergent collective behaviors—such as cooperation, social norms, and polarization. I drink hot coffee even in the middle of summer."
+
+[[member]]
+    id = "Matthew Shinkle"
+    position = "Lab Affiliate"
+    website = "https://matthewshinkle.com/"
+    description = "I study how humans and AIs construct internal representations and how these representations influence their behavior. My current work focuses on how moral judgments are made. I like strong coffee."
 
 # [[member]]
 # id = "María Victoria Carro"
