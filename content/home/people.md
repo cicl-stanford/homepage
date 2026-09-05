@@ -612,7 +612,7 @@ id = "Alumni"
 description = """
 <ul>
   <li><a href='https://sarahawu.github.io/'>Sarah Wu</a> (graduate student): Next step 👣 Postdoc, Harvard University.</li>
-  <li><a href='https://xinyilu.net/'>Xinyi Lu</a> (postdoc): Next step 👣 Assistant Professor, Singapore.</li>
+  <li><a href='https://xinyilu.net/'>Xinyi Lu</a> (postdoc): Next step 👣 Assistant Professor at James Cook University, Singapore.</li>
   <li><a href='https://davdrose.github.io/'>David Rose</a> (graduate student): Next step 👣 Postdoctoral Fellow, Cornell University.</li>
   <li><a href='https://janphilippfranken.github.io/'>Jan-Philipp Fränken</a> (postdoc): Next step 👣 Research Scientist at Google Deepmind, London.</li>
   <li><a href='https://www.siyingzhg.com/'>Siying Zhang</a> (research assistant): Next step 👣 PhD student at University of Washington.</li>
