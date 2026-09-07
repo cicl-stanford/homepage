@@ -69,6 +69,13 @@ weight = 3
     description = "I'm interested in computational and behavioral models of cognition, including social, moral, and causal reasoning. I did my undergraduate studies in data science and philosophy. I like coffee."
 
 [[member]]
+    id = "Moura Saad"
+    position = "Predoc"
+    email = "mouras@stanford.edu"
+    scholar = "citations?user=BSdwmnUAAAAJ&hl=en"
+    description = "I’m interested in how people infer hidden social rules in unfamiliar contexts and use causal reasoning to predict what might happen next. I'm also fond of the occasional cup of masala chai."
+
+[[member]]
     id = "Chuqi Hu"
     position = "Master's Student"
     email = "chuqihu@stanford.edu"
