@@ -23,11 +23,11 @@ publication_name = ["T. Gerstenberg", "T. Gerstenberg\\*"]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Assistant Professor in Computer Science (by courtesy), 2026-present"
+  course = "Associate Professor in Psychology and Computer Science (by courtesy), 2026-present"
   institution = "Stanford University"
 
 [[education.courses]]
-  course = "Assistant Professor in Psychology, 2018-present"
+  course = "Assistant Professor in Psychology, 2018-2026"
   institution = "Stanford University"
 
 [[education.courses]]
@@ -36,12 +36,12 @@ publication_name = ["T. Gerstenberg", "T. Gerstenberg\\*"]
   #year = 2013-2018
 
 [[education.courses]]
-  course = "PhD in Cognitive Science, 2013"
+  course = "PhD in Cognitive Science, 2009-2013"
   institution = "University College London"
   #year = 2009-2013
 
 [[education.courses]]
-  course = "MSc in Cognitive Science, 2008"
+  course = "MSc in Cognitive Science, 2007-2008"
   institution = "University College London"
   #year = 2007-2008
 

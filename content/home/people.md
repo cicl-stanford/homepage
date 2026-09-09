@@ -66,6 +66,7 @@ weight = 3
     position = "Graduate Student"
     email = "veronateo@stanford.edu"
     twitter = "verona_teo"
+	website = "https://veronateo.github.io/"
     description = "I'm interested in computational and behavioral models of cognition, including social, moral, and causal reasoning. I did my undergraduate studies in data science and philosophy. I like coffee."
 
 [[member]]
