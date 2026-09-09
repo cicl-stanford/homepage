@@ -45,6 +45,17 @@ weight = 3
     description = "My research asks how people build richly structured intuitive theories and use them to plan and make decisions. I like iced matcha."
 
 [[member]]
+    id = "Dae Houlihan"
+    position = "Postdoctoral Researcher"
+    email = "daeh@stanford.edu"
+    bluesky = "https://bsky.app/profile/dae.bsky.social"
+	github = "daeh"
+	scholar = "citations?user=Exyxd8YAAAAJ"
+	cv = "https://daeh.info/assets/SeanDaeHoulihan_CV.pdf"
+	website = "[tobias_gerstenberg](https://daeh.info/)"
+    description = "I study the cognitive mechanisms of emotional intelligence. I'm interested in how social cognition works, when it’s effective, and what causes it to fail. Did someone say high mountain oolong?"    
+
+[[member]]
     id = "Can Konuk"
     position = "Postdoctoral Researcher"
     email = "konuk@stanford.edu"
