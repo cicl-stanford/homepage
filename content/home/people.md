@@ -48,11 +48,11 @@ weight = 3
     id = "Dae Houlihan"
     position = "Postdoctoral Researcher"
     email = "daeh@stanford.edu"
-    bluesky = "https://bsky.app/profile/dae.bsky.social"
+    bluesky = "dae.bsky.social"
 	github = "daeh"
 	scholar = "citations?user=Exyxd8YAAAAJ"
-	cv = "https://daeh.info/assets/SeanDaeHoulihan_CV.pdf"
-	website = "[tobias_gerstenberg](https://daeh.info/)"
+	cv = "dae_houlihan.pdf"
+	website = "https://daeh.info/"
     description = "I study the cognitive mechanisms of emotional intelligence. I'm interested in how social cognition works, when it’s effective, and what causes it to fail. Did someone say high mountain oolong?"    
 
 [[member]]
