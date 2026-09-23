@@ -88,6 +88,13 @@ weight = 3
     description = "I’m interested in how people infer hidden social rules in unfamiliar contexts and use causal reasoning to predict what might happen next. I'm also fond of the occasional cup of masala chai."
 
 [[member]]
+    id = "Divya Sundar"
+    position = "Predoc"
+    email = "divyasun@stanford.edu"
+    website = "https://divyasundar-codes.github.io/"
+    description = "I am interested in building computational models of social and moral cognition and using these insights to improve human-AI collaboration. I enjoy making and drinking matcha lattes."	
+
+[[member]]
     id = "Chuqi Hu"
     position = "Master's Student"
     email = "chuqihu@stanford.edu"
