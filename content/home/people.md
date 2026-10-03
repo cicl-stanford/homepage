@@ -108,6 +108,16 @@ weight = 3
     description = "I am interested in using computational modeling to understand how people reason about the world, how they collaborate and communicate with others, and how they form judgments about other minds or intelligent systems. I'm super addicted to black tea."
 
 [[member]]
+    id = "Puyin Li"
+    position = "CS PhD Rotation Student"
+    email = "puyinli@stanford.edu"
+	github = "Paulineli"
+    twitter = "PuyinLi"
+    scholar = "citations?user=w0wjJZ4AAAAJ"
+    website = "https://paulineli.github.io/"
+    description = "I am interested in evaluating, improving, and interpreting foundation models’ reasoning abilities as cognitive agents, which spans topics including causality, visual understanding and reasoning, mechanistic interpretability, formal methods, etc."	
+
+[[member]]
 	id = "Xi Jia (Laura) Zhou"
 	position = "Lab Affiliate"
 	image = "xi_jia_zhou.jpg"
