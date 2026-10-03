@@ -39,59 +39,10 @@ weight = 5
 	show = true
 
 [[collaborator]]
-	id = "Chelsea Finn"
-	image = "chelsea_finn.jpeg"
-	position = "Stanford"
-	link = "https://ai.stanford.edu/~cbfinn/"
-	show = true	
-
-[[collaborator]]
-	id = "Jeannette Bohg"
-	image = "jeannette_bohg.png"
-	position = "Stanford"
-	link = "https://web.stanford.edu/~bohg/"
-	show = true		
-
-[[collaborator]]
 	id = "Hyowon Gweon"
 	image = "hyowon_gweon.jpg"
 	position = "Stanford"
 	link = "http://sll.stanford.edu/"
-	show = true
-
-[[collaborator]]
-	id = "Scott Linderman"
-	image = "scott_linderman.jpeg"
-	position = "Stanford"
-	link = "https://web.stanford.edu/~swl1/"
-	show = true	
-
-[[collaborator]]
-	id = "Jiajun Wu"
-	image = "jiajun_wu.jpeg"
-	position = "Stanford"
-	link = "https://jiajunwu.com/"
-	show = true
-
-[[collaborator]]
-	id = "Sean Follmer"
-	image = "sean_follmer.jpeg"
-	position = "Stanford"
-	link = "https://profiles.stanford.edu/sean-follmer"
-	show = true
-
-[[collaborator]]
-	id = "Rob MacCoun"
-	image = "rob_maccoun.jpg"
-	position = "Stanford"
-	link = "https://law.stanford.edu/directory/robert-j-maccoun/"
-	show = true
-
-[[collaborator]]
-	id = "Michael Bernstein"
-	image = "michael_bernstein.jpeg"
-	position = "Stanford"
-	link = "https://hci.stanford.edu/msb/"
 	show = true
 
 [[collaborator]]
@@ -116,13 +67,6 @@ weight = 5
 	show = true
 
 [[collaborator]]
-	id = "Gail Heyman"
-	image = "gail_heyman.jpeg"
-	position = "UC San Diego"
-	link = "http://heymanlab.ucsd.edu/"
-	show = true		
-
-[[collaborator]]
 	id = "Neil Bramley"
 	image = "neil_bramley.jpg"
 	position = "Edinburgh"
@@ -130,25 +74,104 @@ weight = 5
 	show = true
 
 [[collaborator]]
+	id = "Julian Jara-Ettinger"
+	image = "julian_jara-ettinger.jpg"
+	position = "Yale"
+	link = "https://psychology.yale.edu/people/julian-jara-ettinger"
+	show = true
+
+[[collaborator]]
+	id = "Max Kleiman-Weiner"
+	image = "max_kleiman-weiner.jpg"
+	position = "Washington"
+	link = "https://faculty.washington.edu/maxkw/"
+	show = true
+
+[[collaborator]]
+	id = "Tomer Ullman"
+	image = "tomer_ullman.jpg"
+	position = "Harvard"
+	link = "http://www.mit.edu/~tomeru/"
+	show = true
+
+# below not shown
+
+[[collaborator]]
+	id = "Chelsea Finn"
+	image = "chelsea_finn.jpeg"
+	position = "Stanford"
+	link = "https://ai.stanford.edu/~cbfinn/"
+	show = false
+
+[[collaborator]]
+	id = "Jeannette Bohg"
+	image = "jeannette_bohg.png"
+	position = "Stanford"
+	link = "https://web.stanford.edu/~bohg/"
+	show = false
+
+[[collaborator]]
+	id = "Scott Linderman"
+	image = "scott_linderman.jpeg"
+	position = "Stanford"
+	link = "https://web.stanford.edu/~swl1/"
+	show = false
+
+[[collaborator]]
+	id = "Jiajun Wu"
+	image = "jiajun_wu.jpeg"
+	position = "Stanford"
+	link = "https://jiajunwu.com/"
+	show = false
+
+[[collaborator]]
+	id = "Sean Follmer"
+	image = "sean_follmer.jpeg"
+	position = "Stanford"
+	link = "https://profiles.stanford.edu/sean-follmer"
+	show = false
+
+[[collaborator]]
+	id = "Rob MacCoun"
+	image = "rob_maccoun.jpg"
+	position = "Stanford"
+	link = "https://law.stanford.edu/directory/robert-j-maccoun/"
+	show = false
+
+[[collaborator]]
+	id = "Michael Bernstein"
+	image = "michael_bernstein.jpeg"
+	position = "Stanford"
+	link = "https://hci.stanford.edu/msb/"
+	show = false
+
+[[collaborator]]
+	id = "Gail Heyman"
+	image = "gail_heyman.jpeg"
+	position = "UC San Diego"
+	link = "http://heymanlab.ucsd.edu/"
+	show = false
+
+[[collaborator]]
 	id = "Fiery Cushman"
 	image = "fiery_cushman.jpg"
 	position = "Harvard"
 	link = "https://psychology.fas.harvard.edu/people/fiery-cushman"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Joseph Halpern"
 	image = "joseph_halpern.jpg"
 	position = "Cornell"
 	link = "https://www.cs.cornell.edu/home/halpern/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Ilker Yildirim"
 	image = "ilker_yildirim.jpg"
 	position = "Yale"
 	link = "http://cncl.yale.edu/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Jonathan Kominsky"
@@ -162,35 +185,21 @@ weight = 5
 	image = "jonathan_phillips.jpg"
 	position = "Dartmouth"
 	link = "https://www.dartmouth.edu/~phillab/"
-	show = true
-
-[[collaborator]]
-	id = "Julian Jara-Ettinger"
-	image = "julian_jara-ettinger.jpg"
-	position = "Yale"
-	link = ""
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Kevin Smith"
 	image = "kevin_smith.png"
 	position = "MIT"
 	link = "http://www.mit.edu/~k2smith/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Joshua Knobe"
 	image = "joshua_knobe.jpg"
 	position = "Yale"
 	link = "https://psychology.yale.edu/people/joshua-knobe"
-	show = true
-
-[[collaborator]]
-	id = "Max Kleiman-Weiner"
-	image = "max_kleiman-weiner.jpg"
-	position = "Washington"
-	link = "https://faculty.washington.edu/maxkw/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Ralf Mayrhofer"
@@ -204,21 +213,13 @@ weight = 5
 	image = "sam_gershman.jpeg"
 	position = "Harvard"
 	link = "https://gershmanlab.com/people/sam.html"
-	show = true
-
-[[collaborator]]
-	id = "Tomer Ullman"
-	image = "tomer_ullman.jpg"
-	position = "Harvard"
-	link = "http://www.mit.edu/~tomeru/"
-	show = true
+	show = false
 
 [[collaborator]]
 	id = "Todd Gureckis"
 	image = "todd_gureckis.jpg"
 	position = "NYU"
 	link = "https://as.nyu.edu/faculty/todd-gureckis.html"
-	show = true
-
+	show = false
 
 +++
