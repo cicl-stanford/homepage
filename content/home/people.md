@@ -53,7 +53,7 @@ weight = 3
 	scholar = "citations?user=Exyxd8YAAAAJ"
 	cv = "dae_houlihan.pdf"
 	website = "https://daeh.info/"
-    description = "I study the cognitive mechanisms of emotional intelligence. I'm interested in how social cognition works, when it’s effective, and what causes it to fail. Did someone say high mountain oolong?"    
+    description = "I study the cognitive mechanisms of emotional intelligence. I'm interested in how social cognition works, when it's effective, and what causes it to fail. Did someone say high mountain oolong?"    
 
 [[member]]
     id = "Can Konuk"
@@ -85,7 +85,7 @@ weight = 3
     position = "Predoc"
     email = "mouras@stanford.edu"
     scholar = "citations?user=BSdwmnUAAAAJ&hl=en"
-    description = "I’m interested in how people infer hidden social rules in unfamiliar contexts and use causal reasoning to predict what might happen next. I'm also fond of the occasional cup of masala chai."
+    description = "I'm interested in how people infer hidden social rules in unfamiliar contexts and use causal reasoning to predict what might happen next. I'm also fond of the occasional cup of masala chai."
 
 [[member]]
     id = "Divya Sundar"
@@ -115,7 +115,17 @@ weight = 3
     twitter = "PuyinLi"
     scholar = "citations?user=w0wjJZ4AAAAJ"
     website = "https://paulineli.github.io/"
-    description = "I am interested in evaluating, improving, and interpreting foundation models’ reasoning abilities as cognitive agents, which spans topics including causality, visual understanding and reasoning, mechanistic interpretability, formal methods, etc."	
+    description = "I am interested in evaluating, improving, and interpreting foundation models' reasoning abilities as cognitive agents, which spans topics including causality, visual understanding and reasoning, mechanistic interpretability, formal methods, etc."	
+
+[[member]]
+    id = "Aniket Vashishtha"
+    position = "CS PhD Rotation Student"
+    email = "aniketvs@stanford.edu"
+	github = "AniketVashishtha"
+    twitter = "AniketVashisht8"
+    scholar = "citations?user=csskfZUAAAAJ"
+    website = "https://aniketvashishtha.github.io/"
+    description = "I'm interested in problems at the intersection of LLMs and causality. My work explores how to improve causal cognition and counterfactual reasoning in large language models, with the goal of making them more safe and robust. I like ginger chai."	
 
 [[member]]
 	id = "Xi Jia (Laura) Zhou"
