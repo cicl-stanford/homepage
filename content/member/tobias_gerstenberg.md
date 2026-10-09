@@ -40,10 +40,10 @@ publication_name = ["T. Gerstenberg", "T. Gerstenberg\\*"]
   institution = "University College London"
   #year = 2009-2013
 
-[[education.courses]]
-  course = "MSc in Cognitive Science, 2007-2008"
-  institution = "University College London"
-  #year = 2007-2008
+# [[education.courses]]
+  # course = "MSc in Cognitive Science, 2007-2008"
+  # institution = "University College London"
+  # #year = 2007-2008
 
 #  [[education.courses]]
   #  course = "Vordiplom in Psychology, 2007"
