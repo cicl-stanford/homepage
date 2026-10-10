@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2026 Tobias Gerstenberg</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Making good decisions with counterfactuals</title>
+      <link>https://cicl.stanford.edu/publication/ma2026making/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://cicl.stanford.edu/publication/ma2026making/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CogGym: Towards large-scale comparative evaluation of human and machine cognition</title>
@@ -132,15 +141,6 @@
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://cicl.stanford.edu/publication/wu2026how/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Responsibility for influencing others</title>
-      <link>https://cicl.stanford.edu/publication/hu2026responsibility/</link>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://cicl.stanford.edu/publication/hu2026responsibility/</guid>
       <description></description>
     </item>
     

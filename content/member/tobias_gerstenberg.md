@@ -23,11 +23,11 @@ publication_name = ["T. Gerstenberg", "T. Gerstenberg\\*"]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Associate Professor in Psychology and Computer Science (by courtesy), 2026-present"
+  course = "Associate Professor of Psychology and Computer Science (by courtesy), 2026-present"
   institution = "Stanford University"
 
 [[education.courses]]
-  course = "Assistant Professor in Psychology, 2018-2026"
+  course = "Assistant Professor of Psychology, 2018-2026"
   institution = "Stanford University"
 
 [[education.courses]]
